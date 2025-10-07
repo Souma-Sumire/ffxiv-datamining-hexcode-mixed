@@ -75,7 +75,7 @@ int32,str,str
 32,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_024","あなたの話が本当ならば、闇の王は再び復活したことになる。
 もしや奴は、人間への復讐を果たすまで、
 何度でも現れるのでしょうか……？"
-33,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_100","高度な土属性魔法を操る、人語を話すマンティコア……。
+33,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_100","高度な土属性魔法を操り、人語を話すマンティコア……。
 私の知る限り、思い当たるのは「麒麟」でしょうか。"
 34,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_101","麒麟は、空の上に浮かぶ古代遺跡トゥー・リアの最奥、
 ル・アビタウ神殿に眠る、人智の及ばぬ強さを秘めた魔物です。"
@@ -93,7 +93,7 @@ int32,str,str
 99999999ギルという価格のバザーも見かけましたね。"
 39,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_106","って……まさに、あなたが装備している「麒麟大袖」の話ですよ！
 いいなぁ、うらやましいなぁ！"
-40,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_107","飛空艇団とともに現れた、二対の兵器……
+40,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_107","飛空艇団とともに現れた、2体の兵器……
 それはおそらく、古代の人々が作りあげたという、
 伝説の機獣「オメガ」と機士「アルテマ」に間違いないでしょう。"
 41,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_108","それを「アルマター機関」が蘇らせたという噂もありますが、

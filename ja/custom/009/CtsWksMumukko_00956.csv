@@ -28,3 +28,7 @@ int32,str,str
 9,"TEXT_CTSWKSMUMUKKO_00956_SYSTEM_000_009","惑星パエンナでムムッコから新たなサブクエストを受注するには、
 焦がれの入江にて発行される、
 2つのサブクエストのコンプリートが必要となります。"
+10,"TEXT_CTSWKSMUMUKKO_00956_MUMUKKO_000_011","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、いかがお過ごしです？
+またお手伝いできそうなときに、話しかけてくださいネ！"
+11,"TEXT_CTSWKSMUMUKKO_00956_MUMUKKO_000_012","ヤ・アデブ議員のご案内、ありがとうございました！
+ささ、ご準備がよろしければお話を伺えますか？"
