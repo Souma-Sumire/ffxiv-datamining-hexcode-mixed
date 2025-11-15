@@ -13,14 +13,14 @@ interface VersionInfo {
 const repos = [
   {
     name: "dumpcsv",
-    owner: "InfSein",
+    owner: "Souma-Sumire",
     repo: "dumpcsv",
     asset: "DumpCsv.zip",
   },
   {
     name: "saintcoinach",
-    owner: "xivapi",
-    repo: "SaintCoinach",
+    owner: "Souma-Sumire",
+    repo: "SaintCoinach-hexcode",
     asset: "SaintCoinach.Cmd.zip",
   },
 ]
