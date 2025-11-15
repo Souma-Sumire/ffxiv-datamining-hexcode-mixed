@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_000_000","私は緊急状況発生時の、人員輸送を担当していてね。<hex:02100103>有事の際はシミュレーションに沿って参加者を募るんだけど、<hex:02100103>まずは、サーチングウェイから話を聞いてみてくれる？"
+1,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_010_000","私はレフレダ、よろしくね。<hex:02100103>緊急状況発生時の、人員輸送を担当しているんだ。"
+2,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_010_010","惑星パエンナは、セントラルクリスタルの制御を以てしても、<hex:02100103>突然の激しい雷や強い冷え込みが起きる過酷な環境だ。<hex:02100103>グラスレインの到来にも注意しなくちゃならない。"
+3,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_010_020","緊急状況が発生したとき、<hex:02100103>問題解決に協力してくれるなら、声をかけてくれるかい？<hex:02100103>緊急ミッションの任務地まで、私が送り届けるからさ。"
+4,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_020_000","よく来てくれたね、緊急状況の発令中だよ！<hex:02100103>緊急ミッションへの参加者を集めてるんだ、<hex:02100103>さっそく、君も現場に向かってくれるかい？"
+5,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_020_010","終了"
+6,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_020_020","どの緊急ミッション任務地へ移動する？"
+7,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_030_000","君たちの協力のおかげで、緊急状況は解除間近、<hex:02100103>現地への追加人員は不要とのことだ。"
+8,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_030_010","君たちの協力のおかげで、緊急状況は解除となった。<hex:02100103>現地への追加人員は不要とのことだ。"
+9,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_030_020","協力の意思に感謝するよ。<hex:02100103>また緊急状況が発生した際には、助力を請わせてくれ。"
+10,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_040_000","おっと……任務地から通達あり！<hex:02100103>発生していた問題については、解決の目処が立ったとのことだ。<hex:02100103>したがって、君が現地に向かう必要はなくなった。"
+11,"TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_040_010","協力の意思に感謝するよ。<hex:02100103>また緊急状況が発生した際には、助力を請わせてくれ。"

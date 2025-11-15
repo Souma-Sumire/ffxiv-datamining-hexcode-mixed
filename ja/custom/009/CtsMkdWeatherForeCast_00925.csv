@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_000","皆さまの冒険のお役に立てるよう、<hex:02100103>この地域の気象の変化を調べています。<hex:02100103>それでは、現在の天気と、今後の予報です。"
+1,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_010","現在、「蜃気楼」が発生中です。"
+2,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_020","なお、「蜃気楼」と呼ばれる天候だけは、<hex:02100103>その発生を予測できませんので、ご注意ください。"
+3,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_030","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>では現在蜃気楼が発生中です。<hex:02100103>蜃気楼の明ける時は読めませんが、<hex:02100103>早めに明ければ<hex:02280DFF08>Weather<hex:E8030203>、長引くと<hex:02280DFF08>Weather<hex:E8040203>となるでしょう。<hex:02100103>その後、<hex:02280DFF08>Weather<hex:E8050203>へと続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+4,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_035","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>では現在蜃気楼が発生中です。<hex:02100103>蜃気楼の明ける時は読めませんが、<hex:02100103>明けると<hex:02280DFF08>Weather<hex:E8030203>となるでしょう。<hex:02100103>その後、<hex:02280DFF08>Weather<hex:E8050203>へと続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+5,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_040","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>では現在蜃気楼が発生中です。<hex:02100103>蜃気楼の明ける時は読めませんが、<hex:02100103>早めに明ければ<hex:02280DFF08>Weather<hex:E8030203>、長引くと<hex:02280DFF08>Weather<hex:E8040203>となるでしょう。<hex:02100103>その後、しばらく<hex:02280DFF08>Weather<hex:E8050203>が続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+6,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_045","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>では現在蜃気楼が発生中です。<hex:02100103>蜃気楼の明ける時は読めませんが、<hex:02100103>明けると<hex:02280DFF08>Weather<hex:E8030203>となるでしょう。<hex:02100103>その後、しばらく<hex:02280DFF08>Weather<hex:E8050203>が続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+7,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_050","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>の現在の天気は<hex:02280DFF08>Weather<hex:E8030203>。<hex:02100103>このあと、<hex:02280DFF08>Weather<hex:E8040203>から<hex:02280DFF08>Weather<hex:E8050203>と続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+8,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_060","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>の現在の天気は<hex:02280DFF08>Weather<hex:E8030203>。<hex:02100103>このあと、しばらく<hex:02280DFF08>Weather<hex:E8040203>が続き、<hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"

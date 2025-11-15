@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000","皆さまの冒険のお役に立てるよう、<hex:02100103>各地の気象の変化を調べています。<hex:02100103>それでは、現在の天気と、今後の予報です。"
+1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>の現在の天気は<hex:02280DFF08>Weather<hex:E8030203>。<hex:02100103>このあと、<hex:020864E4E804E805FF29>しばらく<hex:02280DFF08>Weather<hex:E8040203>が続き、<hex:FF33><hex:02280DFF08>Weather<hex:E8040203>から<hex:02280DFF08>Weather<hex:E8050203>と続き、<hex:03><hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","現在、<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>は乾季の真っ只中……。<hex:02100103>しばらく雨もなく、空を覆うのは、無尽光ばかりでしょう。"
+3,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200","申し訳ございません。<hex:02100103>現在、ノルヴラントの天気予報は休止中です……。"
+4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","申し訳ございません。<hex:02100103>現在、当地域での天気予報は休止中です……。"
+5,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400","申し訳ございません。<hex:02100103>現在、当地域での天気予報は休止中です……。"
+6,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000","こちらは気象観測システムです。<hex:02100103>皆さまのお役に立てるよう、<hex:02100103>今後の気象情報をご提供いたします。"
+7,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>の現在の天気は<hex:02280DFF08>Weather<hex:E8030203>。<hex:02100103>このあと、<hex:020864E4E804E805FF29>しばらく<hex:02280DFF08>Weather<hex:E8040203>が続き、<hex:FF33><hex:02280DFF08>Weather<hex:E8040203>から<hex:02280DFF08>Weather<hex:E8050203>と続き、<hex:03><hex:02100103>明日のこの時間は、<hex:02280DFF08>Weather<hex:E8060203>となるでしょう。"
+8,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100","気象観測実行時に予期せぬエラーが発生したため、<hex:02100103>現在、当該地域の天気予報は休止しております。"

@@ -1,0 +1,25 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM","<hex:022003E80303> <hex:02280AFF05>Item<hex:E8020103>と交換で、<hex:02100103>エントリーチケットを発行できるが、どうする？"
+1,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT","<hex:02280AFF05>Item<hex:E8020103> を <hex:022003E80303>クレジット集めたら、<hex:02100103>エントリーチケットと交換させてもらおう。<hex:02100103>ぜひとも、励んで集めてくれたまえ！"
+2,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_FIRST_TALK","私は搭乗用重機……ローダーの管理者を任じられていてね。<hex:02100103>計画への協力者たちに、ローダーへのパイロット申請で必要となる、<hex:02100103>「エントリーチケット」を発行しているのさ。"
+3,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GET","よし、エントリーチケットを発行しておいたぞ！<hex:02100103>メカオペレーションが発令されたら、<hex:02100103>ぜひパイロットとして申請してくれたまえ！"
+4,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GETED","君はすでに、エントリーチケットを所持しているようだな。<hex:02100103>次のメカオペレーションが発令されたら、<hex:02100103>ぜひパイロットとして申請してくれたまえ！"
+5,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_QUESTION","エントリーチケットを発行してもらう？"
+6,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_QUESTION","どうする？"
+7,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES1","エントリーチケットの発行"
+8,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES2","サポーターとして任務地に向かう"
+9,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES3","サポーターについて"
+10,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES4","キャンセル"
+11,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER1","サポーターとは、ローダー出動時に現場で活動支援をする者だ。<hex:02100103>専用の携行型機器を駆使し、ローダーでは対応できない、<hex:02100103>小さな対象を処理することが主な任務となる。"
+12,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER2","サポーターが任務の過程で集めた資材は、<hex:02100103>任務地の「フィールドサーチャー」に納品して欲しい。<hex:02100103>納品は、フィールドサーチャーに近付けば自動で完了するぞ。"
+13,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK1","現在、メカオペレーションの発令中だ。<hex:02100103>もし、君がサポーターとして参加を希望するなら、<hex:02100103>ここから任務地まで送り届けよう！"
+14,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_QUESTION","サポーターとして、任務地に向かいますか？"
+15,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK2","現在、メカオペレーションは発令されていない。<hex:02100103>もし発令時に、君がサポーターとして参加したくなった際は<hex:02100103>私に声をかけてくれたら、任務地まで送り届けよう。"
+16,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK","おっと……君はまだ計画について説明を受けていないようだね。<hex:02100103>まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
+17,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES5","エントリーチケットの種類について"
+18,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK1","エントリーチケットには、いくつか種類があってな。<hex:02100103>パイロット申請をする際には、<hex:02100103>その探索フィールドに対応したチケットが必要だ。"
+19,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK2","チケットの発行に際しても、<hex:02100103>その探索フィールド用のクレジットが必要となる。<hex:02100103>発行のときは、注意してくれたまえ。"
+20,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W2","おっと……君はまだ、惑星パエンナでの活動について、<hex:02100103>説明を受けていないようだね。<hex:02100103>まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"

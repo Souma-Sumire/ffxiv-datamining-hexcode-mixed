@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE","サポーターからの燃料投入を受付中……。<hex:02100103>現在の出力：[ <hex:022003E80203> ]%……。"
+1,"TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE","フィールドサーチャー、起動準備中…。"
