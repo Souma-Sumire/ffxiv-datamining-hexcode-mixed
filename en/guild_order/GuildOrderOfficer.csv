@@ -1,0 +1,27 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_GUILDORDEROFFICER_MENU_TITLE","What would you like to do?"
+1,"TEXT_GUILDORDEROFFICER_MENU_00","Withdraw self from the operation."
+2,"TEXT_GUILDORDEROFFICER_MENU_01","Withdraw party from the operation."
+3,"TEXT_GUILDORDEROFFICER_MENU_02","Return to duty."
+4,"TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_TITLE","You will be removed from your party. Proceed?"
+5,"TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_YES","Yes"
+6,"TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_NO","No"
+7,"TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_TITLE","Abandon current duty?"
+8,"TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_YES","Yes"
+9,"TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_NO","No"
+10,"TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_TITLE","Are you certain?"
+11,"TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_YES","Absolutely"
+12,"TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_NO","No"
+13,"TEXT_GUILDORDEROFFICER_RET_SUCCESS_SYSTEM_TALK_00","You will leave the instance once all party members have collected their rewards."
+14,"TEXT_GUILDORDEROFFICER_RET_FAIL_SYSTEM_TALK_00","Make room in your inventory and speak with the battlewarden once again to receive your reward."
+15,"TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_TITLE","Leave without your party?"
+16,"TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_YES","Yes"
+17,"TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_NO","No"
+18,"TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_TITLE","You will be removed from the party. Proceed?"
+19,"TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_YES","Yes"
+20,"TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_NO","No"
+21,"TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_00","A bonus has been added to your reward for completing the hest as <hex:0208B0E4E9450BFF15>an <hex:02280EFF09>ClassJob<hex:E9450103><hex:FF94><hex:020890E4E9450FFF15>an <hex:02280EFF09>ClassJob<hex:E9450103><hex:FF74><hex:020870E4E94506FF15>an <hex:02280EFF09>ClassJob<hex:E9450103><hex:FF54><hex:020850E4E9451BFF15>an <hex:02280EFF09>ClassJob<hex:E9450103><hex:FF34><hex:020830E4E94522FF15>an <hex:02280EFF09>ClassJob<hex:E9450103><hex:FF14>a <hex:02280EFF09>ClassJob<hex:E9450103><hex:03><hex:03><hex:03><hex:03><hex:03> for the first time."
+22,"TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_01","<hex:020815E802FF0E>An additional<hex:FF02>A<hex:03> bonus has been added for your party completing the operation <hex:020940E803FF1D>with a minimal number of KOs<hex:FF1E>without suffering a single KO<hex:03>."

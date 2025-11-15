@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGDRA2BANMOGPLATE_00361_Q1_000_000","View the engraving?"
+1,"TEXT_REGDRA2BANMOGPLATE_00361_A1_000_000","Yes."
+2,"TEXT_REGDRA2BANMOGPLATE_00361_A1_000_001","No."
+3,"TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000","(-Engraved Tablet-)<hex:021A020203>Unity and brotherhood, now and forevermore.<hex:021A020103>"
+4,"TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000","(-Engraved Tablet-)<hex:021A020203>Mogzin, <hex:022903EB0203><hex:02100103>Tarresson de Dzemael, Ohl Deeh<hex:02100103>Marinche de Faurechort, Moggon, Gullinbursti<hex:021A020103>"

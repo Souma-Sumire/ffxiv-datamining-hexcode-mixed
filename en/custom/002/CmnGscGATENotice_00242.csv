@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","Greetings, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! Our next scheduled event, “<hex:020997E803FF0C>Cliffhanger<hex:FF09>Vase Off<hex:FF1D>Skinchange We Can Believe In<hex:FF14>The Time of My Life<hex:FF17>Any Way the Wind Blows<hex:FF0E>Leap of Faith<hex:FF0E>Air Force One<hex:FF13>The Slice Is Right<hex:03>,” will be held <hex:020952E804FF16>in Wonder Square East<hex:FF10>in Event Square<hex:FF10>in Round Square<hex:FF15>at the Cactpot Board<hex:03>. All guests are welcome to participate!"
+1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","The next GATE will be held at <hex:020703E80203><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> <hex:020952E804FF16>in Wonder Square East<hex:FF10>in Event Square<hex:FF10>in Round Square<hex:FF15>at the Cactpot Board<hex:03>."
+2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","Greetings, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! If you wish to participate in “<hex:020997E802FF0C>Cliffhanger<hex:FF09>Vase Off<hex:FF1D>Skinchange We Can Believe In<hex:FF14>The Time of My Life<hex:FF17>Any Way the Wind Blows<hex:FF0E>Leap of Faith<hex:FF0E>Air Force One<hex:FF13>The Slice Is Right<hex:03>,” pray make haste to <hex:020946E803FF13>Wonder Square East<hex:FF0D>Event Square<hex:FF0D>Round Square<hex:FF12>the Cactpot Board<hex:03>!"
+3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","Do you wish to participate in this GATE?"
+4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","Yes"
+5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","No"
+6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","Greetings, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! “<hex:020997E802FF0C>Cliffhanger<hex:FF09>Vase Off<hex:FF1D>Skinchange We Can Believe In<hex:FF14>The Time of My Life<hex:FF17>Any Way the Wind Blows<hex:FF0E>Leap of Faith<hex:FF0E>Air Force One<hex:FF13>The Slice Is Right<hex:03>” is currently being held <hex:020952E803FF16>in Wonder Square East<hex:FF10>in Event Square<hex:FF10>in Round Square<hex:FF15>at the Cactpot Board<hex:03>. If you wish to observe, you must go there now, before the event ends!"

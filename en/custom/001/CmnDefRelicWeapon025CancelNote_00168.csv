@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000","...Hm? I can't very well dispose of something you don't have, now, can I?"
+1,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100","...Really? Well, I suppose the moldy old book <hex:021A020203>was<hex:021A020103> bound for the furnace any─errr...I mean, it breaks my heart to see a piece of history treated like so many pages of soiled parchment, but who am I to argue with a customer?"
+2,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010","All progress within <hex:023111FF0A>EventItem<hex:03E802020203> will be lost. Are you certain you wish to proceed?"
+3,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011","Yes"
+4,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012","No"
+5,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050","There. It's done. That particular bit of history will never bother you again. I hope you're happy now."
+6,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055","You throw away a book from the Trials of the Braves."
