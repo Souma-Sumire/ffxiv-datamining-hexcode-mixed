@@ -6,7 +6,8 @@
     "update-unpacker": "ts-node scripts/update-unpacker.ts",
     "unpack:chs": "ts-node scripts/unpack.ts chs",
     "unpack:en": "ts-node scripts/unpack.ts en",
-    "unpack:ja": "ts-node scripts/unpack.ts ja"
+    "unpack:ja": "ts-node scripts/unpack.ts ja",
+    "unpack:tc": "ts-node scripts/unpack.ts tc"
   },
   "dependencies": {
     "adm-zip": "^0.5.16",
