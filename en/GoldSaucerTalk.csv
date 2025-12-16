@@ -491,7 +491,7 @@ int32,byte,byte,bit&01,uint16,byte,uint16,bit&02,uint16,uint16,uint16,uint16,uin
 486,1,0,False,492,2,0,False,0,0,0,0,0,0,0,0,0,0,"Prove victorious in these races and you can win rich rewards...with special bounties awarded for first-time racers.","","","","","","","","","",""
 487,1,7,False,480,2,0,False,0,0,0,0,0,0,0,0,0,0,"That race is unavailable. Your chocobo's rating is too low.","","","","","","","","","",""
 488,1,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,"You have entered <hex:022818FF13>GoldSaucerTextData<hex:E8020103> <hex:02281AFF15>ChocoboRaceChallenge<hex:E8040103>. Please wait in Chocobo Square until summoned.","","","","","","","","","",""
-489,1,0,False,105,2,764,False,0,0,0,0,0,0,0,0,0,0,"Welcome to drawing number <hex:022003E80203> of the Jumbo Cactpot! You can buy up to <hex:022003E80303> more <hex:020816E4E80302FF07>ticket<hex:FF08>tickets<hex:03>","","","","","","","","","",""
+489,1,0,False,105,2,764,False,0,0,0,0,0,0,0,0,0,0,"Welcome to drawing number <hex:022003E80203> of the Jumbo Cactpot! You can buy up to <hex:022003E80303> more <hex:020816E4E80302FF07>ticket<hex:FF08>tickets<hex:03>.","","","","","","","","","",""
 490,2,0,False,0,2,764,False,0,0,0,0,0,0,0,0,0,0,"Buy another ticket?<hex:02100103>It'll cost you <hex:022003E80403> MGP.","Yes","No","","","","","","","",""
 491,2,0,False,0,2,764,True,0,0,0,0,0,0,0,0,0,0,"Claim more prizes?","Yes","No","","","","","","","",""
 492,1,7,False,0,2,0,False,0,0,0,0,0,0,0,0,0,0,"You can register for challenge races at any time by speaking with the race chocobo registrar.","","","","","","","","","",""

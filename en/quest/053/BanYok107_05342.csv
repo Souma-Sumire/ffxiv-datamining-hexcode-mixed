@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANYOK107_05342_SEQ_00","Vuyargur is hoping you are well-versed in crafting winterwear.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+0,"TEXT_BANYOK107_05342_SEQ_00","Vuyargur is hoping you are well versed in crafting winterwear.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
 1,"TEXT_BANYOK107_05342_SEQ_01","Speak with Garharlor."
 2,"TEXT_BANYOK107_05342_SEQ_02","Deliver the requested items to the pleasant Pelupelu."
 3,"TEXT_BANYOK107_05342_SEQ_03","Speak with Vuyargur."

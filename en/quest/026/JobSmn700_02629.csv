@@ -135,7 +135,7 @@ int32,str,str
 130,"TEXT_JOBSMN700_02629_DANCINGWOLF_BATTLETALK_03","Uh, I think we made it angry...<hex:02100103>But that must mean we're winning!"
 131,"TEXT_JOBSMN700_02629_QIB_SUMMONINGSYSTEM_BATTLETALK_03","<buzz> Exterminate hostile entities!<hex:02100103>Ex... Ex... Exterminate!"
 132,"TEXT_JOBSMN700_02629_QIB_PRINCIPIA_BATTLETALK_02","The system has recognized you as a legitimate threat.<hex:02100103>Its primary directive is overridden! It means to destroy you by any means!"
-133,"TEXT_JOBSMN700_02629_QIB_SUMMONINGSYSTEM_BATTLETALK_04","<buzz> <buzz> <beeeeeep><hex:02100103>Exter... <buzz> ...minate..."
+133,"TEXT_JOBSMN700_02629_QIB_SUMMONINGSYSTEM_BATTLETALK_04","<buzz> <buzz> <beeeeeep><hex:02100103>Exter...<buzz>...minate..."
 134,"TEXT_JOBSMN700_02629_QIB_PRINCIPIA_BATTLETALK_03","The machine is out of control!<hex:02100103>One last push, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03>, and victory will be yours!"
 135,"TEXT_JOBSMN700_02629_DANCINGWOLF_BATTLETALK_04","What in the seventh hell!<hex:02100103>We can't fight all of them!"
 136,"TEXT_JOBSMN700_02629_YMHITRA_BATTLETALK_04","Ignore the Sari-egi! Destroy the machine!"
