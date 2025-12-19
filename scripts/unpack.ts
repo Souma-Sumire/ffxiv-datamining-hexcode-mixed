@@ -40,6 +40,9 @@ const unpack = (lang: AvailableLang) => {
     process.exit(1);
   }
 
+  // 清理旧文件
+  fs.rmSync(path.resolve(__dirname, `../${lang}`), { recursive: true, force: true });
+
   const outputPath = `../../${lang}`;
   fs.mkdirSync(outputPath, { recursive: true });
 
