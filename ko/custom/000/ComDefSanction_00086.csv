@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","저는 <hex:020951E802FF19>총사령부 '흑와단'<hex:FF19>총사령부 '쌍사당'<hex:FF19>총사령부 '불멸대'<hex:03>의 마법공병입니다!"
+1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","저는 <hex:020951E802FF19>총사령부 '흑와단'<hex:FF19>총사령부 '쌍사당'<hex:FF19>총사령부 '불멸대'<hex:03>의 마법공병입니다!<hex:02100103>계급이 원사 이상인 분들에게 '강화 승인'을 해드리고 있습니다!"
+2,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00","어떻게 하시겠습니까?"
+3,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01","'강화 승인' 받기"
+4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","'강화 승인'에 대해서 묻기"
+5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","취소"
+6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","위대한 제작의 신 비레고시여……<hex:02100103><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03> <hex:022903EB0203> 님에게 가호를 내려주시옵소서……."
+7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","이것으로 '강화 승인'이 완료되었습니다!<hex:02100103><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03> <hex:022903EB0203> 님의 무운을 빌겠습니다!"
+8,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016","강화 승인이란 <hex:02095AE802FF1C>총사령부 '흑와단'이<hex:FF1C>총사령부 '쌍사당'이<hex:FF1C>총사령부 '불멸대'가<hex:03><hex:02100103>'에오르제아 도시군사동맹'에 가입한 도시와<hex:02100103>공동으로 개발한 장비 강화술입니다."
+9,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017","제조 단계에서 '특수한 마법 가공'을 해둔 장비에<hex:02100103>특정 강화마법을 걸어주면 일시적으로<hex:02100103>장비의 강도 및 특성이 상승하게 됩니다."
+10,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018","우리 <hex:02092AE802FF0C>'흑와단'<hex:FF0C>'쌍사당'<hex:FF0C>'불멸대'<hex:03>에서는 이러한 장비를 지속적으로 생산하고 있습니다.<hex:02100103>계급이 원사 이상인 분이라면 군표를 내고 장비를 받으실 수 있습니다."

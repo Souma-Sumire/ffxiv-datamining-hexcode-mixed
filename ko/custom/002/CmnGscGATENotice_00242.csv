@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","'<hex:02094FE804FF18>신비의 광장 동쪽<hex:FF11>이벤트 광장<hex:FF0E>원형 광장<hex:FF11>복권 추첨소<hex:03>'에서 골드 소서가 주최하는<hex:02100103><hex:0209F2011CE803FF28>'구해라! 꼬마 친구 구조대'가<hex:FF21>'달려라! 랍토르 운수'가<hex:FF21>'찾아라! 변신 능력자'가<hex:FF21>'춤춰라! 댄스 마스터'가<hex:FF21>'버텨라! 콧바람 폭풍'이<hex:FF21>'뛰어라! 점핑 운동회'가<hex:FF24>'출격! 에어포스 조종사'가<hex:FF21>'피해라! 참마 삼매경'이<hex:03> 개최될 예정입니다.<hex:02100103>많은 참가 부탁드립니다!"
+1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","다음 '돌발 게임'은 (현실 시간) <hex:020703E80203><hex:020814E0DB0DFF07>오후<hex:FF07>오전<hex:03> <hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0102030405060708090A0B0C03><hex:0103>시 <hex:022402DA03>분에<hex:02100103>'<hex:02094FE804FF18>신비의 광장 동쪽<hex:FF11>이벤트 광장<hex:FF0E>원형 광장<hex:FF11>복권 추첨소<hex:03>'에서 개최됩니다.<hex:02100103>현장에 나타난 인물에게 말을 걸어 참가하세요!"
+2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","현재 <hex:0209F2011CE802FF28>'구해라! 꼬마 친구 구조대'가<hex:FF21>'달려라! 랍토르 운수'가<hex:FF21>'찾아라! 변신 능력자'가<hex:FF21>'춤춰라! 댄스 마스터'가<hex:FF21>'버텨라! 콧바람 폭풍'이<hex:FF21>'뛰어라! 점핑 운동회'가<hex:FF24>'출격! 에어포스 조종사'가<hex:FF21>'피해라! 참마 삼매경'이<hex:03><hex:02100103>'<hex:02094FE803FF18>신비의 광장 동쪽<hex:FF11>이벤트 광장<hex:FF0E>원형 광장<hex:FF11>복권 추첨소<hex:03>'에서 참가 접수 중입니다.<hex:02100103>많은 참가 부탁드립니다!"
+3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","개최 장소로 안내해 드릴까요?"
+4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","예"
+5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","아니요"
+6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","현재 <hex:0209F2011CE802FF28>'구해라! 꼬마 친구 구조대'가<hex:FF21>'달려라! 랍토르 운수'가<hex:FF21>'찾아라! 변신 능력자'가<hex:FF21>'춤춰라! 댄스 마스터'가<hex:FF21>'버텨라! 콧바람 폭풍'이<hex:FF21>'뛰어라! 점핑 운동회'가<hex:FF24>'출격! 에어포스 조종사'가<hex:FF21>'피해라! 참마 삼매경'이<hex:03><hex:02100103>'<hex:02094FE803FF18>신비의 광장 동쪽<hex:FF11>이벤트 광장<hex:FF0E>원형 광장<hex:FF11>복권 추첨소<hex:03>'에서 진행되고 있습니다.<hex:02100103>많은 관람 부탁드립니다!"

@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_000","여러분의 모험에 도움을 드릴 수 있도록<hex:02100103>이 지역의 기상 변화를 조사하고 있습니다.<hex:02100103>그럼 현재의 날씨와 앞으로의 예보를 말씀드리겠습니다."
+1,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_010","현재 '신기루'가 발생 중입니다."
+2,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_020","참고로 '신기루'라 불리는 기후는<hex:02100103>발생을 예측할 수 없으니 주의하세요."
+3,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_030","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>에서는 현재 신기루가 발생 중입니다.<hex:02100103>신기루가 언제 걷힐지는 알 수 없지만,<hex:02100103>일찍 걷힌다면 <hex:02280DFF08>Weather<hex:E8030203>, 늦게 걷힌다면 <hex:02280DFF08>Weather<hex:E8040203>.<hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."
+4,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_035","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>에서는 현재 신기루가 발생 중입니다.<hex:02100103>신기루가 언제 걷힐지는 알 수 없지만,<hex:02100103>걷히고 나면 <hex:02280DFF08>Weather<hex:E8030203>.<hex:02100103>그 후 <hex:02280DFF08>Weather<hex:E8050203><hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."
+5,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_040","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>에서는 현재 신기루가 발생 중입니다.<hex:02100103>신기루가 언제 걷힐지는 알 수 없지만,<hex:02100103>일찍 걷힌다면 <hex:02280DFF08>Weather<hex:E8030203>, 늦게 걷힌다면 <hex:02280DFF08>Weather<hex:E8040203>.<hex:02100103>그 후 한동안 <hex:02280DFF08>Weather<hex:E8050203><hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."
+6,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_045","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>에서는 현재 신기루가 발생 중입니다.<hex:02100103>신기루가 언제 걷힐지는 알 수 없지만,<hex:02100103>걷히고 나면 <hex:02280DFF08>Weather<hex:E8030203>.<hex:02100103>그 후 한동안 <hex:02280DFF08>Weather<hex:E8050203><hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."
+7,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_050","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>의 현재 날씨는 '<hex:02280DFF08>Weather<hex:E8030203>'입니다.<hex:02100103>이 시간 이후로 <hex:02280DFF08>Weather<hex:E8040203> <hex:02280DFF08>Weather<hex:E8050203><hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."
+8,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_060","<hex:02282CFF11>WeatherPlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>의 현재 날씨는 '<hex:02280DFF08>Weather<hex:E8030203>'입니다.<hex:02100103>이 시간 이후로 한동안 <hex:02280DFF08>Weather<hex:E8040203><hex:02100103>내일 이 시간에는 <hex:02280DFF08>Weather<hex:E8060203>."

@@ -1,0 +1,21 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_000","이곳은 카드 대결을 즐기는 사람들의 성역, 카드 광장……<hex:02100103>게임에 대한 상세한 내용은 이곳 안쪽에 있는<hex:02100103>'트리플 트라이어드 마스터'에게 말을 걸어 주세요!"
+1,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_001","카드 광장에 어서 오세요!<hex:02100103>공식 토너먼트 참가에 대해서는 여기서 안내해 드립니다!"
+2,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_002","공식 토너먼트 개최 중!"
+3,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_003","공식 토너먼트는 접수 기간이 아닙니다.<hex:02100103>다음 개최 기간: <hex:020851E1E80201FF25><hex:022003E80203>시간<hex:020812E1E80302FF0A><hex:022003E80303>분<hex:FF01><hex:03>후<hex:FF25><hex:020821E1E80302FF0E><hex:022003E80303>분 후<hex:FF0C>1분 이내<hex:03><hex:03>"
+4,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_000","'참가 등록' 하기"
+5,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_001","'공식 토너먼트 개최 일정' 확인하기"
+6,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_002","트리플 트라이어드 '토너먼트'의 상세 내용 확인하기"
+7,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_003","취소"
+8,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_005","'공식 토너먼트'에 참가하시겠습니까?<hex:02100103><hex:02100103>현재는 기본 규칙 토너먼트를 개최 중입니다.<hex:02100103>대전 규칙은 '카드 선발'만 설정되어 있습니다.<hex:02100103><hex:02100103>숫자의 크기와 배치 방법과 같은 간단한 요소로 겨루는<hex:02100103>트리플 트라이어드의 기본적인 플레이를 즐기실 수 있습니다."
+9,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_105","'공식 토너먼트'에 참가하시겠습니까?<hex:02100103><hex:02100103>현재는 강화 규칙 토너먼트를 개최 중입니다.<hex:02100103>대전 규칙은 '카드 선발'과 함께 다음과 같은 추가 규칙이 적용됩니다.<hex:02100103>・<hex:022815FF10>TripleTriadRule<hex:E8020103><hex:02100103><hex:020828E1E80301FF20>・<hex:022815FF10>TripleTriadRule<hex:E8030103><hex:02100103><hex:FF01><hex:03><hex:020828E1E80401FF20>・<hex:022815FF10>TripleTriadRule<hex:E8040103><hex:02100103><hex:FF01><hex:03><hex:020824E1E80501FF1C>・<hex:022815FF10>TripleTriadRule<hex:E8050103><hex:FF01><hex:03>"
+10,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_006","죄송합니다!<hex:02100103>접수 시간이 지나서 입장이 마감되었습니다……!<hex:02100103>다음 개최 때 참가해 주시길 바랍니다."
+11,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_007","죄송합니다.<hex:02100103>현재 공식 토너먼트는 개최 시간이 아닙니다. "
+12,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_008","토너먼트 개최 시간이 되면 접수를 하므로<hex:02100103>저에게 다시 말을 걸어 주세요!<hex:02100103>개최 일정도 안내해 드립니다."
+13,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_009","공식 토너먼트 참가자분께는<hex:02100103>최종적인 순위에 따라 보상을 드리고 있으니<hex:02100103>짐 정리를 부탁드립니다."
+14,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_010","소지품에 공간이 부족하여 토너먼트에 참가할 수 없습니다.<hex:02100103>정리를 한 뒤 공식 토너먼트 접수원에게 말을 거세요."
+15,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_000","（★未使用／削除予定★）"
+16,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_001","（★未使用／削除予定★）"
