@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_HOUFURVASE_00336_Q1_000_000","On display: <hex:02280AFF05>Item<hex:E8020A03>"
+1,"TEXT_HOUFURVASE_00336_Q1_000_001","On display: Nothing"
+2,"TEXT_HOUFURVASE_00336_A1_000_002","Display Flowers"
+3,"TEXT_HOUFURVASE_00336_A1_000_003","Remove Flowers"
+4,"TEXT_HOUFURVASE_00336_A1_000_004","Quit"
+5,"TEXT_HOUFURVASE_00336_Q2_000_000","<hex:022B12FF10><hex:02310CFF05>Item<hex:03E802020203><hex:03> will be discarded if removed from the vase. Are you certain you wish to proceed?"
+6,"TEXT_HOUFURVASE_00336_Q2_000_001","Yes"
+7,"TEXT_HOUFURVASE_00336_Q2_000_002","No"

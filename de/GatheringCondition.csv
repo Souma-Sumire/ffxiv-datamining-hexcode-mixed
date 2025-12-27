@@ -1,0 +1,25 @@
+﻿key,0
+#,Text
+offset,0
+int32,str
+0,""
+1,"Chain ≥ #<hex:022003E80203>"
+2,"STR ≥ <hex:022003E80203>"
+3,"DEX ≥ <hex:022003E80203>"
+4,"VIT ≥ <hex:022003E80203>"
+5,"INT ≥ <hex:022003E80203>"
+6,"MND ≥ <hex:022003E80203>"
+7,"PIE ≥ <hex:022003E80203>"
+8,"<hex:0212023903> ≥ <hex:022003E80203>"
+9,"<hex:0212023A03> ≥ <hex:022003E80203>"
+10,"<hex:0212023B03> ≥ <hex:022003E80203>"
+11,"<hex:0212023C03> ≥ <hex:022003E80203>"
+12,"<hex:0212023D03> ≥ <hex:022003E80203>"
+13,"<hex:0212023E03> ≥ <hex:022003E80203>"
+14,"Gathering ≥ <hex:022003E80203>"
+15,"Perception ≥ <hex:022003E80203>"
+16,"Gathering < <hex:022003E80203>"
+17,"Perception <hex:02080BE803FF04>≥<hex:FF02><<hex:03> <hex:022003E80203>"
+18,"<hex:02280CFF07>Status<hex:E8020103> Required"
+19,"Max GP ≥ <hex:022003E80203>"
+20,"<hex:02280AFF05>Item<hex:E8020A03> <hex:020819E803FF09>Equipped<hex:FF0B>Unequipped<hex:03>"

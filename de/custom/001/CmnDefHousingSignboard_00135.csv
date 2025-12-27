@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1","In order to purchase a plot of land privately, you must have at least one class at level 50."
+1,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2","Furthermore, you must hold a rank of second lieutenant or above in one of the Grand Companies."
+2,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED","At present, Shirogane is open for display only. Land sales will commence at a later time."
+3,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY","In order to purhase a plot in Shirogane, you must first complete the main scenario quest “Not without Incident.”"
+4,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED","At present, Empyreum is open for display only. Land sales will commence at a later time."
+5,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY","In order to purchase a plot in Empyreum, you must first complete the main scenario quest “Litany of Peace.”"
+6,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED","You have submitted a lottery entry for plot <hex:022003E80403>, ward <hex:022003E80303>, <hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>. Your lottery number is <hex:022003E80503>. Results will be available from <hex:020703E80603><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>."
+7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2","The status of your lottery entry can be confirmed at any time via the <hex:024804F201F403><hex:024904F201F503>Estate<hex:0249020103><hex:0248020103> tab of the <hex:024804F201F403><hex:024904F201F503>Timers<hex:0249020103><hex:0248020103> interface located under <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> in the main menu."
+8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","Unable to claim refund. You cannot carry any more gil."
+9,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE","You have submitted a lottery entry for a different plot. Please confirm the status of your lottery entry by accessing the same placard by which you entered the lottery.<hex:02100103><hex:02100103>Pending Entry:<hex:02100103>Plot <hex:022003E80403>, Ward <hex:022003E80303>, <hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>"
+10,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK","Accept"

@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE","Submit additional items?"
+1,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0","Yes."
+2,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1","No, complete the current order."
+3,"TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2","Decide later."
+4,"TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM","You do not have enough items."
+5,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE","Complete the current order without submitting additional items?"
+6,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES","Yes"
+7,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO","No"
+8,"TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD","The delivery included <hex:020892E4E80202FF15>one or more HQ items<hex:FF76><hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> types of HQ items<hex:03>. Your reward has been increased by <hex:022003E80303>%."

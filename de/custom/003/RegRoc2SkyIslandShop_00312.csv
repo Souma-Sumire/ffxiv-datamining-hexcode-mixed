@@ -1,0 +1,25 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000","Will you be registering for the next mission? If so, you will need to submit proof of purchase for a tank of ceruleum."
+1,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010","...Ah, a thousand pardons, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. Due to the dangers our parties often face on these expeditions, we can accept only the most experienced individuals."
+2,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011","In order to embark upon an Ishgardian exploratory mission, you and your party must meet the following requirements:"
+3,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012","※You must have completed the main scenario quest “Heavensward.”"
+4,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013","You must be a level 60 Disciple of War or Magic."
+5,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014","To review your quest progression, select <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> from the main menu, followed by <hex:024804F201F403><hex:024904F201F503>Journal<hex:0249020103><hex:0248020103>."
+6,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020","Wait─have you spoken with Lord Aurvael yet? I thought not. It would be best if you did so first."
+7,"TEXT_REGROC2SKYISLANDSHOP_00312_Q1_000_000","What would you like to do?"
+8,"TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_001","Purchase <hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> <hex:02310DFF05>Item<hex:04E802E8030203> for <hex:022206E804FF022C03> gil."
+9,"TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_002","Nothing."
+10,"TEXT_REGROC2SKYISLANDSHOP_00312_Q2_000_000","Purchase <hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> of the following for <hex:022206E804FF022C03> gil?"
+11,"TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_001","Yes"
+12,"TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_002","No"
+13,"TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_000",""
+14,"TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_001",""
+15,"TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_002",""
+16,"TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_YES",""
+17,"TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_NO",""
+18,"TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_000",""
+19,"TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_010",""
+20,"TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_020",""

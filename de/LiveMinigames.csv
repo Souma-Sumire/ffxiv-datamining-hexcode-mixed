@@ -1,0 +1,6 @@
+﻿key,0,1,2,3,4
+#,,,,,
+offset,0,4,8,16,12
+int32,str,uint32,uint32,bit&01,uint32
+0,"",0,0,False,0
+1,"",1,1,False,1

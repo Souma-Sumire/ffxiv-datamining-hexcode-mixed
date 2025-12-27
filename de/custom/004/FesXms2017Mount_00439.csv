@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000","As you have no doubt noticed, the Starlight Celebration is in full swing. Would you like to join the festivities? Amh Garanjy is in Gridania looking for more little helpers!"
+1,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010","You can leave trussing up the treants and recovering the stolen decorations to us. All you need to do is ride <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> and give those thieves a face full of starburst!"
+2,"TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020","Would you like to hunt down some more decoration-pinching treants? <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03> is ready to go!"
+3,"TEXT_FESXMS2017MOUNT_00439_Q1_000_000","Mount <hex:020968E948FF07>Kochab<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Pferkad<hex:FF07>Kochab<hex:FF08>Polaris<hex:FF18><hex:020814E905FF07>Kochab<hex:FF08>Polaris<hex:03><hex:FF08>Polaris<hex:FF07>Kochab<hex:03>? "
+4,"TEXT_FESXMS2017MOUNT_00439_TALK_ACTOR",""
+5,"TEXT_FESXMS2017MOUNT_00439_A1_000_001",""
+6,"TEXT_FESXMS2017MOUNT_00439_A1_000_002",""

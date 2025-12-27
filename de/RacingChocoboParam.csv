@@ -1,0 +1,9 @@
+﻿key,0
+#,Name
+offset,0
+int32,str
+0,"Maximum Speed"
+1,"Acceleration"
+2,"Endurance"
+3,"Stamina"
+4,"Cunning"

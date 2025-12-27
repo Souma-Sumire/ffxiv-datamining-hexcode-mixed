@@ -1,0 +1,9 @@
+﻿key,0,1,2,3
+#,Name,Description,Icon,Order
+offset,0,4,8,12
+int32,str,str,Image,sbyte
+0,"","",0,0
+1,"Group Pose","Perform a group pose, repeating the last executed emote or action on loop. Camera position, lighting, and color filter can be all be adjusted in the command settings.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Text Command: <hex:0249020103><hex:0248020103>/grouppose<hex:02100103><hex:024804F201F403><hex:024904F201F503>Key Mapping: <hex:0249020103><hex:0248020103> Available",651,1
+2,"Idling Camera","Enable the idling camera. While active, the idling camera will randomly toggle between nearby PCs and NPCs. Executing the command with a PC or NPC targeted will center the camera on that target. Camera position, lighting, and color filter can be all be adjusted in the command settings.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Text Command: <hex:0249020103><hex:0248020103>/idlingcamera<hex:02100103><hex:024804F201F403><hex:024904F201F503>Key Mapping: <hex:0249020103><hex:0248020103> Available",652,2
+3,"Alarm","Enable alarm. Alarms can be set to go off while in game and are deleted upon logout.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Text Command: <hex:0249020103><hex:0248020103>/alarm<hex:02100103><hex:024804F201F403><hex:024904F201F503>Key Mapping: <hex:0249020103><hex:0248020103> Available",654,3
+4,"Command Panel","Displays the Command Panel.<hex:02100103>Freely register various actions and commands including mounts, minions, emotes, and gear sets for easy access and execution.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Text Command: <hex:0249020103><hex:0248020103>/commandpanel<hex:02100103><hex:024804F201F403><hex:024904F201F503>Key Mapping: <hex:0249020103><hex:0248020103> Available",655,4

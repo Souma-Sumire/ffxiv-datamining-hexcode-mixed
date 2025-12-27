@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000","So ends an alternate chapter in their tale.<hex:02100103>What lessons, dear listener, might we derive from this Dragonsong reimagined?"
+1,"TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001","Be it that of man or dragon, all life is precious,<hex:02100103>and the loss of loved ones shall ever darken the hearts of those left behind."
+2,"TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001","Yet death is not the end of what was wrought.<hex:02100103>The memories forged, the affection shared, the hope inherited..."
+3,"TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002","Such things grant us the strength to walk unto the morrow,<hex:02100103>and there is no greater proof of this than the Warrior of Light's journey."
+4,"TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002","From the fantastical works of a wandering minstrel<hex:02100103><hex:021A020203>Heavensward: A Reimagining<hex:021A020103>"

@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_000","It appears to be a researcher's personal data tablet."
+1,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_010","Skim through the entries?"
+2,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_020","(-Journal Entry #1-)<hex:021A020203>Today I began my employment at Preservation. The organization was unfamiliar to me, but when the recruitment letter arrived, I had a gut feeling that this work would be far more fulfilling than any orthodox medical practice.<hex:021A020103>"
+3,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_021","(-Journal Entry #2-)<hex:021A020203>My instincts were correct. Master Calyx's philosophy is the refined ideal of notions I've only ever vaguely entertained: that mankind must evolve beyond the shackles of its flesh-and-blood existence.<hex:021A020103>"
+4,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_022","(-Journal Entry #4-)<hex:021A020203>I had a meeting with Director Demetrius today. I've heard others praise his genius intellect, yet he seems but a guttering candle in comparison to Master Calyx's blinding brilliance.<hex:021A020103>"
+5,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_023","(-Journal Entry #9-)<hex:021A020203>This morning I was permitted to access the top floor and observe the workings of Living Memory. As predicted, the shortage of aether required to sustain the Endless is reaching critical levels, yet “Queen Sphene” insists on continuing her ineffectual flailing.<hex:021A020103>"
+6,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_024","(-Journal Entry #14-)<hex:021A020203>Our Milalla colleagues, including the protolab chief, have been behaving in a decidedly suspicious manner of late. Should I report my concerns to the director?<hex:021A020103>"
+7,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_025","(-Journal Entry #18-)<hex:021A020203>From tomorrow, I have been assigned to assist with the research project in the deuterolab. We are scheduled to conduct a major experiment, the details of which I have been kept ignorant... It would seem prudent to back up my memory data.<hex:021A020103>"
+8,"TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_026","You have reached the end of the journal entries..."

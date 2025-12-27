@@ -1,0 +1,10 @@
+﻿key,0,1,2
+#,Rare Material,,Area
+offset,2,3,0
+int32,MJIItemPouch,byte,MJIText
+0,27,0,1
+1,28,1,2
+2,29,2,3
+3,30,3,4
+4,31,4,5
+5,83,5,6

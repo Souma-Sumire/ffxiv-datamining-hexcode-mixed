@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000","For a limited time, you can relive this event via the Seasonal Event Replay feature."
+1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","Do you wish to replay the event?"
+2,"TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002","If you proceed, the following quest(s) will be rendered incomplete:<hex:02100103>  <hex:02280BFF06>Quest<hex:E8020103><hex:02100103><hex:02081DE4E80301FF01><hex:FF15>  <hex:02280BFF06>Quest<hex:E8030103><hex:02100103><hex:03><hex:02081DE4E80401FF01><hex:FF15>  <hex:02280BFF06>Quest<hex:E8040103><hex:02100103><hex:03><hex:02089AE4E80501FF01><hex:FF92>The following NPC(s) will become unavailable for trade until you have completed the requisite quest again:<hex:02100103>  <hex:022D1AFF18023114FF0D454E70635265736964656E7403E80502020303><hex:02100103><hex:03><hex:02082CE4E80601FF01><hex:FF24>  <hex:022D1AFF18023114FF0D454E70635265736964656E7403E80602020303><hex:02100103><hex:03>Please ensure that you have sufficient time, and be advised that you will not receive quest rewards via this feature.<hex:02100103><hex:02100103>"
+3,"TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003","Proceed with Seasonal Event Replay."
+4,"TEXT_FESBKCRECOMPLETE_00716_TALK_ACTOR","To be deleted."

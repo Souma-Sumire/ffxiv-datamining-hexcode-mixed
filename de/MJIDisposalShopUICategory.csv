@@ -1,0 +1,8 @@
+﻿key,0
+#,Category
+offset,0
+int32,str
+0,"Materials"
+1,"Rare Materials"
+2,"Produce"
+3,"Leavings"

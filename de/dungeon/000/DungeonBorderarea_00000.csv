@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000","These <hex:021A020203>savages<hex:021A020103> bested our vanguard? Impressive..."
+1,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001","But in the end, they are only that─savages.<hex:02100103>Now, let us be brief. His Radiance awaits."
+2,"TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010","We have served our purpose. Come, we shall withdraw for now. "
