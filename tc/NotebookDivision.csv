@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,,AllowedCraftTypes[5],,SecretRecipeBookGroups[0],SecretRecipeBookGroups[1],AllowedCraftTypes[0],AllowedCraftTypes[1],AllowedCraftTypes[2],AllowedCraftTypes[3],AllowedCraftTypes[4]
+#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,MinimumQuestSequence,AllowedCraftTypes[5],,SecretRecipeBookGroups[0],SecretRecipeBookGroups[1],AllowedCraftTypes[0],AllowedCraftTypes[1],AllowedCraftTypes[2],AllowedCraftTypes[3],AllowedCraftTypes[4]
 offset,0,8,9,10,4,11,20,12,13,14,15,16,17,18,19
 Int32,String,UInt8,UInt8,UInt8,UInt32,UInt8,PackedBool0,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool
 0,"1-5",0,0,0,0,0,False,True,True,True,True,True,True,True,True
@@ -106,7 +106,7 @@ Int32,String,UInt8,UInt8,UInt8,UInt32,UInt8,PackedBool0,Bool,Bool,Bool,Bool,Bool
 1060,"珠串萬貨街交易",4,90,255,70518,90,False,False,False,False,False,False,False,True,True
 1061,"秘笈：第11卷",1,100,255,0,88,True,True,True,True,True,True,True,True,True
 1062,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
-1063,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1063,"尼托維凱",6,90,255,70775,1,False,True,True,True,True,True,True,True,True
 1064,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1065,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"庫爾札斯",10,255,50,0,12,False,True,True,True,True,True,True,True,True

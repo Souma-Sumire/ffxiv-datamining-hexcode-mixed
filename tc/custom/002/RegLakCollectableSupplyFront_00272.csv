@@ -15,7 +15,7 @@ Int32,String,String
 10,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_002","但是，這部分費用我們會用本商會獨有的貨幣……<hex:02100103>巧手工票、大地工票來進行交付，敬請諒解。"
 11,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_003","可以透過50級以上的交易獲取巧手工票和大地工票。"
 12,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_010","所謂「收藏品」，就是指收藏家們渴望收藏的物品。<hex:02100103>我們會以收藏價值來判斷這些物品的價值，<hex:02100103>以評估這些收藏品能多大程度滿足那些挑剔的收藏家們。"
-13,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_011","不過，正是因為這些收藏品是面向特定收藏家的，<hex:02100103>所以無法進行Gil交易，也無法作為製作材料使用。<hex:02100103>畢竟這些東西都是以收藏為目的存在的。"
+13,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_011","不過，正是因為這些收藏品是給特定收藏家的，<hex:02100103>所以無法進行Gil交易，也無法作為製作材料使用。<hex:02100103>畢竟這些東西都是以收藏為目的存在的。"
 14,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_015","巧手工票和大地工票只能在羅薇娜商會使用，<hex:02100103>是我們商會獨有的貨幣。"
 15,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_LYDIRLONA_000_016","用工票交換的物品都是一些很罕見的東西，<hex:02100103>所以一定可以滿足您的需求。<hex:02100103>請您找工票交易員，多多利用。"
 16,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_017","所持的工票數等詳細情報可以從「貨幣一覽」的「其他」中確認。"

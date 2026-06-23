@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000","這裡面向參加飛空艇探索的冒險者出售「雲海探索用青磷水兌換券」！<hex:02100103>這在搭乘前往雲冠群島的飛空艇時是不可或缺的。"
+0,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000","這裡為參加飛空艇探索的冒險者出售「雲海探索用青磷水兌換券」！<hex:02100103>這在搭乘前往雲冠群島的飛空艇時是不可或缺的。"
 1,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010","不過……雲冠群島是危險的暗礁空域。<hex:02100103>如果沒有相對應的實力，或許都無法活著回來。<hex:02100103>請你過段時間再來吧。"
 2,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011","要開始「雲冠群島探索」需要滿足以下條件。"
 3,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012","1.完成「蒼天伊修加爾德主線任務」中的「蒼天伊修加爾德」。"
