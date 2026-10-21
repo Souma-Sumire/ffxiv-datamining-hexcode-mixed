@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Param0,Param1,Param2,Type,,,,,,,
+#,Type,Param0,Param1,Param2,Param3,Param4,Param5,,,,
 offset,24,0,4,8,12,16,20,28,28,28,28
 Int32,Int32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,PackedBool0,PackedBool1,PackedBool2,PackedBool3
 0,1,0,0,0,0,0,0,False,False,False,False

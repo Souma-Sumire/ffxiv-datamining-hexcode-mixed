@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
-#,Pet,Classification,ParamGrow,SatietyMax,Icon,Action,LocationKey,Location,Description,TrickDescription,TemperedDescription,InflictsStatus[0],InflictsStatus[1],InflictsStatus[2],InflictsStatus[3],InflictsStatus[4],InflictsStatus[5],InflictsStatus[6],InflictsStatus[7],InflictsStatus[8],InflictsStatus[9],InflictsStatus[10],,,,,
+#,Pet,Classification,ParamGrow,SatietyMax,Icon,Action,LocationKey,Location,Description,TrickDescription,TemperedDescription,InflictsSlow,InflictsPetrify,InflictsParalysis,InflictsInterrupt,InflictsBlind,InflictsPoison,InflictsStun,InflictsSleep,InflictsBind,InflictsHeavy,InflictsDeath,,,,,
 offset,16,24,25,26,12,20,27,22,0,4,8,33,34,35,36,37,38,39,40,41,42,43,28,29,30,31,32
 Int32,Int32,UInt8,UInt8,UInt8,UInt32,UInt16,UInt8,UInt16,String,String,String,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,UInt8,UInt8,UInt8,UInt8,UInt8
 0,0,0,0,1,0,0,0,0,"","","",False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0
