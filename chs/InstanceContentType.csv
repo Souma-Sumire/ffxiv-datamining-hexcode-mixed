@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,,LookupIndex,,StartLogMessage,,,,SupportsPartyMemberPortraits,
+#,IsCompletable,LookupIndex,,StartLogMessage,,,,SupportsPartyMemberPortraits,
 offset,5,4,5,0,5,5,5,5,5
 Int32,PackedBool0,UInt8,PackedBool1,UInt32,PackedBool2,PackedBool3,PackedBool4,PackedBool5,PackedBool6
 0,False,0,False,0,True,True,True,False,False
