@@ -3792,7 +3792,7 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 3787,38,"Schaurig-schöne Harmonie","Den Auftrag „Saures für die Imps“ abgeschlossen.",0,0,10,0,0,255,255,0,59548,1,6,70912,0,0,0,0,0,0,0,0,149,1,0
 3788,38,"Kinderpunsch-Überraschung","Den Auftrag „Ausschank zum Sternenlichtfest“ abgeschlossen.",0,0,10,0,0,255,255,0,26435,1,6,70767,0,0,0,0,0,0,0,0,150,1,0
 3789,38,"Eine Extraportion Liebe","Den Auftrag „Die Süßwarenkrise“ abgeschlossen.",0,0,10,0,0,255,255,0,53544,1,6,70861,0,0,0,0,0,0,0,0,152,1,0
-3790,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3790,38,"Ein wunderschönes Träumelein","Den Auftrag „Die Traumtauschbörse“ abgeschlossen.",0,0,10,0,0,255,255,0,59963,1,6,70913,0,0,0,0,0,0,0,0,200,1,0
 3791,69,"Phaenna-Erkundungsmeister","Alle Stellarmissionen auf Phaenna mit der höchsten Wertung abgeschlossen.",46,100,20,810,0,255,255,0,64875,1,1,1271,1,0,0,0,0,0,0,0,2501,1,0
 3792,82,"Kosmo-Werkzeug: Weltraum-Säge","Eine Weltraum-Säge erlangt.",0,0,10,0,0,255,255,0,39014,1,1,1272,1,0,0,0,0,0,0,0,101,1,0
 3793,82,"Kosmo-Werkzeug: Weltraum-Kreuzschlaghammer","Einen Weltraum-Kreuz<hex:02160103>schlag<hex:02160103>ham<hex:02160103>mer erlangt.",0,0,10,0,0,255,255,0,39113,1,1,1273,1,0,0,0,0,0,0,0,201,1,0
@@ -4055,9 +4055,9 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 4050,1,"Legende des Bretts IV","Das Erste Meisterbrett der Bestie mit der Wertung „Legendär“ abgeschlossen.",0,0,10,0,0,255,255,0,3923,1,1,1436,1,0,0,0,0,0,0,0,1637,1,0
 4051,1,"Meister des Bretts V","Das Zweite Meisterbrett der Bestie mit der Wertung „Meisterlich“ oder höher abgeschlossen.",0,0,5,0,0,255,255,0,3923,1,1,1437,1,0,0,0,0,0,0,0,1638,1,0
 4052,1,"Legende des Bretts V","Das Zweite Meisterbrett der Bestie mit der Wertung „Legendär“ abgeschlossen.",0,0,10,0,0,255,255,0,3923,1,1,1438,1,0,0,0,0,0,0,0,1639,1,0
-4053,1,"Meisterlicher Bändiger","Sämtliche Bretter der Bestie mit der Wertung „Meisterlich“ oder höher abgeschlossen.",64,50,5,877,0,255,255,0,3924,1,26,71,5,0,0,0,0,0,0,0,1640,1,0
-4054,1,"Legendärer Bändiger","Sämtliche Bretter der Bestie mit der Wertung „Legendär“ abgeschlossen.",64,50,10,891,0,255,255,0,3924,1,26,72,5,0,0,0,0,0,0,0,1641,1,0
-4055,1,"Bestialischer Bändiger","Sämtliche Bretter der Bestie mit der Wertung „Bestialisch“ abgeschlossen.",64,50,20,892,0,255,255,0,3927,1,26,73,5,0,0,0,0,0,0,0,1642,1,0
+4053,1,"Meisterlicher Bändiger","Die ersten drei Bretter der Bestie und die ersten zwei Meisterbretter der Bestie mit der Wertung „Meisterlich“ oder höher abgeschlossen.",64,50,5,877,0,255,255,0,3924,1,26,71,5,0,0,0,0,0,0,0,1640,1,0
+4054,1,"Legendärer Bändiger","Die ersten drei Bretter der Bestie und die ersten zwei Meisterbretter der Bestie mit der Wertung „Legendär“ abgeschlossen.",64,50,10,891,0,255,255,0,3924,1,26,72,5,0,0,0,0,0,0,0,1641,1,0
+4055,1,"Bestialischer Bändiger","Die ersten drei Bretter der Bestie und die ersten zwei Meisterbretter der Bestie auf „Bestialisch III“ abgeschlossen.",64,50,20,892,0,255,255,0,3927,1,26,73,5,0,0,0,0,0,0,0,1642,1,0
 4056,1,"Sie gehorchen aufs Wort I","10 verschiedene Bestien auf Rang 25 gebracht.",0,0,5,0,0,255,255,0,3906,1,1,1447,10,0,0,0,0,0,0,0,1661,1,0
 4057,1,"Sie gehorchen aufs Wort II","20 verschiedene Bestien auf Rang 25 gebracht.",0,0,5,0,0,255,255,0,3906,1,1,1447,20,0,0,0,0,0,0,0,1662,1,0
 4058,1,"Sie gehorchen aufs Wort III","30 verschiedene Bestien auf Rang 25 gebracht.",0,0,5,0,0,255,255,0,3906,1,1,1447,30,0,0,0,0,0,0,0,1663,1,0

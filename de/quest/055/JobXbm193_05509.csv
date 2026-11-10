@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_JOBXBM193_05509_TODO_22",""
 47,"TEXT_JOBXBM193_05509_TODO_23",""
 48,"TEXT_JOBXBM193_05509_SYSTEM_100_000","Um diesen Auftrag spielen zu können, müssen die folgenden Bedingungen erfüllt sein:"
-49,"TEXT_JOBXBM193_05509_SYSTEM_110_000","1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<hex:02100103>2. Der aktuelle Job ist Bestienbändiger.3. Das Zweite Meisterbrett der Bestie wurde abgeschlossen."
+49,"TEXT_JOBXBM193_05509_SYSTEM_110_000","1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<hex:02100103>2. Der aktuelle Job ist Bestienbändiger.<hex:02100103>3. Das Zweite Meisterbrett der Bestie wurde abgeschlossen."
 50,"TEXT_JOBXBM193_05509_SYLMOND_000_001","Ich hab ja gleich gesagt, dass du es schaffst, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Eine meisterliche Leistung auf dem meisterlichsten aller Bretter!"
 51,"TEXT_JOBXBM193_05509_SYLMOND_000_002","Diesmal scheint die Niederlage besonders Guttler getroffen zu haben. Lauda meinte, er hätte sie pausenlos gefragt, wie sie ihre Bande weiter festigen könnten, und sie hätte ihm glockenlang gut zureden müssen, bis er sich endlich wieder beruhigt hat."
 52,"TEXT_JOBXBM193_05509_SYLMOND_000_003","Aber das nur am Rande. Denn ich habe noch eine Überraschung für dich: und zwar neue Schwie<hex:02160103>rig<hex:02160103>keits<hex:02160103>grade für die Bretter der Bestie."
