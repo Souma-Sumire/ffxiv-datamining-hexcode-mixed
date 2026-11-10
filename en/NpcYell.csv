@@ -18856,7 +18856,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"Your time ends now!",0
 18852,0,False,False,False,2,0,0,0,3,False,False,1,25,"Barooom!",0
 18853,0,False,False,False,2,0,0,0,3,False,False,1,25,"<skitter> <flitter>",0
-18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18854,0,False,False,False,2,0,0,0,3,False,False,1,25,"Mrum, mrum!",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"Caw! Caw!",0
 18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"I shall remain at your side!",0
 18857,0,False,False,False,2,0,0,0,3,False,False,1,25,"<whoosh>",0
