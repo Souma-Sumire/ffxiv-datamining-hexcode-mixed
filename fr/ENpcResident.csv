@@ -54249,15 +54249,15 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,PackedBool0
 1054238,"",0,"",0,0,1,0,0,"",4,False
 1054239,"habitant à l'attitude étrange",0,"habitants à l'attitude étrange",0,0,1,0,0,"",4,False
 1054240,"",0,"",0,0,1,0,0,"",4,False
-1054241,"",0,"",0,0,0,0,0,"",0,False
-1054242,"",0,"",0,0,0,0,0,"",0,False
-1054243,"",0,"",0,0,0,0,0,"",0,False
-1054244,"",0,"",0,0,0,0,0,"",0,False
-1054245,"",0,"",0,0,0,0,0,"",0,False
+1054241,"Mugen",0,"Mugen",0,0,1,0,1,"",4,False
+1054242,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",4,False
+1054243,"pêcheur inexpérimenté",0,"pêcheurs inexpérimentés",0,0,1,0,0,"",4,False
+1054244,"chef de cuisine",0,"chefs de cuisine",0,0,1,1,0,"",4,False
+1054245,"marchand de vin",0,"marchand de vin",0,0,1,0,0,"",4,False
 1054246,"",0,"",0,0,1,0,0,"",4,False
-1054247,"",0,"",0,0,0,0,0,"",0,False
-1054248,"",0,"",0,0,0,0,0,"",0,False
-1054249,"",0,"",0,0,0,0,0,"",0,False
+1054247,"",0,"",0,0,1,0,0,"",4,False
+1054248,"",0,"",0,0,1,0,0,"",4,False
+1054249,"",0,"",0,0,1,0,0,"",4,False
 1054250,"Aenc Daen",0,"Aenc Daen",0,1,1,0,1,"",4,False
 1054251,"Ose Wyd",0,"Ose Wyd",0,1,1,1,1,"",4,False
 1054252,"Vanthau",0,"Vanthau",0,0,1,0,1,"",4,False
@@ -54686,51 +54686,51 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,PackedBool0
 1054675,"rorrlo teh",0,"rorrlo teh",0,0,1,0,0,"",3,False
 1054676,"Garharlor",0,"Garharlor",0,0,1,0,1,"",3,False
 1054677,"déblayeur yok huy",0,"déblayeurs yok huy",0,0,1,0,0,"",3,False
-1054678,"",0,"",0,0,0,0,0,"",0,False
-1054679,"",0,"",0,0,0,0,0,"",0,False
-1054680,"",0,"",0,0,0,0,0,"",0,False
-1054681,"",0,"",0,0,0,0,0,"",0,False
-1054682,"",0,"",0,0,0,0,0,"",0,False
-1054683,"",0,"",0,0,0,0,0,"",0,False
-1054684,"",0,"",0,0,0,0,0,"",0,False
-1054685,"",0,"",0,0,0,0,0,"",0,False
-1054686,"",0,"",0,0,0,0,0,"",0,False
-1054687,"",0,"",0,0,0,0,0,"",0,False
-1054688,"",0,"",0,0,0,0,0,"",0,False
-1054689,"",0,"",0,0,0,0,0,"",0,False
-1054690,"",0,"",0,0,0,0,0,"",0,False
-1054691,"",0,"",0,0,0,0,0,"",0,False
-1054692,"",0,"",0,0,0,0,0,"",0,False
-1054693,"",0,"",0,0,0,0,0,"",0,False
-1054694,"",0,"",0,0,0,0,0,"",0,False
-1054695,"",0,"",0,0,0,0,0,"",0,False
-1054696,"",0,"",0,0,0,0,0,"",0,False
-1054697,"",0,"",0,0,0,0,0,"",0,False
-1054698,"",0,"",0,0,0,0,0,"",0,False
-1054699,"",0,"",0,0,0,0,0,"",0,False
-1054700,"",0,"",0,0,0,0,0,"",0,False
-1054701,"",0,"",0,0,0,0,0,"",0,False
-1054702,"",0,"",0,0,0,0,0,"",0,False
-1054703,"",0,"",0,0,0,0,0,"",0,False
-1054704,"",0,"",0,0,0,0,0,"",0,False
-1054705,"",0,"",0,0,0,0,0,"",0,False
-1054706,"",0,"",0,0,0,0,0,"",0,False
-1054707,"",0,"",0,0,0,0,0,"",0,False
-1054708,"",0,"",0,0,0,0,0,"",0,False
-1054709,"",0,"",0,0,0,0,0,"",0,False
-1054710,"",0,"",0,0,0,0,0,"",0,False
-1054711,"",0,"",0,0,0,0,0,"",0,False
-1054712,"",0,"",0,0,0,0,0,"",0,False
-1054713,"",0,"",0,0,0,0,0,"",0,False
-1054714,"",0,"",0,0,0,0,0,"",0,False
-1054715,"",0,"",0,0,0,0,0,"",0,False
-1054716,"",0,"",0,0,0,0,0,"",0,False
-1054717,"",0,"",0,0,0,0,0,"",0,False
-1054718,"",0,"",0,0,0,0,0,"",0,False
-1054719,"",0,"",0,0,0,0,0,"",0,False
-1054720,"",0,"",0,0,0,0,0,"",0,False
-1054721,"",0,"",0,0,0,0,0,"",0,False
-1054722,"",0,"",0,0,0,0,0,"",0,False
+1054678,"divinateur oriental",0,"divinateurs orientaux",0,0,1,0,0,"",3,True
+1054679,"maréchale des moutons",0,"maréchales des moutons",0,0,1,1,0,"",3,False
+1054680,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1054681,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",5,False
+1054682,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1054683,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",3,False
+1054684,"pêcheur inexpérimenté",0,"pêcheurs inexpérimentés",0,0,1,0,0,"",3,False
+1054685,"chef de cuisine",0,"chefs de cuisine",0,0,1,1,0,"",3,False
+1054686,"marchand de vin",0,"marchand de vin",0,0,1,0,0,"",3,False
+1054687,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1054688,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",3,False
+1054689,"maréchale des moutons",0,"maréchales des moutons",0,0,1,1,0,"",3,False
+1054690,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1054691,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",3,False
+1054692,"",0,"",0,0,1,0,0,"",5,False
+1054693,"",0,"",0,0,1,0,0,"",5,False
+1054694,"troqueur de rêves",0,"troqueurs de rêves",0,0,1,0,0,"",3,False
+1054695,"",0,"",0,0,1,0,0,"",3,False
+1054696,"",0,"",0,0,1,0,0,"",3,False
+1054697,"maréchale des moutons",0,"maréchales des moutons",0,0,1,1,0,"",3,False
+1054698,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1054699,"",0,"",0,0,1,0,0,"",5,False
+1054700,"",0,"",0,0,1,0,0,"",5,False
+1054701,"",0,"",0,0,1,0,0,"",5,False
+1054702,"Beaudefoin",0,"Beaudefoin",0,0,1,0,1,"",3,False
+1054703,"Hildelana",0,"Hildelana",0,0,1,1,1,"",3,False
+1054704,"lapine au pelage rutilant",0,"lapines au pelage rutilant",0,0,1,1,0,"",3,False
+1054705,"Senri",0,"Senri",0,0,1,0,1,"",3,False
+1054706,"Seigetsu",0,"Seigetsu",0,0,1,0,1,"",3,False
+1054707,"Gyoshin",0,"Gyoshin",0,0,1,0,1,"",3,False
+1054708,"Gyorei",0,"Gyorei",0,0,1,1,1,"",3,False
+1054709,"",0,"",0,0,1,0,0,"",5,False
+1054710,"",0,"",0,0,1,0,0,"",5,False
+1054711,"",0,"",0,0,1,0,0,"",5,False
+1054712,"Retsarra",0,"Retsarra",0,0,1,0,1,"",3,False
+1054713,"Brute Bomber",0,"Brute Bomber",0,0,1,0,1,"",3,False
+1054714,"Sugar Riot",0,"Sugar Riot",0,0,1,1,1,"",3,False
+1054715,"",0,"",0,0,1,0,0,"",5,False
+1054716,"",0,"",0,0,1,0,0,"",5,False
+1054717,"marchande des moutons",0,"marchandes des moutons",0,0,1,1,0,"Saisonnière",3,True
+1054718,"marchande des moutons",0,"marchandes des moutons",0,0,1,1,0,"Saisonnière",3,True
+1054719,"marchande des moutons",0,"marchandes des moutons",0,0,1,1,0,"Saisonnière",3,True
+1054720,"marchande des moutons",0,"marchandes des moutons",0,0,1,1,0,"",3,True
+1054721,"marchand des moutons",0,"marchands des moutons",0,0,1,0,0,"",3,True
+1054722,"marchand des moutons",0,"marchands des moutons",0,0,1,0,0,"",3,True
 1054723,"",0,"",0,0,1,0,0,"",5,False
 1054724,"",0,"",0,0,1,0,0,"",5,False
 1054725,"Emilie",0,"Emilie",0,1,1,1,1,"",3,False
@@ -55075,8 +55075,8 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,PackedBool0
 1055064,"",0,"",0,0,0,0,0,"",0,False
 1055065,"",0,"",0,0,0,0,0,"",0,False
 1055066,"",0,"",0,0,0,0,0,"",0,False
-1055067,"",0,"",0,0,0,0,0,"",0,False
-1055068,"",0,"",0,0,0,0,0,"",0,False
+1055067,"",0,"",0,0,1,0,0,"",5,False
+1055068,"",0,"",0,0,1,0,0,"",5,False
 1055069,"",0,"",0,0,1,0,0,"",5,False
 1055070,"",0,"",0,0,1,0,0,"",5,False
 1055071,"",0,"",0,0,1,0,0,"",5,False
@@ -55126,9 +55126,9 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,PackedBool0
 1055115,"",0,"",0,0,0,0,0,"",0,False
 1055116,"",0,"",0,0,0,0,0,"",0,False
 1055117,"",0,"",0,0,0,0,0,"",0,False
-1055118,"",0,"",0,0,0,0,0,"",0,False
-1055119,"",0,"",0,0,0,0,0,"",0,False
-1055120,"",0,"",0,0,0,0,0,"",0,False
+1055118,"Mugen",0,"Mugen",0,0,1,0,1,"",3,False
+1055119,"Sugar Riot",0,"Sugar Riot",0,0,1,1,1,"",3,False
+1055120,"Sugar Riot",0,"Sugar Riot",0,0,1,1,1,"",3,False
 1055121,"distillateur yok huy",0,"distillateurs yok huy",0,0,1,0,0,"",3,False
 1055122,"Fahrafahr",0,"Fahrafahr",0,0,1,1,1,"",3,False
 1055123,"Hildibrut",0,"Hildibrut",0,0,1,0,1,"",3,False
