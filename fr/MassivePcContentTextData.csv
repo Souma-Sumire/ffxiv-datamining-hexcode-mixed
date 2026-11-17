@@ -26,7 +26,7 @@ Int32,String
 120,"Accomplissez des missions cosmiques"
 121,"<hex:022B12FF10><hex:02330CFF05>Item<hex:0DE802020203><hex:03> <hex:020821FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF08>obtenue<hex:FF07>obtenu<hex:03> par éthérolyse"
 122,"<hex:022B12FF10><hex:02330CFF05>Item<hex:0DE802020203><hex:03> <hex:020821FF0E><hex:02280AFF05>Item<hex:E8020703><hex:FF08>obtenue<hex:FF07>obtenu<hex:03>"
-123,"Cumul de <hex:022F12FF1002280CFF07537461747573E802010303>"
+123,"Cumul de <hex:022F12FF10><hex:02280CFF07>Status<hex:E8020103><hex:03>"
 124,"Nombre de chaînes actuel"
 125,"Multiplicateur d'évaluation actuel<hex:021D0103>: <hex:022003E80203>%"
 126,"[Bonus d'objectif]"

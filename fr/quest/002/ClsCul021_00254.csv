@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CLSCUL021_00254_SEQ_00","Lyngsath voudrait vous tester avec un petit exercice de cuisine. Équipez-vous de la poêle qu'il vous a remise et parlez-lui."
-1,"TEXT_CLSCUL021_00254_SEQ_01","Le chef Lyngsath vous a demandé de lui préparer <hex:02330DFF05>Item<hex:02F212F1020203>. Pour ce faire, vous aurez besoin de <hex:022F17FF15022811FF054974656DFF08E38080353439380A0303> ainsi que d'un éclat de feu. Le maître queux vous a fait savoir, qu'au besoin, vous pourrez vous procurer les ingrédients nécessaires auprès de Jossy, au comptoir de la guilde."
+1,"TEXT_CLSCUL021_00254_SEQ_01","Le chef Lyngsath vous a demandé de lui préparer <hex:02330DFF05>Item<hex:02F212F1020203>. Pour ce faire, vous aurez besoin de <hex:022F17FF15><hex:022811FF05>Item<hex:FF08>　5498<hex:0A03><hex:03> ainsi que d'un éclat de feu. Le maître queux vous a fait savoir, qu'au besoin, vous pourrez vous procurer les ingrédients nécessaires auprès de Jossy, au comptoir de la guilde."
 2,"TEXT_CLSCUL021_00254_SEQ_02","Lyngsath s'est dit satisfait de la qualité du <hex:02330DFF05>Item<hex:0DF212F1020203> que vous lui avez remis. Le maître de guilde vous a encouragé<hex:020808E905FF02>e<hex:FF01><hex:03> à poursuivre votre ap<hex:02160103>pren<hex:02160103>tis<hex:02160103>sage des gestes de base et à revenir le voir lorsque vous aurez acquis suf<hex:02160103>fi<hex:02160103>sam<hex:02160103>ment d'expérience.<hex:02100103>* Lyngsath propose la prochaine quête aux cuisiniers de niveau 5."
 3,"TEXT_CLSCUL021_00254_SEQ_03",""
 4,"TEXT_CLSCUL021_00254_SEQ_04",""
@@ -57,7 +57,7 @@ Int32,String,String
 52,"TEXT_CLSCUL021_00254_LYNGSATH_000_5","... Non<hex:021D0103>!? Mais qu'est-ce qu'on vous apprend à l'école<hex:021D0103>!? Écoute-moi bien. Tu prends de la sève d'érable, tu la portes à ébullition à l'aide d'un éclat de feu, tu touilles, tu touilles, et quand le tout est bien homogène, tu transvases le liquide obtenu dans un récipient."
 53,"TEXT_CLSCUL021_00254_LYNGSATH_000_6","C'est tellement simple que même le Gobelin qui fait la plonge pourrait y arriver<hex:021D0103>!"
 54,"TEXT_CLSCUL021_00254_LYNGSATH_000_7","Ah<hex:021D0103>! Si jamais tu n'as pas de sève d'érable sur toi, sache que tu peux t'en procurer auprès de Jossy, au comptoir de la guilde. Allez, au boulot maintenant<hex:021D0103>!"
-55,"TEXT_CLSCUL021_00254_SYSTEM_000_11","Fabriquez <hex:02330DFF05>Item<hex:02F212F1020203> à partir de <hex:022F17FF15022811FF054974656DFF08E38080353439380A0303> et d'un éclat de feu."
+55,"TEXT_CLSCUL021_00254_SYSTEM_000_11","Fabriquez <hex:02330DFF05>Item<hex:02F212F1020203> à partir de <hex:022F17FF15><hex:022811FF05>Item<hex:FF08>　5498<hex:0A03><hex:03> et d'un éclat de feu."
 56,"TEXT_CLSCUL021_00254_SYSTEM_000_12","Pour cela, sélectionnez l'option Carnets dans le menu principal et ouvrez le Carnet d'artisanat."
 57,"TEXT_CLSCUL021_00254_LYNGSATH_000_21","T'as compris ou tu veux que je te dessine la recette<hex:021D0103>? Alors, qu'est-ce que t'attends pour t'y mettre<hex:021D0103>!?"
 58,"TEXT_CLSCUL021_00254_LYNGSATH_000_31","Bien, goûtons voir un peu..."

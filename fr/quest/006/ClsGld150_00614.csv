@@ -3,8 +3,8 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CLSGLD150_00614_SEQ_00","Serendipity, de la guilde des orfèvres, a un travail à vous confier."
-1,"TEXT_CLSGLD150_00614_SEQ_01","Confectionnez des <hex:022F11FF0F02280BFF054974656DF2106C0A0303> et <hex:02330DFF05>Item<hex:02F210D5020203> et montrez-les à Serendipity."
-2,"TEXT_CLSGLD150_00614_SEQ_02","Livrez des <hex:022F11FF0F02280BFF054974656DF2106C0A0303> et <hex:02330DFF05>Item<hex:03F210D5020203> à Robert, qui attend devant la guilde."
+1,"TEXT_CLSGLD150_00614_SEQ_01","Confectionnez des <hex:022F11FF0F><hex:02280BFF05>Item<hex:F2106C0A03><hex:03> et <hex:02330DFF05>Item<hex:02F210D5020203> et montrez-les à Serendipity."
+2,"TEXT_CLSGLD150_00614_SEQ_02","Livrez des <hex:022F11FF0F><hex:02280BFF05>Item<hex:F2106C0A03><hex:03> et <hex:02330DFF05>Item<hex:03F210D5020203> à Robert, qui attend devant la guilde."
 3,"TEXT_CLSGLD150_00614_SEQ_03","Vous avez pu livrer sa commande à Robert. À présent, retournez voir Serendipity à la guilde des orfèvres."
 4,"TEXT_CLSGLD150_00614_SEQ_04","Vous avez pu satisfaire une nouvelle commande. Continuez votre perfectionnement en vue d'un nouveau défi à venir.<hex:02100103>* Serendipity propose la prochaine quête aux orfèvres de niveau 20."
 5,"TEXT_CLSGLD150_00614_SEQ_05",""
@@ -56,7 +56,7 @@ Int32,String,String
 51,"TEXT_CLSGLD150_00614_SERENDIPITY_000_4","Vous vous souvenez de Robert, le casque d'argent qui nous a passé commande de boucles de cuivre, l'autre jour<hex:021D0103>?"
 52,"TEXT_CLSGLD150_00614_SERENDIPITY_000_5","Cette fois, il voudrait qu'on lui livre <hex:02330DFF05>Item<hex:02F2106C020203> et <hex:02330DFF05>Item<hex:02F210D5020203>. Est-ce que vous pourriez vous en charger<hex:021D0103>?"
 53,"TEXT_CLSGLD150_00614_SERENDIPITY_000_6","Vous viendrez me montrer les deux pièces avant livraison, d'accord<hex:021D0103>? Je compte sur vous<hex:021D0103>!"
-54,"TEXT_CLSGLD150_00614_SERENDIPITY_000_7","Ah<hex:021D0103>! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, c'est vous<hex:021D0103>!! Alors, vous vous en êtes sorti<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>? Vous avez réussi à fabriquer les <hex:022F11FF0F02280BFF054974656DF2106C0A0303> et <hex:02330DFF05>Item<hex:03F210D5020203><hex:021D0103>?"
+54,"TEXT_CLSGLD150_00614_SERENDIPITY_000_7","Ah<hex:021D0103>! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, c'est vous<hex:021D0103>!! Alors, vous vous en êtes sorti<hex:020808E905FF02>e<hex:FF01><hex:03><hex:021D0103>? Vous avez réussi à fabriquer les <hex:022F11FF0F><hex:02280BFF05>Item<hex:F2106C0A03><hex:03> et <hex:02330DFF05>Item<hex:03F210D5020203><hex:021D0103>?"
 55,"TEXT_CLSGLD150_00614_SERENDIPITY_000_8","Oh, quelle merveille<hex:021D0103>! Des objets simples, mais finement ouvragés<hex:021D0103>! C'est une réussite, et je pèse mes mots<hex:021D0103>!"
 56,"TEXT_CLSGLD150_00614_GIGI_000_9","Dzi-zz... Dz-zz-zi...<hex:02100103>Du joli travail<hex:021D0103>! Mieux que la platitude des créations que je vois d'habitude<hex:021D0103>!"
 57,"TEXT_CLSGLD150_00614_GIGI_000_10","En parlant de platitude, Seren en connaît un rayon. On se demande si elle a une puberté tardive<hex:021D0103>!"
@@ -66,7 +66,7 @@ Int32,String,String
 61,"TEXT_CLSGLD150_00614_SERENDIPITY_000_14","Le laiton, ou cuivre jaune, est un métal très courant. Mais selon la manière dont il est raffiné et travaillé, il peut luire au point de ressembler à de l'or."
 62,"TEXT_CLSGLD150_00614_SERENDIPITY_000_15","Ces deux objets sont finement réalisés et élégants, c'est du bel ouvrage. Je suis certaine que notre client sera encore très satisfait<hex:021D0103>!"
 63,"TEXT_CLSGLD150_00614_SERENDIPITY_000_16","Robert attend sur l'esplanade devant la guilde. Allez donc lui livrer le fruit de votre labeur<hex:021D0103>!"
-64,"TEXT_CLSGLD150_00614_ROBERT_000_17","Ah, vous voilà<hex:021D0103>! Vous avez les <hex:022F11FF0F02280BFF054974656DF2106C0A0303> et <hex:02330DFF05>Item<hex:03F210D5020203><hex:021D0103>?"
+64,"TEXT_CLSGLD150_00614_ROBERT_000_17","Ah, vous voilà<hex:021D0103>! Vous avez les <hex:022F11FF0F><hex:02280BFF05>Item<hex:F2106C0A03><hex:03> et <hex:02330DFF05>Item<hex:03F210D5020203><hex:021D0103>?"
 65,"TEXT_CLSGLD150_00614_ROBERT_000_18","Ah, quel ouvrage magnifique<hex:021D0103>! J'ai bien fait de m'adresser à la guilde des orfèvres<hex:021D0103>!"
 66,"TEXT_CLSGLD150_00614_ROBERT_000_19","Mademoiselle Seren, en plus d'être d'une nature exquise, est dotée d'un grand talent<hex:021D0103>! Après tout, elle a été nommée maître de guilde malgré son jeune âge... Quand je pense qu'elle a con<hex:02160103>fec<hex:02160103>tion<hex:02160103>né elle-même ces objets, de ses mains, en y mettant tout son cœur..."
 67,"TEXT_CLSGLD150_00614_ROBERT_000_20","... Quoi<hex:021D0103>? C'est vous qui les avez fabriqués<hex:021D0103>!? Je vois que cette guilde réunit décidément beaucoup de jeunes talents en son sein<hex:021D0103>! Même si je suis un peu déçu de penser que ce ne sont pas les délicates mains de ma<hex:02160103>de<hex:02160103>moi<hex:02160103>sel<hex:02160103>le Seren qui ont façonné ces objets..."

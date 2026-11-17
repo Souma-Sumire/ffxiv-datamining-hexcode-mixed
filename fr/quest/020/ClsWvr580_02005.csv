@@ -65,7 +65,7 @@ Int32,String,String
 60,"TEXT_CLSWVR580_02005_AVERIL_000_041","... Quoi<hex:021D0103>!? Une robe d'ecclésiastique<hex:021D0103>? Mais c'est beaucoup trop difficile pour moi<hex:021D0103>!"
 61,"TEXT_CLSWVR580_02005_AVERIL_000_042","Hmm, ma mère doit se douter de quelque chose... Elle veut m'enfermer à la maison en me donnant un ouvrage impossible à terminer."
 62,"TEXT_CLSWVR580_02005_AVERIL_000_043","Vous, vous en seriez capable, mais comme ma mère l'a dit, elle s'en rendrait tout de suite compte. Il faut que je le fasse moi-même..."
-63,"TEXT_CLSWVR580_02005_AVERIL_000_044","Et il y a aussi le problème du <hex:022F11FF0F02280BFF054974656DF231340A0303>. On n'en trouve pas facilement à Ishgard..."
+63,"TEXT_CLSWVR580_02005_AVERIL_000_044","Et il y a aussi le problème du <hex:022F11FF0F><hex:02280BFF05>Item<hex:F231340A03><hex:03>. On n'en trouve pas facilement à Ishgard..."
 64,"TEXT_CLSWVR580_02005_AVERIL_000_045","Pourriez-vous m'aider encore une fois, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:021D0103>? Si vous pouviez me fournir trois <hex:02330DFF05>Item<hex:0DF23134030203> de haute qualité, alors peut-être que j'arriverai à fabriquer cette robe d'ecclésiastique..."
 65,"TEXT_CLSWVR580_02005_AVERIL_000_050","（★未使用／削除予定★）"
 66,"TEXT_CLSWVR580_02005_AVERIL_000_060","J'aimerais vraiment rabattre le caquet de ma mère en réussissant à con<hex:02160103>fec<hex:02160103>tion<hex:02160103>ner la robe d'ecclésiastique qu'elle me demande. Mais pour ça, il me faut <hex:02330DFF05>Item<hex:02F23134030203> de haute qualité."

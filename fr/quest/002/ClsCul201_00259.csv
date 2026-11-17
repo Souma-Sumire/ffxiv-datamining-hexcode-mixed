@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CLSCUL201_00259_SEQ_00","Lyngsath semble préoccupé par l'état de santé d'un membre de la guilde."
-1,"TEXT_CLSCUL201_00259_SEQ_01","Lyngsath vous a appris que Diving Dove était atteinte du scorbut, mais qu'elle refusait de prendre les congés nécessaires à sa guérison car elle était trop absorbée par son travail. Le maître de guilde vous a demandé de lui préparer <hex:02330DFF05>Item<hex:02F2127A020203> pour pallier sa carence en vitamine C. Il vous a dit que vous pourrez vous procurer les <hex:022F17FF15022811FF054974656DFF08E38080343831320A0303> nécessaires à leur élaboration en Haute-Noscea, ou par l'intermédiaire des tableaux des ventes, à la Camelotade."
+1,"TEXT_CLSCUL201_00259_SEQ_01","Lyngsath vous a appris que Diving Dove était atteinte du scorbut, mais qu'elle refusait de prendre les congés nécessaires à sa guérison car elle était trop absorbée par son travail. Le maître de guilde vous a demandé de lui préparer <hex:02330DFF05>Item<hex:02F2127A020203> pour pallier sa carence en vitamine C. Il vous a dit que vous pourrez vous procurer les <hex:022F17FF15><hex:022811FF05>Item<hex:FF08>　4812<hex:0A03><hex:03> nécessaires à leur élaboration en Haute-Noscea, ou par l'intermédiaire des tableaux des ventes, à la Camelotade."
 2,"TEXT_CLSCUL201_00259_SEQ_02","Le plan du chef Lyngsath a fonctionné à merveille. Diving Dove s'est délectée de vos pruneaux et semble bien décidée à s'en préparer une bonne quantité pour guérir son affection. Touchée par la délicate attention du maître de guilde, elle a promis de prendre plus soin de sa santé à l'avenir.<hex:02100103>* Lyngsath propose la prochaine quête aux cuisiniers de niveau 25."
 3,"TEXT_CLSCUL201_00259_SEQ_03",""
 4,"TEXT_CLSCUL201_00259_SEQ_04",""
@@ -63,7 +63,7 @@ Int32,String,String
 58,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_12","Des prunes sylphes<hex:021D0103>!? Ça alors, je n'aurais jamais deviné<hex:021D0103>! C'est incroyable, on ne ressent pas du tout l'acidité du fruit."
 59,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_13","On peut faire disparaître leur amertume en les faisant sécher, tu dis<hex:021D0103>?"
 60,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_14","J'ignorais l'existence de ce procédé... C'est intéressant."
-61,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_15","Il se trouve que les <hex:022F17FF15022811FF054974656DFF08E38080343831320A0303> sont un excellent remède contre le scorbut."
+61,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_15","Il se trouve que les <hex:022F17FF15><hex:022811FF05>Item<hex:FF08>　4812<hex:0A03><hex:03> sont un excellent remède contre le scorbut."
 62,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_16","Je crois que je vais me préparer un bocal de pruneaux dès que mon dodo sera cuit. De cette façon, je pourrai combler ma carence en vitamine C tout en continuant de travailler. Quelle idée de génie<hex:021D0103>!"
 63,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_17","Quoi<hex:021D0103>? C'est le chef Lyngsath qui t'a demandé de me donner ces pruneaux<hex:021D0103>!?"
 64,"TEXT_CLSCUL201_00259_DIVINGDOVE_000_18","Je comprends mieux maintenant... C'est très ingénieux de sa part, je dois l'avouer. Je suis tellement absorbée par mon travail que je néglige facilement mon ali<hex:02160103>men<hex:02160103>ta<hex:02160103>tion... et ma santé."
