@@ -66,7 +66,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 61,0,False,False,False,3,0,0,0,5,False,False,1,25,"Enough! You've done well today.",0
 62,0,False,False,False,3,0,0,0,5,False,False,1,25,"There are too many of them!",0
 63,0,False,False,False,3,0,0,0,5,False,False,1,25,"Tonight we shall poach the poachers!",0
-64,0,False,False,False,3,0,0,0,5,False,False,1,25,"Are the resources of the city–state so thinly stretched that they must send adventurers to do their dirty work?",0
+64,0,False,False,False,3,0,0,0,5,False,False,1,25,"Are the resources of the city<hex:021F0103>state so thinly stretched that they must send adventurers to do their dirty work?",0
 65,0,False,False,False,3,0,0,0,5,False,False,1,25,"Damn you all! The forest is not yours to claim!",0
 66,0,False,False,False,3,0,0,0,5,False,False,1,25,"Lustyeye uplanders seek goodgobbies' gobbiepack goodies?",0
 67,0,False,False,False,3,0,0,0,3,False,False,1,25,"Gobbiepack! Gobbiepack!",0
@@ -9726,10 +9726,10 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 9721,0,False,False,False,4,0,0,0,1,False,False,4,25,"We make for the Lancers' Guild! Come one, come all!",0
 9722,0,False,False,False,2,0,0,0,4,False,False,1,25,"And we're off!",0
 9723,0,False,False,False,2,0,0,0,4,False,False,1,25,"Spriggans!? Why does it always have to be spriggans...",0
-9724,0,False,False,False,2,0,0,0,4,False,False,1,25,"Show some spirit! It's Hatching–tide, after all!",0
+9724,0,False,False,False,2,0,0,0,4,False,False,1,25,"Show some spirit! It's Hatching<hex:021F0103>tide, after all!",0
 9725,0,False,False,False,2,0,0,0,4,False,False,1,25,"Anythin' to drum up business...",0
 9726,0,False,False,False,2,0,0,0,4,False,False,1,25,"What does a bloke have to do to get a bleedin' drink around here!?",0
-9727,0,False,False,False,4,0,0,0,1,False,False,4,25,"Don't forget the children! Share the gift of Hatching–tide with one and all!",0
+9727,0,False,False,False,4,0,0,0,1,False,False,4,25,"Don't forget the children! Share the gift of Hatching<hex:021F0103>tide with one and all!",0
 9728,0,False,False,False,4,0,0,0,1,False,False,4,25,"Over here! No child must go home empty-handed!",0
 9729,0,False,False,False,4,0,0,0,1,False,False,4,25,"Our work here is done! Time to move on!",0
 9730,0,False,False,False,4,0,0,0,1,False,False,4,25,"Prepare the presents! The children await!",0
@@ -9752,7 +9752,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 9747,0,False,False,False,4,0,0,0,1,False,False,4,25,"This marks the end of the procession!",0
 9748,0,False,False,False,4,0,0,0,1,False,False,4,25,"Be proud, my friends, for you have made many a child happy this day!",0
 9749,0,False,False,False,4,0,0,0,1,False,False,4,25,"Should you be willing to join us again, we welcome your participation.",0
-9750,0,False,False,False,4,0,0,0,1,False,False,4,25,"Till next time, a happy Hatching–tide to one and all!",0
+9750,0,False,False,False,4,0,0,0,1,False,False,4,25,"Till next time, a happy Hatching<hex:021F0103>tide to one and all!",0
 9751,9043,False,False,False,4,0,0,0,1,False,False,10,25,"All right, people, it's time for our first concerted works in a while!",0
 9752,9043,False,False,False,4,0,0,0,1,False,False,10,25,"We're buildin' the Mattock, and to begin with, we need to clear away the debris!",0
 9753,9043,False,False,False,4,0,0,0,1,False,False,10,25,"It's the first of many steps to come, so let's see this off to a good start!",0
@@ -9851,7 +9851,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 9846,0,False,False,False,2,0,0,0,4,False,False,1,25,"Anythin' for business...",0
 9847,0,False,False,False,2,0,0,0,5,False,False,1,25,"After all, today's children are tomorrow's customers, I always say...",0
 9848,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ye greedy-arsed wench...",0
-9849,0,False,False,False,2,0,0,0,4,False,False,1,25,"A happy Hatching–tide to you, my young friend!",0
+9849,0,False,False,False,2,0,0,0,4,False,False,1,25,"A happy Hatching<hex:021F0103>tide to you, my young friend!",0
 9850,0,False,False,False,2,0,0,0,4,False,False,1,25,"<hex:021A020203>You<hex:021A020103> get an egg! And <hex:021A020203>you<hex:021A020103> get an egg!",0
 9851,0,False,False,False,2,0,0,0,4,False,False,1,25,"Remember to shop at the House o' Splendors!",0
 9852,0,False,False,False,2,0,0,0,4,False,False,1,25,"We're always lookin' for good help!",0
@@ -9860,7 +9860,7 @@ Int32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt32,Float32,Floa
 9855,0,False,False,False,2,0,0,0,4,False,False,1,25,"Look! It's a talking rabbit!",0
 9856,0,False,False,False,2,0,0,0,4,False,False,1,25,"Do you have an egg for me, <hex:020813E905FF07>Missus<hex:FF07>Mister<hex:03> Rabbit!?",0
 9857,0,False,False,False,2,0,0,0,4,False,False,1,25,"Oh, thank you!",0
-9858,0,False,False,False,2,0,0,0,4,False,False,1,25,"It's the best Hatching–tide ever!",0
+9858,0,False,False,False,2,0,0,0,4,False,False,1,25,"It's the best Hatching<hex:021F0103>tide ever!",0
 9859,0,False,False,False,2,0,0,0,4,False,False,1,25,"Spriggy eggy! Eggy spriggy!",0
 9860,0,False,False,False,2,0,0,0,4,False,False,1,25,"Spriggy givy! Spriggy taky!",0
 9861,0,False,False,False,3,0,0,0,3,True,False,1,25,"I see...",0

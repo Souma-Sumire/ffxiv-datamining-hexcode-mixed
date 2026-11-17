@@ -87,7 +87,7 @@ Int32,String,String
 82,"TEXT_FESVLT002_01298_YELLOWMOON_000_062","And of course, one for you as well, for being so selfless in my time of need."
 83,"TEXT_FESVLT002_01298_YELLOWMOON_000_063","Needless to say, I'm saving my tastiest treat for my true beloved─and that's one gift that I'll deliver in person."
 84,"TEXT_FESVLT002_01298_YELLOWMOON_000_064","Who's the lucky man, you ask? Oh, come now! Are you trying to turn poor Yellow Moon red with embarrassment? No, you'll just have to use your imagination... Tee hee!"
-85,"TEXT_FESVLT002_01298_SYSTEM_100_080","You have successfully assisted House Valentione in spreading love to all three city–states."
+85,"TEXT_FESVLT002_01298_SYSTEM_100_080","You have successfully assisted House Valentione in spreading love to all three city<hex:021F0103>states."
 86,"TEXT_FESVLT002_01298_SYSTEM_100_081","Return to the festival square in Limsa Lominsa and inform Lisette de Valentione that you have done your duty."
 87,"TEXT_FESVLT002_01298_DEADMANA_000_100",""
 88,"TEXT_FESVLT002_01298_DEADMANB_000_101",""

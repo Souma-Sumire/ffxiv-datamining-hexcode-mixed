@@ -52,7 +52,7 @@ Int32,String,String
 47,"TEXT_GAIUSC612_01012_TODO_23",""
 48,"TEXT_GAIUSC612_01012_SIMMIE_000_000","Your assistance in the investigation has proven invaluable, adventurer. You have our thanks."
 49,"TEXT_GAIUSC612_01012_SIMMIE_000_001","With your aid, I have finally managed to complete my report─a thorough survey of all eyewitness reports, along with the most credible theories regarding the Dark Divinity's presence in the Shroud."
-50,"TEXT_GAIUSC612_01012_SIMMIE_000_002","I intend to deliver copies of the report to Brother O–App–Pesi and Bowlord Lewin myself."
+50,"TEXT_GAIUSC612_01012_SIMMIE_000_002","I intend to deliver copies of the report to Brother O<hex:021F0103>App<hex:021F0103>Pesi and Bowlord Lewin myself."
 51,"TEXT_GAIUSC612_01012_SIMMIE_000_003","The Scions, too, will no doubt be eager to learn of our findings. I would be most appreciative if you could deliver a copy to Urianger in my stead."
 52,"TEXT_GAIUSC612_01012_SIMMIE_000_004","My duties demand that I remain composed, but in all truth, I fear for the fate of our people. Should the time come that the Dark Divinity draws his blade against Gridania, promise me that we can count on your aid."
 53,"TEXT_GAIUSC612_01012_URIANGER_000_010","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I am most heartened by thy safe return. Wert thou able to cast light on the shadows that haunt the Shroud?"

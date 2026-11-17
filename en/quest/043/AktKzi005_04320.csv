@@ -68,7 +68,7 @@ Int32,String,String
 63,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_012","And today, that traveler is you. Simply face the crystal, and <hex:024804F201F403><hex:024904F201F503>pray<hex:0249020103><hex:0248020103> for the safety of the traveler-to-be, if you will."
 64,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_015","Gaze into the crystal, and <hex:024804F201F403><hex:024904F201F503>pray<hex:0249020103><hex:0248020103> for the traveler who sent you."
 65,"TEXT_AKTKZI005_04320_SYSTEM_100_016","The crystal glitters inside the box. Kneel before it and <hex:024804F201F403><hex:024904F201F503>pray<hex:0249020103><hex:0248020103> for the gleaner's safe passage."
-66,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_020","A colleague recently told me about the power of akasa─a concept taught in Radz–at–Han─and how it reacts to strong emotion."
+66,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_020","A colleague recently told me about the power of akasa─a concept taught in Radz<hex:021F0103>at<hex:021F0103>Han─and how it reacts to strong emotion."
 67,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_021","I wonder if this method of praying to a crystal is a manifestation of that power..."
 68,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_022","Well, that should about do it. With luck, your prayers will help guide the gleaner safely through the perils of his journey."
 69,"TEXT_AKTKZI005_04320_RESEARCHER04320_000_025","The crystal is ready. You can take it to the gleaner who asked for it now."

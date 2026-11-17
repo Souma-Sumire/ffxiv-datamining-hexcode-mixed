@@ -12,7 +12,7 @@ Int32,String,String
 7,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01","...Are we not forgetting something? A proper training session requires proper sustenance."
 8,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02","Training sessions cannot be conducted without the requisite feed, which can be purchased from the tack & feed trader at the race counter."
 9,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01","Forgive me, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, but I must protest. In my expert opinion, your race chocobo will not benefit from such training."
-10,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02","Your race chocobo's <hex:022F1EFF1C022818FF13526163696E6743686F636F626F506172616DE802010303> can no longer be increased."
+10,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02","Your race chocobo's <hex:022F1EFF1C><hex:022818FF13>RacingChocoboParam<hex:E8020103><hex:03> can no longer be increased."
 11,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_Q1",""
 12,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_A1",""
 13,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_A2",""

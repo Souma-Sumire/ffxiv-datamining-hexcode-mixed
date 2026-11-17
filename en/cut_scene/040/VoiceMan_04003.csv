@@ -232,7 +232,7 @@ Int32,String,String
 227,"TEXT_VOICEMAN_04003_002120_HIEN","Indeed. The Xaela tribes of the Azim Steppe have pledged their military might to the cause."
 228,"TEXT_VOICEMAN_04003_002130_ALISAIE","Good. We, meanwhile, have secured the support of the Confederacy, and a not insignificant number of your countrymen."
 229,"TEXT_VOICEMAN_04003_002140_ALISAIE","The Blue Kojin, too, have expressed a willingness to join the fight─provided you agree to certain trade agreements following the liberation of Doma."
-230,"TEXT_VOICEMAN_04003_002150_YUGIRI","The shinobi will render what aid they can. However, Sui–no–Sato refused to answer our call."
+230,"TEXT_VOICEMAN_04003_002150_YUGIRI","The shinobi will render what aid they can. However, Sui<hex:021F0103>no<hex:021F0103>Sato refused to answer our call."
 231,"TEXT_VOICEMAN_04003_002160_HIEN","No matter. What forces we have amassed far exceed my original expectations. You have my thanks."
 232,"TEXT_VOICEMAN_04003_002170_ALPHINAUD","You should know that Zenos departed Doma not long after you left to find Lord Hien. We know not the reason why, but it would seem he was eager to return to Gyr Abania."
 233,"TEXT_VOICEMAN_04003_002180_LYSE","What? Have you heard anything from the Resistance? There hasn't been another attack, has there?"

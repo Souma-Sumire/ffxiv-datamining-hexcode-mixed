@@ -53,7 +53,7 @@ Int32,String,String
 48,"TEXT_STMBDZ207_02679_ARANAMI_000_000","You there─aye, you. Have you seen a bumbling clod of an Au Ra? A new recruit I ordered to patrol the northern edge of Onokoro. He is late in returning."
 49,"TEXT_STMBDZ207_02679_ARANAMI_000_001","A strange boy he was, quiet and brooding. Reluctant to speak unless spoken to first. Better that than a fool who never holds his tongue, perhaps."
 50,"TEXT_STMBDZ207_02679_ARANAMI_000_002","Much as I would enjoy dragging him back by the ear, I cannot. Duty compels me to remain. You, on the other hand, have no such obligations..."
-51,"TEXT_STMBDZ207_02679_ARANAMI_000_003","I sent the boy to patrol the region northwest of Heaven–on–High. If he is not there, then I know not where else he could be..."
+51,"TEXT_STMBDZ207_02679_ARANAMI_000_003","I sent the boy to patrol the region northwest of Heaven<hex:021F0103>on<hex:021F0103>High. If he is not there, then I know not where else he could be..."
 52,"TEXT_STMBDZ207_02679_SYSTEM_000_010","You cast about for the Confederate recruit, and at last spy a young Auri man lurking behind the rocks to the west..."
 53,"TEXT_STMBDZ207_02679_SYSTEM_000_011","You cast about for the Confederate recruit, but see no one matching his description."
 54,"TEXT_STMBDZ207_02679_ARANAMI_000_020","If you find my recruit, tell him to return to me at once. I have no shortage of tasks for him."

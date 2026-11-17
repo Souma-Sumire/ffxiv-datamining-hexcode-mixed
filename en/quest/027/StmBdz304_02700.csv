@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_STMBDZ304_02700_SEQ_00","Kagero is curious to talk with an individual not from Sui–no–Sato."
+0,"TEXT_STMBDZ304_02700_SEQ_00","Kagero is curious to talk with an individual not from Sui<hex:021F0103>no<hex:021F0103>Sato."
 1,"TEXT_STMBDZ304_02700_SEQ_01",""
 2,"TEXT_STMBDZ304_02700_SEQ_02",""
 3,"TEXT_STMBDZ304_02700_SEQ_03",""

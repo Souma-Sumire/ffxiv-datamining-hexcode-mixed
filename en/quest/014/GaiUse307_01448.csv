@@ -4,7 +4,7 @@ offset,0,4
 Int32,String,String
 0,"TEXT_GAIUSE307_01448_SEQ_00","Minfilia wishes to discuss the latest threat to arise in the Black Shroud."
 1,"TEXT_GAIUSE307_01448_SEQ_01","According to Minfilia, the Order of the Twin Adder believes that the primal Ramuh has been summoned within the borders of the Black Shroud. The Antecedent bids you answer the request of the Elder Seedseer, and offer your aid to the people of the forest. Travel to Gridania and report to Serpent Commander Vorsaile Heuloix at the Adders' Nest."
-2,"TEXT_GAIUSE307_01448_SEQ_02","Serpent Commander Heuloix seems much relieved at your arrival. Though eager for you to begin your mission, he asks that you first meet with Kan–E–Senna at the Lotus Stand to discuss diplomatic alternatives. Speak with the silent conjurer at Nophica's Altar to gain admission."
+2,"TEXT_GAIUSE307_01448_SEQ_02","Serpent Commander Heuloix seems much relieved at your arrival. Though eager for you to begin your mission, he asks that you first meet with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand to discuss diplomatic alternatives. Speak with the silent conjurer at Nophica's Altar to gain admission."
 3,"TEXT_GAIUSE307_01448_SEQ_03","The Elder Seedseer confirms that the primal Ramuh has indeed been summoned forth by the natives of the Sylphlands. Loath to sacrifice the hard-won peace with the sylphs, she asks that you attempt to parley with the Lord of Levin before resorting to force. Travel to Little Solace in the East Shroud and report to the serpent lieutenant who will brief you on how to proceed."
 4,"TEXT_GAIUSE307_01448_SEQ_04","After welcoming you to Little Solace, the serpent lieutenant informs you that an investigation is already underway to determine where the primal Ramuh might be found. Bide your time until such time as the report is delivered, then speak with the lieutenant once more."
 5,"TEXT_GAIUSE307_01448_SEQ_05",""
@@ -27,7 +27,7 @@ Int32,String,String
 22,"TEXT_GAIUSE307_01448_SEQ_22",""
 23,"TEXT_GAIUSE307_01448_SEQ_23",""
 24,"TEXT_GAIUSE307_01448_TODO_00","Speak with Vorsaile Heuloix at the Adders' Nest."
-25,"TEXT_GAIUSE307_01448_TODO_01","Speak with Kan–E–Senna at the Lotus Stand."
+25,"TEXT_GAIUSE307_01448_TODO_01","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand."
 26,"TEXT_GAIUSE307_01448_TODO_02","Speak with the serpent lieutenant at Little Solace."
 27,"TEXT_GAIUSE307_01448_TODO_03",""
 28,"TEXT_GAIUSE307_01448_TODO_04",""

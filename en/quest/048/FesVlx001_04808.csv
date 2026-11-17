@@ -3,8 +3,8 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_FESVLX001_04808_SEQ_00","Astrid is not-so-subtly indicating her desire for you to approach.<hex:02100103>※This quest is available for a limited time only."
-1,"TEXT_FESVLX001_04808_SEQ_01","In need of a helping hand, Astrid de Valentione, head emissary of the Valentione's Day celebrations, asks that you check on the whereabouts of the apprentice emissary Emilie, who has been preparing a mysterious surprise for the day's festivities near Fen–Yll Fineries. Being the chivalrous soul that you are, you happily oblige. <hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
-2,"TEXT_FESVLX001_04808_SEQ_02","You find Emilie practicing under the trees not a stone's throw from Fen–Yll Fineries. She is grateful for your concern but remains coy as to what exactly has kept her occupied for so long. She insists you return to Mih Khetto's Amphitheatre if you wish to find out."
+1,"TEXT_FESVLX001_04808_SEQ_01","In need of a helping hand, Astrid de Valentione, head emissary of the Valentione's Day celebrations, asks that you check on the whereabouts of the apprentice emissary Emilie, who has been preparing a mysterious surprise for the day's festivities near Fen<hex:021F0103>Yll Fineries. Being the chivalrous soul that you are, you happily oblige. <hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESVLX001_04808_SEQ_02","You find Emilie practicing under the trees not a stone's throw from Fen<hex:021F0103>Yll Fineries. She is grateful for your concern but remains coy as to what exactly has kept her occupied for so long. She insists you return to Mih Khetto's Amphitheatre if you wish to find out."
 3,"TEXT_FESVLX001_04808_SEQ_03","Astrid thanks you for retrieving Emilie, who is now ready to reveal her surprise. As she performs the so-called “love heart,” you feel the slight fluttering of butterflies in your stomach. Explaining that she hopes this bold expression of affection will inspire others to act on their feelings, Astrid wishes you to join Emilie in displaying it for the townsfolk, but soon realizes that even two ardent souls may not be enough to cover all of Gridania. With perfect timing, Lisette de Valentione enters the stage, eager to lend her assistance. Your numbers thus buoyed, Astrid asks that you speak with her when you are ready to begin."
 4,"TEXT_FESVLX001_04808_SEQ_04",""
 5,"TEXT_FESVLX001_04808_SEQ_05",""
@@ -58,8 +58,8 @@ Int32,String,String
 53,"TEXT_FESVLX001_04808_ASTRID_000_005","A fellow emissary by the name of Emilie departed earlier to prepare a little surprise for our festivities, you see, but she's been gone for quite some time. I would like you to make sure she hasn't gotten herself into trouble."
 54,"TEXT_FESVLX001_04808_ASTRID_000_006","I would go myself or ask one of my associates to check up on her, but all are busy guiding our love-starved revelers. Will you do me this favor?"
 55,"TEXT_FESVLX001_04808_ASTRID_000_008","I am in your debt!"
-56,"TEXT_FESVLX001_04808_ASTRID_000_009","Before she left, Emilie said she would be practicing under the trees near Fen–Yll Fineries. No doubt you will find her there."
-57,"TEXT_FESVLX001_04808_ASTRID_000_010","You shall find Emilie practicing under the trees near Fen–Yll Fineries. Pray go with all haste."
+56,"TEXT_FESVLX001_04808_ASTRID_000_009","Before she left, Emilie said she would be practicing under the trees near Fen<hex:021F0103>Yll Fineries. No doubt you will find her there."
+57,"TEXT_FESVLX001_04808_ASTRID_000_010","You shall find Emilie practicing under the trees near Fen<hex:021F0103>Yll Fineries. Pray go with all haste."
 58,"TEXT_FESVLX001_04808_EMILIE_000_011","If I shift the angle just the teensiest bit, I bet I can triple the cuteness factor! No, quadruple it!"
 59,"TEXT_FESVLX001_04808_EMILIE_000_012","Whoa!"
 60,"TEXT_FESVLX001_04808_EMILIE_000_0013","Erm...who might you be?"

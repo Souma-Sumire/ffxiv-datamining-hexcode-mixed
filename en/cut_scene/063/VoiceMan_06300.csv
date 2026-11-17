@@ -33,7 +33,7 @@ Int32,String,String
 28,"TEXT_VOICEMAN_06300_000290_YSHTOLA","As good a place to start as any."
 29,"TEXT_VOICEMAN_06300_000300_YSHTOLA","My apologies, Zero, but your return to the void will have to wait."
 30,"TEXT_VOICEMAN_06300_000310_MYSTERIOUSPERSON","I told you before that I have no reason to go back there. Do as you will."
-31,"TEXT_VOICEMAN_06300_000320_YSHTOLA","...All right. I presume you wish to stay here in Radz–at–Han until we return?"
+31,"TEXT_VOICEMAN_06300_000320_YSHTOLA","...All right. I presume you wish to stay here in Radz<hex:021F0103>at<hex:021F0103>Han until we return?"
 32,"TEXT_VOICEMAN_06300_000330_MYSTERIOUSPERSON","You've kept me amply fed. I wouldn't be averse to helping you on your search."
 33,"TEXT_VOICEMAN_06300_000340_YSHTOLA","If Azdaja was indeed here, other voidsent may have made the journey as well..."
 34,"TEXT_VOICEMAN_06300_000350_YSHTOLA","Very well, we would welcome your company."

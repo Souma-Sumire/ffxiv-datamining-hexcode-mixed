@@ -248,7 +248,7 @@ Int32,String,String
 243,"TEXT_VOICEMAN_07500_001215_BLACKKNIGHT","Rather, it felt as if the barrier between our worlds was weakening naturally, moment by moment, until the two came to meet."
 244,"TEXT_VOICEMAN_07500_001220_MYSTERIOUSPERSON","And you think this...weakening could be happening elsewhere?"
 245,"TEXT_VOICEMAN_07500_001225_BLACKKNIGHT","'Tis a possibility."
-246,"TEXT_VOICEMAN_07500_001230_MYSTERIOUSPERSON","What of Radz–at–Han and Garlemald?"
+246,"TEXT_VOICEMAN_07500_001230_MYSTERIOUSPERSON","What of Radz<hex:021F0103>at<hex:021F0103>Han and Garlemald?"
 247,"TEXT_VOICEMAN_07500_001240_MYSTERIOUSPERSON","Jullus took mercy upon the interloper?"
 248,"TEXT_VOICEMAN_07500_001245_MYSTERIOUSPERSON","[SOFT AFFECTIONATE SNORT “Hmph”]"
 249,"TEXT_VOICEMAN_07500_001250_MYSTERIOUSPERSON","Whether voidsent or Garlean, we all share the same longing for home."

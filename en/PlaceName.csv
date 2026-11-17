@@ -540,9 +540,9 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 535,"Greenwood Altar",0,"Greenwood Altar",0,0,1,0,0,"",0,0,0
 536,"Unmarked Tomb",0,"unmarked tomb",0,0,1,0,0,"",0,0,0
 537,"Tomb of King Galvanth the Dominator",0,"Tomb of King Galvanth the Dominator",0,0,1,0,0,"",0,0,0
-538,"The Ak–Inik Tomb",0,"Ak–Inik Tomb",0,0,1,0,0,"",0,0,0
+538,"The Ak<hex:021F0103>Inik Tomb",0,"Ak<hex:021F0103>Inik Tomb",0,0,1,0,0,"",0,0,0
 539,"Hardwood Altar",0,"Hardwood Altar",0,0,1,0,0,"",0,0,0
-540,"The Ak–Mena Tomb",0,"Ak–Mena Tomb",0,0,1,0,0,"",0,0,0
+540,"The Ak<hex:021F0103>Mena Tomb",0,"Ak<hex:021F0103>Mena Tomb",0,0,1,0,0,"",0,0,0
 541,"Wormwood Altar",0,"Wormwood Altar",0,0,1,0,0,"",0,0,0
 542,"Stone Bridge",0,"stone bridge",0,0,1,0,0,"",0,0,0
 543,"Eternal Calm",1,"Eternal Calm",0,0,1,0,1,"",0,0,0
@@ -569,9 +569,9 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 564,"Ebony Stalls",0,"Ebony Stalls",0,0,1,0,0,"",0,0,0
 565,"Rosewood Stalls",0,"Rosewood Stalls",0,0,1,0,0,"",0,0,0
 566,"Shaded Bower",0,"Shaded Bower",0,0,1,0,0,"",0,0,0
-567,"Atelier Fen–Yll",0,"Atelier Fen–Yll",0,0,1,0,1,"",0,0,0
+567,"Atelier Fen<hex:021F0103>Yll",0,"Atelier Fen<hex:021F0103>Yll",0,0,1,0,1,"",0,0,0
 568,"Leatherworkers' Guild",0,"Leatherworkers' Guild",0,0,1,0,0,"",0,0,0
-569,"Fen–Yll Fineries",0,"Fen–Yll Fineries",0,0,1,0,1,"",0,0,0
+569,"Fen<hex:021F0103>Yll Fineries",0,"Fen<hex:021F0103>Yll Fineries",0,0,1,0,1,"",0,0,0
 570,"Wailing Barracks",0,"Wailing Barracks",0,0,1,0,0,"",0,0,0
 571,"Lancers' Guild",0,"Lancers' Guild",0,0,1,0,0,"",0,0,0
 572,"Wailing Barracks<hex:02100103>(Lancers' Guild)",0,"Wailing Barracks<hex:02100103>(Lancers' Guild)",0,0,1,0,0,"",0,0,0
@@ -591,7 +591,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 586,"Whispering Gorge",1,"Whispering Gorge",0,0,1,0,1,"",0,0,0
 587,"Jadeite Flood",0,"Jadeite Flood",0,0,1,0,0,"",0,0,0
 588,"Heartstream",0,"Heartstream",0,0,1,0,0,"",0,0,0
-589,"The Mun–Tuy Cellars",0,"Mun–Tuy Cellars",0,0,1,0,0,"",0,0,0
+589,"The Mun<hex:021F0103>Tuy Cellars",0,"Mun<hex:021F0103>Tuy Cellars",0,0,1,0,0,"",0,0,0
 590,"Gridania Aetheryte Plaza",0,"Gridania aetheryte plaza",0,0,1,0,0,"",0,0,0
 591,"Adders' Nest",0,"Adders' Nest",0,0,1,0,0,"",0,0,0
 592,"Westshore Pier<hex:02100103>East Shroud",0,"Westshore Pier<hex:02100103>East Shroud",0,0,1,0,1,"",0,0,0
@@ -2515,7 +2515,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,UInt8,UInt16,UInt8
 2510,"The Wreath of Snakes",0,"Wreath of Snakes",0,0,1,0,0,"",0,0,0
 2511,"Ruby Price Depths",1,"Ruby Price depths",0,0,1,0,0,"",0,1,0
 2512,"Tamamizu",0,"Tamamizu",0,0,1,0,1,"",0,1,0
-2513,"Sui–no–Sato",0,"Sui–no–Sato",0,0,1,0,1,"",0,1,0
+2513,"Sui<hex:021F0103>no<hex:021F0103>Sato",0,"Sui<hex:021F0103>no<hex:021F0103>Sato",0,0,1,0,1,"",0,1,0
 2514,"The <hex:021A020203>Adventure<hex:021A020103>",0,"<hex:021A020203>Adventure<hex:021A020103>",0,0,1,0,0,"",0,1,0
 2515,"Shisui of the Violet Tides",0,"Shisui of the Violet Tides",0,0,1,0,1,"",0,1,0
 2516,"The <hex:021A020203>Kobayashi Maru<hex:021A020103>",0,"<hex:021A020203>Kobayashi Maru<hex:021A020103>",0,0,1,0,0,"",0,1,0

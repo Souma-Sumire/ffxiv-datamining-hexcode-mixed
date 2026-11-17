@@ -57,7 +57,7 @@ Int32,String,String
 52,"TEXT_LUCKMG110_03682_URIANGER_000_020","My congratulations, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Glad tidings from Eulmore did precede thy coming. I will see that Thancred and Ryne hear of these momentous events, that they too might take joy in that which thou hast helped to bring about."
 53,"TEXT_LUCKMG110_03682_BEQLUGG_000_025","I take it you are ready to resume our work?"
 54,"TEXT_LUCKMG110_03682_MYSTERYVOICE_000_040","Welcome back. We are given to understand a new mayor has taken office in Eulmore."
-55,"TEXT_LUCKMG110_03682_ALPHINAUD_000_041","Indeed. Our good friend Master Chai was elected by popular vote, and─after some considerable soul–searching─chose to accept the post."
+55,"TEXT_LUCKMG110_03682_ALPHINAUD_000_041","Indeed. Our good friend Master Chai was elected by popular vote, and─after some considerable soul<hex:021F0103>searching─chose to accept the post."
 56,"TEXT_LUCKMG110_03682_ALPHINAUD_000_042","It is a shame you weren't able to attend his inaugural speech. Though I have no doubt you will see more of him in the future."
 57,"TEXT_LUCKMG110_03682_ALPHINAUD_100_042","But tell me, how fared you in preparing the white auracite?"
 58,"TEXT_LUCKMG110_03682_YSHTOLA_101_042","Our work...did not proceed quite as expected."

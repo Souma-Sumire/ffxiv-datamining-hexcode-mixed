@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_FESSUM008_01541_SEQ_00","Moonfire Faire chaperone Mayaru Moyaru is on alert for your call, for not many adventurers have the Cannon–do Spirit.<hex:02100103>※This quest is available for a limited time only."
+0,"TEXT_FESSUM008_01541_SEQ_00","Moonfire Faire chaperone Mayaru Moyaru is on alert for your call, for not many adventurers have the Cannon<hex:021F0103>do Spirit.<hex:02100103>※This quest is available for a limited time only."
 1,"TEXT_FESSUM008_01541_SEQ_01","Mayaru Moyaru is quite the demon whisperer; confined within the event venue are womandragoras and sabotenders both. Use any of the 18-ponze cannons at your disposal to batter the former twice and the latter once.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
 2,"TEXT_FESSUM008_01541_SEQ_02","All targets are moving targets when there are cannons and crowds involved. Despite the difficulties, you have triumphed. Mayaru Moyaru will be relieved to hear how well and precisely you comported yourself."
-3,"TEXT_FESSUM008_01541_SEQ_03","Mayaru Moyaru is delighted that this family-friendly event concluded without any bystander injuries. How wonderful it is to see the smiles of the children, and watch them run after the cannonballs. Some actions cannot be undone, but you may always return to the Cannon–do Spirit."
+3,"TEXT_FESSUM008_01541_SEQ_03","Mayaru Moyaru is delighted that this family-friendly event concluded without any bystander injuries. How wonderful it is to see the smiles of the children, and watch them run after the cannonballs. Some actions cannot be undone, but you may always return to the Cannon<hex:021F0103>do Spirit."
 4,"TEXT_FESSUM008_01541_SEQ_04",""
 5,"TEXT_FESSUM008_01541_SEQ_05",""
 6,"TEXT_FESSUM008_01541_SEQ_06",""
@@ -50,11 +50,11 @@ Int32,String,String
 45,"TEXT_FESSUM008_01541_TODO_21",""
 46,"TEXT_FESSUM008_01541_TODO_22",""
 47,"TEXT_FESSUM008_01541_TODO_23",""
-48,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_000","Lovely! I do believe you understand the spirit of <hex:021A020203>restraint<hex:021A020103> and precision that is so important in professional adventurers. Now blast that 18–ponze cannon! You must hit the womandragoras twice and any one sabotender fugitivo once."
+48,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_000","Lovely! I do believe you understand the spirit of <hex:021A020203>restraint<hex:021A020103> and precision that is so important in professional adventurers. Now blast that 18<hex:021F0103>ponze cannon! You must hit the womandragoras twice and any one sabotender fugitivo once."
 49,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_001","Very fleet of foot, those sabotenders. Aim well─stray cannonballs are <hex:021A020203>not<hex:021A020103> appropriate for family events! And don't be shy─you can try the event as many times as you like. Do tell me when you've succeeded, however."
 50,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_002","You don't know how to use Cannonfire? I can teach you, if you like!"
-51,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_010","Are you schooled in the use of the 18–ponze cannon? Do not be concerned! You'll be blasting like an old hand in a moment. "
-52,"TEXT_FESSUM008_01541_SYSTEM_000_011","Inspect the 18–ponze cannon in the event location, and a special action Cannonfire will appear in your <hex:024804F201F403><hex:024904F201F503>pet hotbar<hex:0249020103><hex:0248020103>."
+51,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_010","Are you schooled in the use of the 18<hex:021F0103>ponze cannon? Do not be concerned! You'll be blasting like an old hand in a moment. "
+52,"TEXT_FESSUM008_01541_SYSTEM_000_011","Inspect the 18<hex:021F0103>ponze cannon in the event location, and a special action Cannonfire will appear in your <hex:024804F201F403><hex:024904F201F503>pet hotbar<hex:0249020103><hex:0248020103>."
 53,"TEXT_FESSUM008_01541_SYSTEM_000_012","Use Cannonfire on a desired spot in order to hit a womandragora and a sabotender fugitivo."
 54,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_030","Well done! The chirurgeons are quite bereft─they've naught to do! And the children in the audience loved it! They say they wish to join us. I do hope that's not a cannonball they're trying to─oh dear..."
 55,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_031","It's always one thing after another in this line of work. Chaperoning an event, I mean. Regular adventuring is quite tame in comparison."

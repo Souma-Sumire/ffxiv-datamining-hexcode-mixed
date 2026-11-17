@@ -52,7 +52,7 @@ Int32,String,String
 47,"TEXT_HEAVNA704_01666_TODO_23",""
 48,"TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_000","<blip> Resuming guidance to the Aetherochemical Research Facility. Please follow me."
 49,"TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_001","This sector, the Beta Quadrant, is home to laboratories which produce chimerical life-forms for both military and household applications."
-50,"TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_002","Our facility has been awarded three-star certification for compliance with ASO–3001. The good behavior of the creatures born here is guaranteed."
+50,"TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_002","Our facility has been awarded three-star certification for compliance with ASO<hex:021F0103>3001. The good behavior of the creatures born here is guaranteed."
 51,"TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_003","Please be warned, however, that millennia of neglect may have had an adverse effect on their disposition. For your own safety, please refrain from approaching the creatures."
 52,"TEXT_HEAVNA704_01666_ESTINIEN_000_004","Are you certain it is wise to trust our lives to this orb?"
 53,"TEXT_HEAVNA704_01666_YSHTOLA_000_005","That node is not what it seems. From amidst the metal, I sense the gaze of a living being. Have care around it."

@@ -58,7 +58,7 @@ Int32,String,String
 53,"TEXT_SUBWIL111_00619_UNGUST_000_12","Folk around here are as wary as they come. They'll turn tail and run if you so much as pass wind nearby. Played them all for fools and coaxed some hard labor out of them, I did."
 54,"TEXT_SUBWIL111_00619_UNGUST_000_13","If anything, they're even <hex:021A020203>more<hex:021A020103> timid than before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me."
 55,"TEXT_SUBWIL111_00619_UNGUST_000_20","The folk around here are more timid now than ever before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me."
-56,"TEXT_SUBWIL111_00619_POVERTY1_000_30","Wh-What do you want from me!? I d–don't know anything, I swear! Please don't kill me!"
+56,"TEXT_SUBWIL111_00619_POVERTY1_000_30","Wh-What do you want from me!? I d<hex:021F0103>don't know anything, I swear! Please don't kill me!"
 57,"TEXT_SUBWIL111_00619_POVERTY2_000_31","I've nothing to say but this: Thal take who─or <hex:021A020203>what<hex:021A020103>ever's been feeding off us low folk."
 58,"TEXT_SUBWIL111_00619_POVERTY3_000_32","P-Please, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>, just leave me be..."
 59,"TEXT_SUBWIL111_00619_UNGUST_000_40","Just as I told you, wasn't it? The whole lot of them are terrified. <hiccup>"

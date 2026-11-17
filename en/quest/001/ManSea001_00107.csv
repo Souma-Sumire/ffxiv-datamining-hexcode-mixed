@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_MANSEA001_00107_SEQ_00","To be recognized as an adventurer in the city–state of Limsa Lominsa, you must first register yourself with the Adventurers' Guild."
+0,"TEXT_MANSEA001_00107_SEQ_00","To be recognized as an adventurer in the city<hex:021F0103>state of Limsa Lominsa, you must first register yourself with the Adventurers' Guild."
 1,"TEXT_MANSEA001_00107_SEQ_01","The Yellowjacket, Ryssfloh, strongly suggests that you sign up as an adventurer in the Drowning Wench. Speak with Grehfarr at the end of the street to take the Crow's Lift up to the pub."
 2,"TEXT_MANSEA001_00107_SEQ_02","You have arrived at the Drowning Wench. Speak with the owner, Baderon, about registering with the Adventurers' Guild."
 3,"TEXT_MANSEA001_00107_SEQ_03","Now that you have successfully registered yourself as an adventurer, you are ready to begin exploring Limsa Lominsa. Speak with Baderon again to learn more about the city and the basics of adventuring."

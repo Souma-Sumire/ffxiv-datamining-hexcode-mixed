@@ -2,8 +2,8 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_GAIUSE117_01191_SEQ_00","Raya–O–Senna wishes to congratulate you on your victory over Good King Moggle Mog XII."
-1,"TEXT_GAIUSE117_01191_SEQ_01","Raya–O–Senna declares that your brave deeds in service to the Twelveswood shall not be forgotten. Certain that her sister will be eager to hear the tale of Good King Moggle Mog XII's defeat from the mouth of the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> responsible, she urges you to return to the Lotus Stand in Old Gridania."
+0,"TEXT_GAIUSE117_01191_SEQ_00","Raya<hex:021F0103>O<hex:021F0103>Senna wishes to congratulate you on your victory over Good King Moggle Mog XII."
+1,"TEXT_GAIUSE117_01191_SEQ_01","Raya<hex:021F0103>O<hex:021F0103>Senna declares that your brave deeds in service to the Twelveswood shall not be forgotten. Certain that her sister will be eager to hear the tale of Good King Moggle Mog XII's defeat from the mouth of the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> responsible, she urges you to return to the Lotus Stand in Old Gridania."
 2,"TEXT_GAIUSE117_01191_SEQ_02","Your eloquent description of the events in Thornmarch serves to confirm the worst fears of the Elder Seedseer and your fellow Scions: like the primals of the beast tribes, Good King Moggle Mog XII was called forth by means of a rite imparted to the Mogglesguard by the Ascians. Papalymo bids you return to the Waking Sands and report these troubling findings to Minfilia while he and Yda discuss the matter of the Scions' compensation with the Elder Seedseer."
 3,"TEXT_GAIUSE117_01191_SEQ_03","Though Minfilia has already received word of your victory, she is nevertheless eager to hear your version of events. After listening to your account, she too is forced to conclude that Ascians were behind both of Good King Moggle Mog XII's recent appearances. Though unquestionably unfortunate, Minfilia reflects that this latest incident did at least provide an opportunity to remind the Elder Seedseer of the Scions' unique role in Eorzea─persuading her to proffer much-needed additional support."
 4,"TEXT_GAIUSE117_01191_SEQ_04",""
@@ -26,7 +26,7 @@ Int32,String,String
 21,"TEXT_GAIUSE117_01191_SEQ_21",""
 22,"TEXT_GAIUSE117_01191_SEQ_22",""
 23,"TEXT_GAIUSE117_01191_SEQ_23",""
-24,"TEXT_GAIUSE117_01191_TODO_00","Speak with Kan–E–Senna at the Lotus Stand."
+24,"TEXT_GAIUSE117_01191_TODO_00","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand."
 25,"TEXT_GAIUSE117_01191_TODO_01","Report to Minfilia in the Waking Sands."
 26,"TEXT_GAIUSE117_01191_TODO_02",""
 27,"TEXT_GAIUSE117_01191_TODO_03",""

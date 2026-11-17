@@ -4,7 +4,7 @@ offset,0,4
 Int32,String,String
 0,"TEXT_HEAVNA603_01652_SEQ_00","Alphinaud is eager to petition the Elder Seedseer's aid in rescuing Y'shtola."
 1,"TEXT_HEAVNA603_01652_SEQ_01","Alphinaud informs you that he has arranged an audience with the Elder Seedseer. Speak with the silent conjurer at Nophica's Altar to be admitted to the Lotus Stand."
-2,"TEXT_HEAVNA603_01652_SEQ_02","Kan–E–Senna readily agrees to petition the elementals' aid in searching the Lifestream for Y'shtola. She warns, however, that the beings will need to be presented with aether that is akin to that of your missing comrade if they are to identify her. For a blessing, it would seem that a sister of Y'shtola's has taken up residence in Gridania. Ask Tataru for more information on the woman."
+2,"TEXT_HEAVNA603_01652_SEQ_02","Kan<hex:021F0103>E<hex:021F0103>Senna readily agrees to petition the elementals' aid in searching the Lifestream for Y'shtola. She warns, however, that the beings will need to be presented with aether that is akin to that of your missing comrade if they are to identify her. For a blessing, it would seem that a sister of Y'shtola's has taken up residence in Gridania. Ask Tataru for more information on the woman."
 3,"TEXT_HEAVNA603_01652_SEQ_03","According to Tataru, Y'shtola's sister─a <hex:020944E948FF06>woman<hex:FF06>woman<hex:FF06>woman<hex:FF0F>fellow Miqo'te<hex:FF06>woman<hex:FF06>woman<hex:FF06>woman<hex:FF06>woman<hex:03> by the name of Y'mhitra─is often seen in the vicinity of Apkallu Falls. Seek her there."
 4,"TEXT_HEAVNA603_01652_SEQ_04","Unsurprisingly, Y'mhitra agrees to cooperate in the search for her sister, and accompanies you to Everschade. A short while later, the Seedseers begin communing with the elementals, and with the ethereal beings' aid, they succeed in plucking Y'shtola from the Lifestream, insensible but alive. Kan-E-Senna duly orders her guards to bear your unconscious friend to the Roost to receive proper ministration. Make your own way there and rejoin Tataru."
 5,"TEXT_HEAVNA603_01652_SEQ_05","Tataru cannot contain her joy at Y'shtola's return, and many happy tears are shed. All that remains now is to pray for her swift recovery."
@@ -26,7 +26,7 @@ Int32,String,String
 21,"TEXT_HEAVNA603_01652_SEQ_21",""
 22,"TEXT_HEAVNA603_01652_SEQ_22",""
 23,"TEXT_HEAVNA603_01652_SEQ_23",""
-24,"TEXT_HEAVNA603_01652_TODO_00","Speak with Kan–E–Senna at the Lotus Stand."
+24,"TEXT_HEAVNA603_01652_TODO_00","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand."
 25,"TEXT_HEAVNA603_01652_TODO_01","Speak with Tataru."
 26,"TEXT_HEAVNA603_01652_TODO_02","Speak with Y'mhitra."
 27,"TEXT_HEAVNA603_01652_TODO_03","Speak with Tataru."

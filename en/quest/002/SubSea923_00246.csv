@@ -96,7 +96,7 @@ Int32,String,String
 91,"TEXT_SUBSEA923_00246_WAWALAGO_000_067","Go greet your glory, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! As the finest fisher in these parts, it falls on you to finish this fearsome foe."
 92,"TEXT_SUBSEA923_00246_WAWALAGO_000_068","Go greet your glory, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! As the finest fisherman in these parts, it falls on you to fend off this fell foe for the fishers of the Rhotano!"
 93,"TEXT_SUBSEA923_00246_ASCELYN_000_069","Ahem, still on the brink of disaster. The Nepto Dragon was sighted off Costa del Sol. Everything is shipshape, so to speak, for a bit of dragonslaying."
-94,"TEXT_SUBSEA923_00246_SISIPU_000_070","Well, this has turned into quite the to–do! If Master Gegeruju's involved, you'd better succeed, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Otherwise we'd never hear the end of it!"
+94,"TEXT_SUBSEA923_00246_SISIPU_000_070","Well, this has turned into quite the to<hex:021F0103>do! If Master Gegeruju's involved, you'd better succeed, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Otherwise we'd never hear the end of it!"
 95,"TEXT_SUBSEA923_00246_STEERSMAN_000_090","Aye, Master Gegeruju explained─awful thorough he was about it, too. Speak with the skipper here when yer ready, and he'll take ye to the ship."
 96,"TEXT_SUBSEA923_00246_STEERSMAN_100_090","Speak with the skipper here when yer ready to fish that big bastard Dragon, and he'll take ye to the ship."
 97,"TEXT_SUBSEA923_00246_SENCHYO_000_120","When ye catch that Nepto Dragon, give it here. We'll lay it on the deck, get a measure of its size."

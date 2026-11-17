@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_SUBFST159_01425_SEQ_00","Eral has noticed a rare bit of excitement within the serene city–state and would share with you what he knows."
+0,"TEXT_SUBFST159_01425_SEQ_00","Eral has noticed a rare bit of excitement within the serene city<hex:021F0103>state and would share with you what he knows."
 1,"TEXT_SUBFST159_01425_SEQ_01","Eral has espied a lovely maid frolicking in the Acorn Orchard, and would have you discover whether a feast is nigh. Head off toward the play area outside the Carpenters' Guild to see what so pleases the fair Yedythe."
 2,"TEXT_SUBFST159_01425_SEQ_02","Yedythe proves to be a dancing master, albeit a rather agitated one at the moment. The younglings under her instruction have fled for more congenial pursuits. Yedythe wonders if Timbermaster Beatin may be of assistance in tracking them down."
 3,"TEXT_SUBFST159_01425_SEQ_03","Beatin's solution is deceptively simple: a toy for each child. Using the skills that won you acclaim as a tracker, find the truant younglings and present them with the toys."

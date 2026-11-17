@@ -113,7 +113,7 @@ Int32,String,String
 108,"TEXT_AKTKZF201_04497_YEZAHN_000_067","I'm grateful for it, lass. It will do Sula good to have your energizing presence by her side."
 109,"TEXT_AKTKZF201_04497_YEZAHN_000_068","I understand that there are yet more supplies to come. I must find a way to thank the merchants and the one who spurred them to action. Kancana, was it?"
 110,"TEXT_AKTKZF201_04497_Q2_000_069","What will you say?"
-111,"TEXT_AKTKZF201_04497_A2_000_001","She will spare no effort to see Radz–at–Han rebuilt."
+111,"TEXT_AKTKZF201_04497_A2_000_001","She will spare no effort to see Radz<hex:021F0103>at<hex:021F0103>Han rebuilt."
 112,"TEXT_AKTKZF201_04497_A2_000_002","If there is anything else you require from the merchants, she'll be happy to help. "
 113,"TEXT_AKTKZF201_04497_YEZAHN_000_070","It seems we've found a reliable ally, thanks to you."
 114,"TEXT_AKTKZF201_04497_RACASHIR_000_071","Oh, teacher, don't forget! We should ask about the journal we found."

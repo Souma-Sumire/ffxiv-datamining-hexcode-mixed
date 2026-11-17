@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_AKTKMA121_04377_SEQ_00","Krile glances at you with expectant eyes."
-1,"TEXT_AKTKMA121_04377_SEQ_01","In the Baldesion Annex, you and your fellow Scions gather to share the findings of your investigations in Sharlayan and Radz–at–Han. Krile is of the opinion that assaulting the Tower of Zot should be the highest priority, and having conceived of a strategy, the party sets forth for Thavnair. Upon arriving on the island, you are to first regroup at the outpost at the Hamsa Hatchery."
+1,"TEXT_AKTKMA121_04377_SEQ_01","In the Baldesion Annex, you and your fellow Scions gather to share the findings of your investigations in Sharlayan and Radz<hex:021F0103>at<hex:021F0103>Han. Krile is of the opinion that assaulting the Tower of Zot should be the highest priority, and having conceived of a strategy, the party sets forth for Thavnair. Upon arriving on the island, you are to first regroup at the outpost at the Hamsa Hatchery."
 2,"TEXT_AKTKMA121_04377_SEQ_02","Arriving at the outpost, you are greeted by Nahbdeen, who bids you stand by at the boat which will bear you to the tower."
 3,"TEXT_AKTKMA121_04377_SEQ_03","After a short wait, your comrades join you at the boat. Some have weathered the aetheryte journey better than others, but all stand ready to breach the tower. Having received the warding scales from Varshahn, you make a final review of your strategy, which will see your forces divided into two groups; yours will fight its way to the tower's core, while the other will focus on keeping the prisoners alive until they can be set free. With that, naught remains to be done but give the word to launch the boat and commence the operation.<hex:02100103><hex:02100103>※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players."
 4,"TEXT_AKTKMA121_04377_SEQ_04","Inside the tower's forbidding interior, you cut a path through tempered imperial soldiers and confront three Manusya of Thavnairian myth made manifest─the Magus Sisters. Though these unfamiliar primals are formidable, you eventually emerge the victor, thereby neutralizing the spire's defenses."
@@ -106,7 +106,7 @@ Int32,String,String
 101,"TEXT_AKTKMA121_04377_VARSHAHN_000_111","May the scales serve you well, and protect you in lieu of Vrtra's fangs and claws."
 102,"TEXT_AKTKMA121_04377_CINDURUVA_000_120","No matter the cost, we must protect the tower."
 103,"TEXT_AKTKMA121_04377_ESTINIEN_000_130","Whew... Carrying all those Matanga may have been the true struggle..."
-104,"TEXT_AKTKMA121_04377_THANCRED_000_140","The liberated prisoners are being transported to Radz–at–Han for treatment."
+104,"TEXT_AKTKMA121_04377_THANCRED_000_140","The liberated prisoners are being transported to Radz<hex:021F0103>at<hex:021F0103>Han for treatment."
 105,"TEXT_AKTKMA121_04377_THANCRED_000_141","Alisaie and Y'shtola will oversee the administration of the tempering treatment, with support from those who know a healing spell or two."
 106,"TEXT_AKTKMA121_04377_THANCRED_000_142","We'll go and join them in the city once you've had a moment to catch your breath."
 107,"TEXT_AKTKMA121_04377_SYSTEM_000_143","You may now enter the Tower of Zot with a party of NPC avatars. To make use of this feature, open the <hex:024804F201F403><hex:024904F201F503>Trust<hex:0249020103><hex:0248020103> interface located under <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> in the main menu."

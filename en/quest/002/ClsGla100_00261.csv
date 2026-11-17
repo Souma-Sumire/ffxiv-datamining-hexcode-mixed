@@ -57,7 +57,7 @@ Int32,String,String
 52,"TEXT_CLSGLA100_00261_MYLLA_000_5","I have just received reports of foreign lancers skulking about in Stonesthrow. Considering the circumstances, I find it likely that these are our culprits."
 53,"TEXT_CLSGLA100_00261_MYLLA_000_6","We cannot abide any more murders. Go to Stonesthrow, outside the Gate of Nald, and speak with any you find in the area. With luck, we may find these lancers before they strike again."
 54,"TEXT_CLSGLA100_00261_NPCA_000_40","Don't kill me, please! I'm not the one you want!"
-55,"TEXT_CLSGLA100_00261_NPCA_000_50","Thank you, <hex:021A020203>thank you<hex:021A020103>! Th–They appeared out of nowhere, asked me if I was Aldis at spearpoint. I said no, but they attacked me anyway! Wh–What did I do to deserve this?"
+55,"TEXT_CLSGLA100_00261_NPCA_000_50","Thank you, <hex:021A020203>thank you<hex:021A020103>! Th<hex:021F0103>They appeared out of nowhere, asked me if I was Aldis at spearpoint. I said no, but they attacked me anyway! Wh<hex:021F0103>What did I do to deserve this?"
 56,"TEXT_CLSGLA100_00261_MYLLA_000_60","So they were indeed the murderers we sought!"
 57,"TEXT_CLSGLA100_00261_MYLLA_000_61",""
 58,"TEXT_CLSGLA100_00261_MYLLA_000_62",""

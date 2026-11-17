@@ -7,7 +7,7 @@ Int32,String,String
 2,"TEXT_BANKOB203_01337_SEQ_02","You have spoken with the acolyte, and heard slightly more than you could bear. But an adventurer must go where there is a need, and the mad bombcrafter needs you to take the coal to the brazier at Iron Lake. The bonfire will draw warm grenades, then light their slaughter. When the hot grenade appears, slay it and lop off its arm."
 3,"TEXT_BANKOB203_01337_SEQ_03","You have acquired the arm of a hot grenade. By the lurid light of the fire are many strange deeds done. Take the unpleasant package to Ba Go at the 789th Order Dig."
 4,"TEXT_BANKOB203_01337_SEQ_04","Ba Go is much pleased, and so are you, for you successfully avoided any talk of what he plans to do with the arm. As difficult as it is not to imagine what the mention of “limb that goes boom” might presage, put a spring in your step and report to Bo Gu."
-5,"TEXT_BANKOB203_01337_SEQ_05","After enjoying a brief holiday as an upset stomach, Bo Gu's gout returns with a vengeance. The shellfish–y story notwithstanding, the kobold is proving to be a reliable customer."
+5,"TEXT_BANKOB203_01337_SEQ_05","After enjoying a brief holiday as an upset stomach, Bo Gu's gout returns with a vengeance. The shellfish<hex:021F0103>y story notwithstanding, the kobold is proving to be a reliable customer."
 6,"TEXT_BANKOB203_01337_SEQ_06",""
 7,"TEXT_BANKOB203_01337_SEQ_07",""
 8,"TEXT_BANKOB203_01337_SEQ_08",""

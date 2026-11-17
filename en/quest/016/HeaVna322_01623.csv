@@ -29,7 +29,7 @@ Int32,String,String
 24,"TEXT_HEAVNA322_01623_TODO_00","Speak with Alphinaud."
 25,"TEXT_HEAVNA322_01623_TODO_01","Speak with Estinien."
 26,"TEXT_HEAVNA322_01623_TODO_02","Speak with Ysayle."
-27,"TEXT_HEAVNA322_01623_TODO_03","Speak with Kan–E–Senna."
+27,"TEXT_HEAVNA322_01623_TODO_03","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna."
 28,"TEXT_HEAVNA322_01623_TODO_04","Speak with Kuplo Kopp."
 29,"TEXT_HEAVNA322_01623_TODO_05","Speak with Moglin."
 30,"TEXT_HEAVNA322_01623_TODO_06","Speak with Moghan."

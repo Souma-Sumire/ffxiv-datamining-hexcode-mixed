@@ -8,10 +8,10 @@ Int32,String,Int32,UInt8,UInt8
 3,"Marauder's Arm",60103,1,1
 4,"Archer's Arm",60105,11,1
 5,"Lancer's Arm",60104,5,1
-6,"One–handed Thaumaturge's Arm",60108,15,1
-7,"Two–handed Thaumaturge's Arm",60108,16,1
-8,"One–handed Conjurer's Arm",60107,20,1
-9,"Two–handed Conjurer's Arm",60107,21,1
+6,"One<hex:021F0103>handed Thaumaturge's Arm",60108,15,1
+7,"Two<hex:021F0103>handed Thaumaturge's Arm",60108,16,1
+8,"One<hex:021F0103>handed Conjurer's Arm",60107,20,1
+9,"Two<hex:021F0103>handed Conjurer's Arm",60107,21,1
 10,"Arcanist's Grimoire",60109,17,1
 11,"Shield",60110,0,3
 12,"Carpenter's Primary Tool",60112,0,2

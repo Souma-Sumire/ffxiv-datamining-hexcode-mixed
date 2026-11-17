@@ -2,8 +2,8 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_GAIUSA208_00731_SEQ_00","Rolandaix seeks a helping hand in his examination of Issom–Har."
-1,"TEXT_GAIUSA208_00731_SEQ_01","Rolandaix is surveying the ruins of Gelmorra, but finds that he has overestimated the amount of ground he can cover alone. Aid the researcher in his work by scouring the area around Issom–Har for domestic artifacts."
+0,"TEXT_GAIUSA208_00731_SEQ_00","Rolandaix seeks a helping hand in his examination of Issom<hex:021F0103>Har."
+1,"TEXT_GAIUSA208_00731_SEQ_01","Rolandaix is surveying the ruins of Gelmorra, but finds that he has overestimated the amount of ground he can cover alone. Aid the researcher in his work by scouring the area around Issom<hex:021F0103>Har for domestic artifacts."
 2,"TEXT_GAIUSA208_00731_SEQ_02","You have uncovered a number of domestic relics. Present the objects to Rolandaix for examination."
 3,"TEXT_GAIUSA208_00731_SEQ_03","Rolandaix reveals that the items you uncovered were pieces of Gelmorran tableware, confirming his theory that the ruins are indeed what remains of Gelmorra's residential district. He goes on to express his fervent hope that the remnants of the city can one day be reestablished as a settlement for the displaced Duskwight Elezen."
 4,"TEXT_GAIUSA208_00731_SEQ_04",""

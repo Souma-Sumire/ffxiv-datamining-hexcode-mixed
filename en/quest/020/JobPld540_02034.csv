@@ -88,6 +88,6 @@ Int32,String,String
 83,"TEXT_JOBPLD540_02034_QIB_001_TODO_1","Defeat the Death's Embrace assassins!"
 84,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_01","Your chicanery ends here! ...Wait, is “chicanery” the word I want?"
 85,"TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_01","Royalist dogs! My voidsent will feast on your souls!"
-86,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_02","Voidsent!? I, er...I'll focus on the mage. Take care of that th–thing, will you?"
+86,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_02","Voidsent!? I, er...I'll focus on the mage. Take care of that th<hex:021F0103>thing, will you?"
 87,"TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_03","Oh, you'll pay! Don't think that you won't pay!"
 88,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_04","This...this is rather..."

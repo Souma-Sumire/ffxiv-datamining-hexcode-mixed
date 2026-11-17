@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_STMBDZ305_02701_TODO_22",""
 47,"TEXT_STMBDZ305_02701_TODO_23",""
 48,"TEXT_STMBDZ305_02701_AOGAMI_000_000","Oh, I thought I recognized you! Perhaps you remember me, too? I am the girl you saved from the shore jellyfish in Onokoro."
-49,"TEXT_STMBDZ305_02701_AOGAMI_000_001","Do not tell me you are surprised to learn I am from Sui–no–Sato? While it is true that we rarely stray far from our small underwater village, we do occasionally go out to collect food."
+49,"TEXT_STMBDZ305_02701_AOGAMI_000_001","Do not tell me you are surprised to learn I am from Sui<hex:021F0103>no<hex:021F0103>Sato? While it is true that we rarely stray far from our small underwater village, we do occasionally go out to collect food."
 50,"TEXT_STMBDZ305_02701_AOGAMI_000_002","The day you rescued me, I had left to do just that, but before I could harvest the mozuku I so dearly need, I was ambushed by those awful creatures."
 51,"TEXT_STMBDZ305_02701_AOGAMI_000_003","I still have yet to recover from the injuries I sustained and was hoping you could help me one last time. Please, might you gather four clumps of mozuku and bring them back to me?"
 52,"TEXT_STMBDZ305_02701_AOGAMI_000_004","Would you please bring me back four clumps of mozuku? You should be able to find it in the waters around the shores of Onokoro."

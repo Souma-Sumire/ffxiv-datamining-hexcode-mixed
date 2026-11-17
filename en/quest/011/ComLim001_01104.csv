@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_COMLIM001_01104_TODO_22",""
 47,"TEXT_COMLIM001_01104_TODO_23",""
 48,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_000","Ah, <hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>─just the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I was hoping to see. Your exploits of late have been the talk of Limsa."
-49,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_001","Don't let this puff your sails up too much, but I've heard some of the higher–ups saying that the Maelstrom would be lost at sea without you."
+49,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_001","Don't let this puff your sails up too much, but I've heard some of the higher<hex:021F0103>ups saying that the Maelstrom would be lost at sea without you."
 50,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_002","But I suspect you're not the type to rest on your laurels. Nay, the tempest raging in your eyes tells me you're looking for new waters to navigate."
 51,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_003","Fortunately, we have just the place for people like you. Have you perchance heard of the Wolves' Den?"
 52,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_004","It's a proving ground of sorts established by the Eorzean Alliance─a place where the most promising of Grand Company recruits are sent to hone their skills."

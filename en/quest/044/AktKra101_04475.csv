@@ -126,6 +126,6 @@ Int32,String,String
 121,"TEXT_AKTKRA101_04475_THEMIS_000_343","I am here as representative of an organization that works directly with the Convocation, and have been tasked with investigating this incident."
 122,"TEXT_AKTKRA101_04475_THEMIS_000_344","Now that there is some measure of transparency between us, might I offer a suggestion as to what we should do next?"
 123,"TEXT_AKTKRA101_04475_SYSTEM_000_350","During the course of your investigation, you may discover valuable artifacts."
-124,"TEXT_AKTKRA101_04475_SYSTEM_000_351","These can be exchanged for equipment by speaking with Mylenie in Aporia or Djole in Radz–at–Han."
+124,"TEXT_AKTKRA101_04475_SYSTEM_000_351","These can be exchanged for equipment by speaking with Mylenie in Aporia or Djole in Radz<hex:021F0103>at<hex:021F0103>Han."
 125,"TEXT_AKTKRA101_04475_SUSTEM_000_350",""
 126,"TEXT_AKTKRA101_04475_SUSTEM_000_351",""

@@ -52,7 +52,7 @@ Int32,String,String
 47,"TEXT_BANKJN501_02991_TODO_23",""
 48,"TEXT_BANKJN501_02991_ZUKIN_000_000","Mating season for striped rays is upon us. Their courtship rituals are long and complex, and begin with the male propelling a stream of sweet-smelling bubbles at an eligible female."
 49,"TEXT_BANKJN501_02991_ZUKIN_000_001","However, the females often reject attempts to impress them. The males become despondent as a result, so the ray handlers must encourage them to keep trying until they find a mate."
-50,"TEXT_BANKJN501_02991_ZUKIN_000_002","Over by Sui–no–Sato is a male ray who is reluctant to continue with the rituals. Perhaps you could assist his trainer?"
+50,"TEXT_BANKJN501_02991_ZUKIN_000_002","Over by Sui<hex:021F0103>no<hex:021F0103>Sato is a male ray who is reluctant to continue with the rituals. Perhaps you could assist his trainer?"
 51,"TEXT_BANKJN501_02991_ZUKIN_000_003",""
 52,"TEXT_BANKJN501_02991_SYSTEM_000_011","Search for the female striped ray. You may move the camera, as well as zoom in and out. Target the female striped ray and launch bubbles with <hex:020825E4E95101FF10><hex:024804F2022203><hex:0248020103><hex:FF0E><hex:021E021003> / <hex:021E020903><hex:03>."
 53,"TEXT_BANKJN501_02991_ATTENDANT02991_000_012","Oh, what a pity! That was a fine attempt, but she's just not interested. She seems to turn away all the males though, not just our little friend here."

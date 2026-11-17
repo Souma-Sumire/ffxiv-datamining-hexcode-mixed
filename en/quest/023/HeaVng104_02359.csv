@@ -26,7 +26,7 @@ Int32,String,String
 21,"TEXT_HEAVNG104_02359_SEQ_21",""
 22,"TEXT_HEAVNG104_02359_SEQ_22",""
 23,"TEXT_HEAVNG104_02359_SEQ_23",""
-24,"TEXT_HEAVNG104_02359_TODO_00","Speak with Kan–E–Senna at the Lotus Stand."
+24,"TEXT_HEAVNG104_02359_TODO_00","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand."
 25,"TEXT_HEAVNG104_02359_TODO_01","Speak with Alphinaud."
 26,"TEXT_HEAVNG104_02359_TODO_02","Speak with Y'shtola at Amarissaix's Spire."
 27,"TEXT_HEAVNG104_02359_TODO_03","Speak with Alisaie at the Rising Stones."

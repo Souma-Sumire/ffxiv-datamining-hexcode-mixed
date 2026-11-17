@@ -57,7 +57,7 @@ Int32,String,String
 52,"TEXT_AKTKME101_04419_THANCRED_000_011","She's not a child in need of protection, but a comrade we should be willing to rely upon. Even if a part of me may always beg to differ."
 53,"TEXT_AKTKME101_04419_YSHTOLA_000_015","If the Forum truly has been spurred to action by Hydaelyn's prophecy, then is it not odd that the Antitower was entrusted to Master Matoya, who bears them no love?"
 54,"TEXT_AKTKME101_04419_YSHTOLA_000_016","No doubt She has a reason for this, and I would know what it is..."
-55,"TEXT_AKTKME101_04419_ESTINIEN_000_020","Beasts and blasphemies may be running amok in nearby lands outside the influence of Radz–at–Han and the alliance. If so, I may need to go hunting."
+55,"TEXT_AKTKME101_04419_ESTINIEN_000_020","Beasts and blasphemies may be running amok in nearby lands outside the influence of Radz<hex:021F0103>at<hex:021F0103>Han and the alliance. If so, I may need to go hunting."
 56,"TEXT_AKTKME101_04419_GRAHATIA_000_030","Take this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─my spirit vessel."
 57,"TEXT_AKTKME101_04419_GRAHATIA_000_031","Empty now, of course, but it should allow you to operate the tower's systems in the Umbilicus."
 58,"TEXT_AKTKME101_04419_GRAHATIA_000_032","If even the smallest fragment of Elidibus's essence remains, it should be possible to locate it."

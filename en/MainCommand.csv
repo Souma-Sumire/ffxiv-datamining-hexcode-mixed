@@ -51,7 +51,7 @@ Int32,Int32,UInt8,UInt8,Int8,UInt8,String,String
 46,36,0,0,0,0,"Sound Settings","Adjust various sound settings such as music and effects volume, and listening position."
 47,37,0,0,0,0,"Graphics Settings","Adjust various graphics settings in order to optimize performance on your system."
 48,38,0,0,0,0,"Mouse Settings","Adjust various mouse settings such as camera sensitivity."
-49,39,0,0,0,0,"<hex:0242020203> Settings","Adjust various <hex:022F08FF06024202020303> settings such as vibration."
+49,39,0,0,0,0,"<hex:0242020203> Settings","Adjust various <hex:022F08FF06><hex:0242020203><hex:03> settings such as vibration."
 50,51,0,0,0,0,"Other Settings","Adjust miscellaneous settings such as screenshot format and cutscene language."
 51,41,0,0,0,0,"Control Settings","Adjust various control settings such as movement and targeting."
 52,42,0,0,0,0,"UI Settings","Adjust various UI settings such as HUD layout."

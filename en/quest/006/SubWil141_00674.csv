@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_SUBWIL141_00674_TODO_22",""
 47,"TEXT_SUBWIL141_00674_TODO_23",""
 48,"TEXT_SUBWIL141_00674_FLAME_000_1","Ah, <hex:020815E905FF08>my lady<hex:FF08>my lord<hex:03> envoy. I trust your stay in the sultanate has been pleasant. Now, if you do not mind my asking, do you perchance have plans to visit Limsa Lominsa in the near future? If so, I have information that may be of interest to you."
-49,"TEXT_SUBWIL141_00674_FLAME_000_2","I once accompanied the Flame General on an official visit to the seaside city–state, during which time I became acquainted with Baderon, the proprietor of the Drowning Wench. Well, the man sent word just now that he has a job for a capable adventurer."
+49,"TEXT_SUBWIL141_00674_FLAME_000_2","I once accompanied the Flame General on an official visit to the seaside city<hex:021F0103>state, during which time I became acquainted with Baderon, the proprietor of the Drowning Wench. Well, the man sent word just now that he has a job for a capable adventurer."
 50,"TEXT_SUBWIL141_00674_FLAME_000_3","I can think of none with better credentials than you. Baderon would doubtless be pleased were you to offer him your services."
 51,"TEXT_SUBWIL141_00674_FLAME_000_10","Baderon has need of a capable adventurer, and I can think of none with better credentials than you. If you are not otherwise occupied, perhaps you might consider offering him your services."
 52,"TEXT_SUBWIL141_00674_BADERON_000_20","Welcome to the Drownin' Wench! Sit wherever ye like, <hex:02080FE905FF05>lass<hex:FF05>mate<hex:03>. I'll be with ye in a─"

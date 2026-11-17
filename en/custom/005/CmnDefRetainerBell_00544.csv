@@ -492,7 +492,7 @@ Int32,String,String
 487,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE3","No need to thank me, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. Fulfilling one's duty is its own reward."
 488,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE4","Not bad, eh? In fact, I think we should pop a cork to celebrate!"
 489,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE5","This is what you wanted, yes? I told you I'd take care of it."
-490,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE6","And there you have it, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>─all wrapped up like a Hatching–tide gift basket."
+490,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE6","And there you have it, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>─all wrapped up like a Hatching<hex:021F0103>tide gift basket."
 491,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_HYURAN_MALE_TYPE1","Do you require aught else, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03>?"
 492,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_HYURAN_MALE_TYPE2","Ye know I'm in the middle o' yer venture, don't ye?"
 493,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_HYURAN_MALE_TYPE3","What is it?"

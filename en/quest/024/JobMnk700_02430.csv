@@ -137,7 +137,7 @@ Int32,String,String
 132,"TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_DEAD","It's in...your hands..."
 133,"TEXT_JOBMNK700_02430_DZENTSA_000_069","Master Widargelt's gonna win. I know it."
 134,"TEXT_JOBMNK700_02430_OTCHAKHA_100_069","So it begins..."
-135,"TEXT_JOBMNK700_02430_WIDARGELT_000_060","Adri. When next we fight, let it be as brothers. Let it be face–to–face."
+135,"TEXT_JOBMNK700_02430_WIDARGELT_000_060","Adri. When next we fight, let it be as brothers. Let it be face<hex:021F0103>to<hex:021F0103>face."
 136,"TEXT_JOBMNK700_02430_WIDARGELT_000_061","I am weak. Too weak to bear the Fist of Rhalgr alone. Yet come what may, I will not give up. Each time I fall, I will pick myself up."
 137,"TEXT_JOBMNK700_02430_WIDARGELT_000_062","From my heart, I ask you this. Will you not join me? Help me to build a new Fist. One that knows not highborn or low. That discerns not shadow or light. A Fist of Rhalgr where all may belong."
 138,"TEXT_JOBMNK700_02430_ERIK_000_063","Your fiery zeal kindles hope within people's hearts, and doubt not but that many will come to you seeking strength─the strength to protect that which they hold dear, and by their own hands."

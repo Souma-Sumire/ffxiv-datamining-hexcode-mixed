@@ -151,7 +151,7 @@ Int32,String,String
 146,"TEXT_VOICEMAN_06505_001420_WUKLAMAT","I'd heard that Sharlayan cuisine was terrible, but this is fantastic!"
 147,"TEXT_VOICEMAN_06505_001430_ERENVILLE","What is this? It smells...spicy."
 148,"TEXT_VOICEMAN_06505_001440_WUKLAMAT","Oh come now, since when did you become so soft? It's not like we don't have spicy food in Tural too!"
-149,"TEXT_VOICEMAN_06505_001450_GRAHATIA","According to Dickon, intensely hot dishes have become popular in Radz–at–Han after a traveler ordered a curry with several times the usual amount of spice."
+149,"TEXT_VOICEMAN_06505_001450_GRAHATIA","According to Dickon, intensely hot dishes have become popular in Radz<hex:021F0103>at<hex:021F0103>Han after a traveler ordered a curry with several times the usual amount of spice."
 150,"TEXT_VOICEMAN_06505_001460_GRAHATIA","So he started offering the same in order to please the growing Hannish population here in Sharlayan."
 151,"TEXT_VOICEMAN_06505_001470_WUKLAMAT"," "
 152,"TEXT_VOICEMAN_06505_001480_WUKLAMAT","It's nothing...I can't handle!"

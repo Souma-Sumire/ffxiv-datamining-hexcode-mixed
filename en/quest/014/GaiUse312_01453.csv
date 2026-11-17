@@ -3,8 +3,8 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_GAIUSE312_01453_SEQ_00","The serpent lieutenant is ready to send you on your way."
-1,"TEXT_GAIUSE312_01453_SEQ_01","After hearing the account of your battle with Ramuh, the serpent lieutenant urges you to make your report directly to Kan–E–Senna. Return to Gridania, and speak with the silent conjurer to gain access to the Lotus Stand."
-2,"TEXT_GAIUSE312_01453_SEQ_02","You describe your encounter with the sylphs' guardian deity to the Elder Seedseer. The words of Ramuh appear to resonate with Kan–E–Senna, and she is unable to refute the Lord of Levin's claim that wherever man wanders, darkness follows closely behind. You exit the Lotus Stand at the conclusion to your audience, leaving Gridania's leader troubled and thoughtful despite the news of your victory. Report the details of your meeting to Papalymo who awaits you at Nophica's Altar."
+1,"TEXT_GAIUSE312_01453_SEQ_01","After hearing the account of your battle with Ramuh, the serpent lieutenant urges you to make your report directly to Kan<hex:021F0103>E<hex:021F0103>Senna. Return to Gridania, and speak with the silent conjurer to gain access to the Lotus Stand."
+2,"TEXT_GAIUSE312_01453_SEQ_02","You describe your encounter with the sylphs' guardian deity to the Elder Seedseer. The words of Ramuh appear to resonate with Kan<hex:021F0103>E<hex:021F0103>Senna, and she is unable to refute the Lord of Levin's claim that wherever man wanders, darkness follows closely behind. You exit the Lotus Stand at the conclusion to your audience, leaving Gridania's leader troubled and thoughtful despite the news of your victory. Report the details of your meeting to Papalymo who awaits you at Nophica's Altar."
 3,"TEXT_GAIUSE312_01453_SEQ_03","Unlike the Elder Seedseer, Papalymo appears satisfied with the outcome. Return to the Rising Stones and report to Minfilia."
 4,"TEXT_GAIUSE312_01453_SEQ_04","After listening to your report, Minfilia alludes to some news of her own. Before divulging anything more, however, the Antecedent suggests you first listen to Urianger's latest discovery concerning the nature of the Ascians' immortality. Could it be that the scholar has stumbled upon a means to bring about the permanent destruction of the Paragons?"
 5,"TEXT_GAIUSE312_01453_SEQ_05",""
@@ -26,7 +26,7 @@ Int32,String,String
 21,"TEXT_GAIUSE312_01453_SEQ_21",""
 22,"TEXT_GAIUSE312_01453_SEQ_22",""
 23,"TEXT_GAIUSE312_01453_SEQ_23",""
-24,"TEXT_GAIUSE312_01453_TODO_00","Speak with Kan–E–Senna at the Lotus Stand."
+24,"TEXT_GAIUSE312_01453_TODO_00","Speak with Kan<hex:021F0103>E<hex:021F0103>Senna at the Lotus Stand."
 25,"TEXT_GAIUSE312_01453_TODO_01","Speak with Papalymo at Nophica's Altar."
 26,"TEXT_GAIUSE312_01453_TODO_02","Speak with Minfilia in the Rising Stones."
 27,"TEXT_GAIUSE312_01453_TODO_03",""

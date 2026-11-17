@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CHRHDY251_04726_SEQ_00","The House Manderville artisan stands ready to facilitate your augmentation request.<hex:02100103>※Changing classes or jobs will prevent progress during this quest."
-1,"TEXT_CHRHDY251_04726_SEQ_01","You approach the House Manderville artisan with a request to augment a different Manderville weapon. The ever-enthusiastic craftsman asks only that you supply him with the necessary chunks of complementary chondrite─a substance which is, of course, only available from a particular merchant for a very particular type of currency.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+1,"TEXT_CHRHDY251_04726_SEQ_01","You approach the House Manderville artisan with a request to augment a different Manderville weapon. The ever-enthusiastic craftsman asks only that you supply him with the necessary chunks of complementary chondrite─a substance which is, of course, only available from a particular merchant for a very particular type of currency.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 2,"TEXT_CHRHDY251_04726_SEQ_02","You make the required meteoritic contribution, and are once more blessed to witness a collaboration of artisanal brilliance. Encouraged by Gerolt's grudging praise, the House Manderville artisan bids you call upon him again should you have other armaments you wish to have augmented."
 3,"TEXT_CHRHDY251_04726_SEQ_03",""
 4,"TEXT_CHRHDY251_04726_SEQ_04",""
@@ -62,9 +62,9 @@ Int32,String,String
 57,"TEXT_CHRHDY251_04726_SYSTEM_000_009","In order to accept the quest “The Next Mander-level,” please ensure that <hex:02310CFF05>Item<hex:03E802020203> is either equipped, in your Armoury Chest, or in your inventory."
 58,"TEXT_CHRHDY251_04726_CRAFTER04653_000_010","Am I free to perform an augmentation? Why, certainly, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>!"
 59,"TEXT_CHRHDY251_04726_CRAFTER04653_000_011","You need but contribute the necessary quantity of complementary chondrite, and we can elevate your Manderville weaponry to the next Mander-level, ahahaha! Ahem. Three chunks, if you please."
-60,"TEXT_CHRHDY251_04726_SYSTEM_000_012","Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+60,"TEXT_CHRHDY251_04726_SYSTEM_000_012","Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 61,"TEXT_CHRHDY251_04726_CRAFTER04653_000_020","Yes, that would be <hex:021A020203>three<hex:021A020103> chunks of complementary chondrite, I'm afraid. We wouldn't wish to upset the delicate balance of your armaments with an unproven ratio now, would we?"
-62,"TEXT_CHRHDY251_04726_SYSTEM_000_021","Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+62,"TEXT_CHRHDY251_04726_SYSTEM_000_021","Chunks of complementary chondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 63,"TEXT_CHRHDY251_04726_CRAFTER04653_000_030","<sniff> Is that chondrite I smell? Splendid! If you would be so kind as to unbuckle your weaponry...?"
 64,"TEXT_CHRHDY251_04726_CRAFTER04653_000_031","Are we ready to proceed, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>?"
 65,"TEXT_CHRHDY251_04726_CRAFTER04653_000_040","Very good. As for my inner fires, I assure you that they burn hotter than Master Gerolt's furnace. Let us bring the blacksmith and his hammer to bear, shall we?"

@@ -4,7 +4,7 @@ offset,0,4
 Int32,String,String
 0,"TEXT_AKTKCT103_04732_SEQ_00","Chora-Zoi is eager to continue improving the splendorous tools.<hex:02100103>※Changing classes or jobs will prevent progress during this quest."
 1,"TEXT_AKTKCT103_04732_SEQ_01","Chora-Zoi looks to Grenoldt for guidance in the next stage of your splendorous undertaking, but he turns the question back on the young artisan. Unable to choose from the swarm of ideas in her head, she realizes that you, the tool's wielder, may be able to provide the clearest direction for the augmentations. Your answer encourages her to make use of an adaptive substance similar to dark matter, the acquisition of which once more entails the preparation of quality trade goods.<hex:02100103><hex:02100103>※Please note that you may not proceed with a class or job that is different from when you accepted this quest."
-2,"TEXT_AKTKCT103_04732_SEQ_02","Thanks to Grenoldt's dream-inspired oil, the infusion of adaptive materials has successfully enhanced the splendorous tool even further. Chora–Zoi invites you to continue the collaboration as they strive towards Mowen's imagined future─one where Norvrandt is shaped for the better by the loving hands of its artisans."
+2,"TEXT_AKTKCT103_04732_SEQ_02","Thanks to Grenoldt's dream-inspired oil, the infusion of adaptive materials has successfully enhanced the splendorous tool even further. Chora<hex:021F0103>Zoi invites you to continue the collaboration as they strive towards Mowen's imagined future─one where Norvrandt is shaped for the better by the loving hands of its artisans."
 3,"TEXT_AKTKCT103_04732_SEQ_03",""
 4,"TEXT_AKTKCT103_04732_SEQ_04",""
 5,"TEXT_AKTKCT103_04732_SEQ_05",""

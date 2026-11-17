@@ -64,7 +64,7 @@ Int32,String,String
 59,"TEXT_LUCKSA050_03844_GEROLT_000_004","Hmm... Sounds like I was right to ask ye before settin' to work."
 60,"TEXT_LUCKSA050_03844_GEROLT_000_005","Seems to me those fancy markin's in the weapons are mainly for show. I can copy 'em, aye, but that won't be enough."
 61,"TEXT_LUCKSA050_03844_GEROLT_000_006","Like as not they were carved into the hilts as well. And to make sure the spell can take hold, ye'd need a finish with fine powder what's conductive to aether."
-62,"TEXT_LUCKSA050_03844_GEROLT_000_007","For material like that, I reckon ye'd need to consult the alchemists o' Radz–at–Han... <sigh> And I can only think o' one person with close contacts there."
+62,"TEXT_LUCKSA050_03844_GEROLT_000_007","For material like that, I reckon ye'd need to consult the alchemists o' Radz<hex:021F0103>at<hex:021F0103>Han... <sigh> And I can only think o' one person with close contacts there."
 63,"TEXT_LUCKSA050_03844_Q2_000_100","What will you say?"
 64,"TEXT_LUCKSA050_03844_A1_000_100","Rowena...?"
 65,"TEXT_LUCKSA050_03844_A2_000_100","Oh gods, you don't mean...?"

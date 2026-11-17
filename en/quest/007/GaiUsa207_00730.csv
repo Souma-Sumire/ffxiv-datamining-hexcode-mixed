@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_GAIUSA207_00730_SEQ_00","Yoenne wants you to check on the researchers surveying the ruins at Issom–Har."
-1,"TEXT_GAIUSA207_00730_SEQ_01","The researchers surveying the ruins at Issom–Har are overdue for their regular visit to Buscarron's Druthers. Head south to the nearby ruins, and look for the researcher known as Irielle."
+0,"TEXT_GAIUSA207_00730_SEQ_00","Yoenne wants you to check on the researchers surveying the ruins at Issom<hex:021F0103>Har."
+1,"TEXT_GAIUSA207_00730_SEQ_01","The researchers surveying the ruins at Issom<hex:021F0103>Har are overdue for their regular visit to Buscarron's Druthers. Head south to the nearby ruins, and look for the researcher known as Irielle."
 2,"TEXT_GAIUSA207_00730_SEQ_02","The unsuspecting victims of a swarm of chigoes, Irielle and her colleague had until recently been locked in a battle for their own survival. Though thankfully none the worse for the ordeal, Irielle asks that you discourage any further such attacks by summarily slaying five of the brood."
-3,"TEXT_GAIUSA207_00730_SEQ_03","You have exterminated the meddling chigoes and sent the rest of the brood scuttling back into the shadowy depths. Inform Irielle at Issom–Har of your deeds."
+3,"TEXT_GAIUSA207_00730_SEQ_03","You have exterminated the meddling chigoes and sent the rest of the brood scuttling back into the shadowy depths. Inform Irielle at Issom<hex:021F0103>Har of your deeds."
 4,"TEXT_GAIUSA207_00730_SEQ_04","Irielle and her colleague can now continue their survey, free of the insect menace. Report your success to Yoenne at Buscarron's Druthers."
 5,"TEXT_GAIUSA207_00730_SEQ_05","Yoenne is relieved to hear of her customers' safety, though at the same time disavowing all knowledge of Irielle's brother, or why she would be concerned with his safety."
 6,"TEXT_GAIUSA207_00730_SEQ_06",""
@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_GAIUSA207_00730_TODO_22",""
 47,"TEXT_GAIUSA207_00730_TODO_23",""
 48,"TEXT_GAIUSA207_00730_YOENNE_000_000","Hail, friend! Would you fancy a flagon of ale, or perhaps─ah, an adventurer! I can scarce believe my fortune. I was just looking for someone who might assist me in checking on the welfare of a couple of regulars."
-49,"TEXT_GAIUSA207_00730_YOENNE_000_001","To be precise, I'm looking for an expedition team poking around in the ruins of Issom–Har, due south of here. They usually turn up at the Druthers every few days, covered in dust and hungering for a hot meal, but they've not been in for nigh on a week."
+49,"TEXT_GAIUSA207_00730_YOENNE_000_001","To be precise, I'm looking for an expedition team poking around in the ruins of Issom<hex:021F0103>Har, due south of here. They usually turn up at the Druthers every few days, covered in dust and hungering for a hot meal, but they've not been in for nigh on a week."
 50,"TEXT_GAIUSA207_00730_YOENNE_000_002","Could well be that they're simply occupied with scholarly business, but they'd be running low on supplies by now, and that concerns me. Please, pay them a visit at the ruins and see if aught's amiss. You're looking for one by the name of “Irielle,” by the way. I...ah...forget the other one's name."
 51,"TEXT_GAIUSA207_00730_IRIELLE_000_010","Yes, may I help you with something? Ah, Yoenne was concerned for our well-being? How positively sweet of her, but as you can see, we are both quite hale and decidedly not deceased."
 52,"TEXT_GAIUSA207_00730_IRIELLE_000_011","We did, however, encounter certain practical difficulties when a veritable legion of chigoes burst forth from the depths of the pit. Your timing is impeccable, as we have only just succeeded in clambering out."

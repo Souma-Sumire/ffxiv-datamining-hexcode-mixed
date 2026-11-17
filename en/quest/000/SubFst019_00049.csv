@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_SUBFST019_00049_TODO_22",""
 47,"TEXT_SUBFST019_00049_TODO_23",""
 48,"TEXT_SUBFST019_00049_DUIMESSAND_000_1","You there, adventurer! Could you deliver a message for me?"
-49,"TEXT_SUBFST019_00049_DUIMESSAND_000_2","My superior, Millicent, is stationed outside Atelier Fen–Yll. She's doubtless busy, but I'm past due to be relieved."
+49,"TEXT_SUBFST019_00049_DUIMESSAND_000_2","My superior, Millicent, is stationed outside Atelier Fen<hex:021F0103>Yll. She's doubtless busy, but I'm past due to be relieved."
 50,"TEXT_SUBFST019_00049_DUIMESSAND_000_3","Long past due, truth be told. However, I can't simply abandon my post."
 51,"TEXT_SUBFST019_00049_DUIMESSAND_000_4","Speak to her for me, would you? But choose your words wisely─she has a bit of a temper."
 52,"TEXT_SUBFST019_00049_MILLICENT_000_10","What's all this about? Duimessand says he needs his break?"

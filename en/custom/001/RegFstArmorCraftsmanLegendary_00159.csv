@@ -11,7 +11,7 @@ Int32,String,String
 6,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_A1_000_3","The Ultimate Kettle."
 7,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_A1_000_4","Nothing."
 8,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_010","Bah, it's just you... Ye'd better bloody well be takin' care o' the relic─gods know she's too good fer the likes o' ye!"
-9,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_020","What in the seven hells do ye want now!? I fix ye up with nigh a dozen relics, an' what do I get for all me troubles? <hex:021A020203>Nothin'<hex:021A020103>! Not even a half–empty bottle o' mead! Thal take yer black heart! <sob>"
+9,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_020","What in the seven hells do ye want now!? I fix ye up with nigh a dozen relics, an' what do I get for all me troubles? <hex:021A020203>Nothin'<hex:021A020103>! Not even a half<hex:021F0103>empty bottle o' mead! Thal take yer black heart! <sob>"
 10,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_030","Ye keepin' that Jalzahn bloke busy? Good! Me head's poundin' somethin' fierce right now, an' it's all I can do to keep poundin' kettles!"
 11,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_040","...Atma? Don't know what the hells that is, but if it ain't worth a tankard o' mead, I don't give two shites!"
 12,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_050","...Eh? Stickin' materia all over the relic I painstakin'ly fixed!? Bah, it's yer bloody toy─ye can do whatever the hells ye want with it. Just don't come cryin' to me if it disintegrates in yer hands!"

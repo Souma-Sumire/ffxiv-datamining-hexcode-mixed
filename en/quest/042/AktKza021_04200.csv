@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_AKTKZA021_04200_TODO_22",""
 47,"TEXT_AKTKZA021_04200_TODO_23",""
 48,"TEXT_AKTKZA021_04200_YEDJINA_000_001","Aren't you the adventurer that saved Matsya? Excellent timing! If you have time to spare, I would ask a favor of you."
-49,"TEXT_AKTKZA021_04200_YEDJINA_000_002","You see, the dancers of Radz–at–Han are planning a performance to raise the people's spirits. We alchemists would like to support them with some of the finest accessories we can craft."
+49,"TEXT_AKTKZA021_04200_YEDJINA_000_002","You see, the dancers of Radz<hex:021F0103>at<hex:021F0103>Han are planning a performance to raise the people's spirits. We alchemists would like to support them with some of the finest accessories we can craft."
 50,"TEXT_AKTKZA021_04200_YEDJINA_000_003","Unfortunately, none of us have time to procure the crystals we need to finish them. It would be a great help if you could fetch the crystals from the merchant at the port at Yedlihmad. Of course, we will provide you with the necessary funds."
 51,"TEXT_AKTKZA021_04200_YEDJINA_000_004","Many thanks! The merchant is already aware of the situation and should be expecting someone to come by. I'll leave the selection of stones up to your no-doubt impeccable judgment."
 52,"TEXT_AKTKZA021_04200_YEDJINA_000_005","That should be enough coin for you to buy us whichever crystals catch your eye."

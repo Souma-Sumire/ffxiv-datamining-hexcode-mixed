@@ -10,7 +10,7 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 5,1,"To Crush Your Enemies V","Defeat 10,000 enemies.",0,0,10,0,0,255,255,0,2565,3,1,11,10000,0,0,0,0,0,0,0,5,1,0
 6,1,"To Crush Your Enemies VI","Defeat 50,000 enemies.",43,1,10,9,0,255,255,0,2565,3,1,11,50000,0,0,0,0,0,0,0,6,1,0
 7,1,"Let the Bodies Hit the Floor","Defeat 100,000 enemies.",43,1,30,0,2907,0,255,3,2565,3,1,11,100000,0,0,0,0,0,0,0,7,1,0
-8,54,"La Noscea Big Game Hunter","Defeat the notorious monsters Barometz, Slippery Sykes, Gluttonous Gertrude, bomb baron, Unknown Soldier, great buffalo, and Old Six–arms.",0,0,10,0,0,255,255,0,62904,2,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,54,"La Noscea Big Game Hunter","Defeat the notorious monsters Barometz, Slippery Sykes, Gluttonous Gertrude, bomb baron, Unknown Soldier, great buffalo, and Old Six<hex:021F0103>arms.",0,0,10,0,0,255,255,0,62904,2,0,0,0,0,0,0,0,0,0,0,0,1,0
 9,54,"Black Shroud Big Game Hunter","Defeat the notorious monsters Queen Bolete, Alux, the Jackanapes, Sirocco, Phaia, Haughtpox Bloatbelly, and the Prince of Pestilence.",0,0,10,0,0,255,255,0,62904,2,0,0,0,0,0,0,0,0,0,0,0,1,0
 10,54,"Thanalan Big Game Hunter","Defeat the notorious monsters Cactuar Jack, elder mosshorn, Daddy Longlegs, Kokoroon Quickfingers, nest commander, Bardi, and Pyrausta.",0,0,10,0,0,255,255,0,62904,2,0,0,0,0,0,0,0,0,0,0,0,1,0
 11,54,"Coerthas Big Game Hunter","Defeat the notorious monsters Uraeus, Spitfire, and Downy Dunstan.",0,0,10,0,0,255,255,0,62904,2,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -364,7 +364,7 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 359,57,"I Survived Camp Nine Ivies","Complete 20 regional battlecraft levequests originating at Camp Nine Ivies.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 360,57,"I Survived Camp Emerald Moss","Complete 20 regional battlecraft levequests originating at Camp Emerald Moss.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 361,57,"I Survived Treespeak","Complete 20 regional battlecraft levequests originating in Treespeak.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-362,57,"I Survived the Mun-Tuy Cellars","Complete 20 regional battlecraft levequests originating in the Mun–Tuy Cellars.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+362,57,"I Survived the Mun-Tuy Cellars","Complete 20 regional battlecraft levequests originating in the Mun<hex:021F0103>Tuy Cellars.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 363,57,"I Survived Camp Tranquil","Complete 20 regional battlecraft levequests originating at Camp Tranquil.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 364,57,"And All I Got Was This Lousy Achievement: Black Shroud","Complete 20 regional battlecraft levequests at each aetheryte camp and aetherial gate in the Black Shroud.",0,0,10,55,0,255,255,0,62902,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 365,57,"I Survived Camp Black Brush","Complete 20 regional battlecraft levequests originating at Camp Black Brush.",0,0,5,0,0,255,255,0,62916,0,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -390,7 +390,7 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 385,57,"To Serve and Protect: Camp Nine Ivies","Complete 10 behests at Camp Nine Ivies.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 386,57,"To Serve and Protect: Camp Emerald Moss","Complete 10 behests at Camp Emerald Moss.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 387,57,"To Serve and Protect: Treespeak","Complete 10 behests in Treespeak.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-388,57,"To Serve and Protect: Mun-Tuy Cellars","Complete 10 behests in the Mun–Tuy Cellars.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+388,57,"To Serve and Protect: Mun-Tuy Cellars","Complete 10 behests in the Mun<hex:021F0103>Tuy Cellars.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 389,57,"To Serve and Protect: Camp Tranquil","Complete 10 behests at Camp Tranquil.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 390,57,"The Black Shroud Got Served...and Protected","Complete 10 behests at each aetheryte camp and aetherial gate in the Black Shroud.",0,0,10,59,0,255,255,0,62902,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 391,57,"To Serve and Protect: Camp Black Brush","Complete 10 behests at Camp Black Brush.",0,0,5,0,0,255,255,0,62913,0,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -513,9 +513,9 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 508,58,"Clogging Along","Obtain a pair of lord's clogs or lady's clogs during the Moonfire Faire festivities.",0,0,5,0,0,255,255,0,62920,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 509,58,"Cascadier for Life","Obtain all six Moonfire Faire achievements.",0,0,20,87,0,255,255,0,62908,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 510,58,"Chock-full of Elemental Goodness","Obtain an over-aspected cluster.",0,0,20,88,0,255,255,0,62930,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-511,59,"One-upping the Antares","Defeat Antares in the Thousand Maws of Toto–Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-512,59,"Kicking Sargas and Taking Names","Defeat Sargas in the Thousand Maws of Toto–Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-513,59,"Shaula We Dance?","Defeat Shaula in the Thousand Maws of Toto–Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+511,59,"One-upping the Antares","Defeat Antares in the Thousand Maws of Toto<hex:021F0103>Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+512,59,"Kicking Sargas and Taking Names","Defeat Sargas in the Thousand Maws of Toto<hex:021F0103>Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+513,59,"Shaula We Dance?","Defeat Shaula in the Thousand Maws of Toto<hex:021F0103>Rak.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 514,59,"Like a Batraal out of Hell","Defeat Batraal in Dzemael Darkhold.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 515,59,"Miser Neutralizer","Defeat the Miser's Mistress in the Aurum Vale.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 516,59,"Raiding the Vale","Defeat the Miser's Mistress and open all five treasure coffers in the Aurum Vale.",0,0,5,0,0,255,255,0,62907,0,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -2049,15 +2049,15 @@ Int32,UInt8,String,String,UInt8,UInt8,UInt8,UInt16,UInt32,UInt8,UInt8,UInt8,UInt
 2044,66,"I've Got It: Pleiades Anemos","Obtain Pleiades Anemos.",0,0,10,0,0,255,255,0,34900,1,1,662,1,0,0,0,0,0,0,0,1300,1,0
 2045,49,"Making the Most of Anemos","Complete all the scenario quests within the Forbidden Land, Eureka Anemos.",0,0,10,0,0,255,255,0,26185,1,1,663,1,0,0,0,0,0,0,0,2111,1,0
 2046,49,"Mapping the Realm: Eureka Anemos","Discover every location within the Forbidden Land, Eureka Anemos.",0,0,10,0,0,255,255,0,1001,1,8,414,0,0,0,0,0,0,0,0,2101,1,0
-2047,2,"She's So High I","Clear the 10th floor of Heaven–on–High.",0,0,5,0,0,255,255,0,2533,1,1,667,1,0,0,0,0,0,0,0,101,1,0
-2048,2,"She's So High II","Clear the 20th floor of Heaven–on–High.",0,0,5,0,0,255,255,0,2533,1,1,668,1,0,0,0,0,0,0,0,102,1,0
-2049,2,"She's So High III","Clear the 30th floor of Heaven–on–High.",43,70,5,384,0,255,255,0,2533,1,1,669,1,0,0,0,0,0,0,0,103,1,0
-2050,2,"She's So High IV","Clear the 50th floor of Heaven–on–High.",0,0,10,0,0,255,255,0,2533,1,1,670,1,0,0,0,0,0,0,0,104,1,0
-2051,2,"She's So High V","Clear the 100th floor of Heaven–on–High.",43,70,10,385,0,255,255,0,2533,1,1,671,1,0,0,0,0,0,0,0,105,1,0
+2047,2,"She's So High I","Clear the 10th floor of Heaven<hex:021F0103>on<hex:021F0103>High.",0,0,5,0,0,255,255,0,2533,1,1,667,1,0,0,0,0,0,0,0,101,1,0
+2048,2,"She's So High II","Clear the 20th floor of Heaven<hex:021F0103>on<hex:021F0103>High.",0,0,5,0,0,255,255,0,2533,1,1,668,1,0,0,0,0,0,0,0,102,1,0
+2049,2,"She's So High III","Clear the 30th floor of Heaven<hex:021F0103>on<hex:021F0103>High.",43,70,5,384,0,255,255,0,2533,1,1,669,1,0,0,0,0,0,0,0,103,1,0
+2050,2,"She's So High IV","Clear the 50th floor of Heaven<hex:021F0103>on<hex:021F0103>High.",0,0,10,0,0,255,255,0,2533,1,1,670,1,0,0,0,0,0,0,0,104,1,0
+2051,2,"She's So High V","Clear the 100th floor of Heaven<hex:021F0103>on<hex:021F0103>High.",43,70,10,385,0,255,255,0,2533,1,1,671,1,0,0,0,0,0,0,0,105,1,0
 2052,65,"Empyrean Dreams","Obtain an empyrean aetherpool weapon.",0,0,10,0,0,255,255,0,27961,1,1,672,1,0,0,0,0,0,0,0,5000,1,0
 2053,19,"Dressed for Heaven","Speak with the cast-off Confederate while in possession of all four of the empyrean accessories.",43,70,10,386,0,255,255,0,2509,1,1,673,1,0,0,0,0,0,0,0,218,1,0
-2054,2,"Heaven Is a Lonely Place I","Clear the 1st through the 50th floors of Heaven–on–High solo and reach floor 51.",0,0,10,0,0,255,255,0,3321,1,1,674,1,0,0,0,0,0,0,0,108,1,0
-2055,2,"Heaven Is a Lonely Place II","Clear the 1st through the 100th floors of Heaven–on–High solo.",43,70,10,387,0,255,255,0,3321,1,1,675,1,0,0,0,0,0,0,0,109,1,0
+2054,2,"Heaven Is a Lonely Place I","Clear the 1st through the 50th floors of Heaven<hex:021F0103>on<hex:021F0103>High solo and reach floor 51.",0,0,10,0,0,255,255,0,3321,1,1,674,1,0,0,0,0,0,0,0,108,1,0
+2055,2,"Heaven Is a Lonely Place II","Clear the 1st through the 100th floors of Heaven<hex:021F0103>on<hex:021F0103>High solo.",43,70,10,387,0,255,255,0,3321,1,1,675,1,0,0,0,0,0,0,0,109,1,0
 2056,2,"For the Hoard V","Discover 10,000 pieces of the Accursed Hoard.",43,60,20,388,0,255,255,0,60035,1,1,539,10000,0,0,0,0,0,0,0,39,1,0
 2057,49,"Mapping the Realm: The Swallow's Compass","Discover every location within the Swallow's Compass.",0,0,10,0,0,255,255,0,1001,1,8,464,0,0,0,0,0,0,0,0,71,1,0
 2058,49,"Mapping the Realm: The Ridorana Lighthouse","Discover every location within the Ridorana Lighthouse.",0,0,10,0,0,255,255,0,1001,1,8,470,0,0,0,0,0,0,0,0,1502,23,0

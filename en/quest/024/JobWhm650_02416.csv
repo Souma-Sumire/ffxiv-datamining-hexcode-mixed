@@ -108,7 +108,7 @@ Int32,String,String
 103,"TEXT_JOBWHM650_02416_SANCHE_000_089","Thank you again for your aid. Gatty talks endlessly about you both, but I suppose that's only natural. I haven't encouraged guests in the past..."
 104,"TEXT_JOBWHM650_02416_SYLPHIE_000_090","I'm sorry, I sort of took matters into my own hands there. I know it's a lot to ask, but can you please keep this a secret from the guildmaster for the time being?"
 105,"TEXT_JOBWHM650_02416_Q1_000_000","What will you say?"
-106,"TEXT_JOBWHM650_02416_A1_000_001","We should consult Brother E–Sumi–Yan."
+106,"TEXT_JOBWHM650_02416_A1_000_001","We should consult Brother E<hex:021F0103>Sumi<hex:021F0103>Yan."
 107,"TEXT_JOBWHM650_02416_A1_000_002","I promise!"
 108,"TEXT_JOBWHM650_02416_A1_000_003","..."
 109,"TEXT_JOBWHM650_02416_SYLPHIE_000_091","If we do that, the guild will take Gatty away from her mother. And we've seen what happens when the girl gets upset."

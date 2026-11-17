@@ -58,7 +58,7 @@ Int32,String,String
 53,"TEXT_JOBMCH501_01704_BAURENDOUIN_000_012","(-Count Baurendouin de Haillenarte-)Pray remember that the collected gaze of Ishgard shall be focused on this contest. A poor showing will cost us our funding from the Holy See, and cast an uncertain shadow over the future of the manufactory."
 54,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_013","I have never been more ready, Father. Now, relinquish your doubts, find yourself a nice vantage point, and enjoy the spectacle!"
 55,"TEXT_JOBMCH501_01704_ROSTNSTHAL_000_014","(-Rostnsthal-)I'm off to find a perch meself, but 'ere's one piece o' advice afore I go: make the most o' the terrain."
-56,"TEXT_JOBMCH501_01704_ROSTNSTHAL_000_015","(-Rostnsthal-)There's a few choice spots where I'd lay an ambush...or expect me enemies to lay one for me. Just be sure ye've given the place a good once–over, eh?"
+56,"TEXT_JOBMCH501_01704_ROSTNSTHAL_000_015","(-Rostnsthal-)There's a few choice spots where I'd lay an ambush...or expect me enemies to lay one for me. Just be sure ye've given the place a good once<hex:021F0103>over, eh?"
 57,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_016","You heard the instructor! Give the word, and we shall endeavor to learn the lay of the land!"
 58,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_019","Let's review our strategy, shall we? ...Unless you would rather simply begin the tourney, in which case you may speak with our machinist messenger."
 59,"TEXT_JOBMCH501_01704_QIB_001_TODO001","Inspect the black standard."

@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CHRHDY351_04772_SEQ_00","The House Manderville artisan stands ready to facilitate your augmentation request.<hex:02100103>※Changing classes or jobs will prevent progress during this quest."
-1,"TEXT_CHRHDY351_04772_SEQ_01","Having resolved to have a different Manderville weapon augmented, you consult with the House Manderville artisan. Enthusiastic yet apologetic, he asks that you once more supply him with the necessary rare materials─in this case, three chunks of amplifying achondrite.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+1,"TEXT_CHRHDY351_04772_SEQ_01","Having resolved to have a different Manderville weapon augmented, you consult with the House Manderville artisan. Enthusiastic yet apologetic, he asks that you once more supply him with the necessary rare materials─in this case, three chunks of amplifying achondrite.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 2,"TEXT_CHRHDY351_04772_SEQ_02","As promised, the House Manderville retainers─with the aid of the ever-irascible Gerolt─elevate your chosen weaponry to a new stage of majesty. Should you wish to augment other armaments, the artisan bids you engage their services without hesitation."
 3,"TEXT_CHRHDY351_04772_SEQ_03",""
 4,"TEXT_CHRHDY351_04772_SEQ_04",""
@@ -63,9 +63,9 @@ Int32,String,String
 58,"TEXT_CHRHDY351_04772_SYSTEM_000_009","In order to accept the quest “In Need of Adjustment,” please ensure that <hex:02310CFF05>Item<hex:03E802020203> is either equipped, in your Armoury Chest, or in your inventory."
 59,"TEXT_CHRHDY351_04772_CRAFTER04653_000_010","Another augmentation, is it? Certainly, certainly! I am equipped with every tool and material required to reforge your weaponry."
 60,"TEXT_CHRHDY351_04772_CRAFTER04653_000_011","...Every material, that is, save for three pieces of extraordinarily rare achondrite. I do apologize for singing the same tune over and over, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, but I must ask that you supply this most precious resource yourself."
-61,"TEXT_CHRHDY351_04772_SYSTEM_000_012","Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+61,"TEXT_CHRHDY351_04772_SYSTEM_000_012","Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 62,"TEXT_CHRHDY351_04772_CRAFTER04653_000_020","Still attempting to acquire the achondrite, are we? Please, take all the time you need. I am well compensated for standing idly at my station, day after day...after day."
-63,"TEXT_CHRHDY351_04772_SYSTEM_000_021","Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+63,"TEXT_CHRHDY351_04772_SYSTEM_000_021","Chunks of amplifying achondrite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 64,"TEXT_CHRHDY351_04772_CRAFTER04653_000_030","Ah, you've acquired the achondrite! Pray unbuckle your weaponry that we might lavish it with our full artisanal attentions."
 65,"TEXT_CHRHDY351_04772_CRAFTER04653_000_031","By your expectant gaze, might I assume we are ready to proceed?"
 66,"TEXT_CHRHDY351_04772_CRAFTER04653_000_040","Yes, these achondrite chunks are all suitably chunky. Let the augmentation process begin!"

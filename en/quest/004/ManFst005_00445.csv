@@ -107,7 +107,7 @@ Int32,String,String
 102,"TEXT_MANFST005_00445_300380_YDA","(-Animated Pugilist-)How are we feeling, then? Better? Good!"
 103,"TEXT_MANFST005_00445_300390_YDA","(-Animated Pugilist-)Giant crystals? Can't say I've seen any... Are you <hex:021A020203>sure<hex:021A020103> you're feeling better?"
 104,"TEXT_MANFST005_00445_300400_PAPALYMO","(-Short-tempered Thaumaturge-)...Understood. Over and out."
-105,"TEXT_MANFST005_00445_300410_PAPALYMO","(-Short-tempered Thaumaturge-)Kuplo Kopp. Please bear word of these developments to Brother E–Sumi–Yan. We shall soon return to give a full report."
+105,"TEXT_MANFST005_00445_300410_PAPALYMO","(-Short-tempered Thaumaturge-)Kuplo Kopp. Please bear word of these developments to Brother E<hex:021F0103>Sumi<hex:021F0103>Yan. We shall soon return to give a full report."
 106,"TEXT_MANFST005_00445_300420_KUPLOKOPP","(-Kuplo Kopp-)Understood! Over and out, kupo!"
 107,"TEXT_MANFST005_00445_300430_PAPALYMO","(-Short-tempered Thaumaturge-)Here is where we part ways. Till next time, take care!"
 108,"TEXT_MANFST005_00445_300440_YDA","(-Animated Pugilist-)I think that sword might be a clue! You should definitely pull it out and take it back to the Bannock!"

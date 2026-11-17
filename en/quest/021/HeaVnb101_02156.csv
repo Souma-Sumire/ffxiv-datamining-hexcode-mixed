@@ -53,7 +53,7 @@ Int32,String,String
 48,"TEXT_HEAVNB101_02156_ALPHINAUD_000_001","Fortuitous timing as always, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Tataru was about to brief me on the search for our missing comrades."
 49,"TEXT_HEAVNB101_02156_ALPHINAUD_000_002","If you would be so kind, then?"
 50,"TEXT_HEAVNB101_02156_TATARU_000_003","Absolutely! You'll be pleased to hear that Riol and his men have been making excellent progress!"
-51,"TEXT_HEAVNB101_02156_TATARU_000_004","You remember how F'lhaminn helped me to escape the Crystal Braves in Limsa Lominsa, only to then disappear? <hex:021A020203>Well<hex:021A020103>, according to Riol, she crept aboard a ship bound for Radz–at–Han, where she's been hiding ever since. He assures me that it won't be long before we're reunited."
+51,"TEXT_HEAVNB101_02156_TATARU_000_004","You remember how F'lhaminn helped me to escape the Crystal Braves in Limsa Lominsa, only to then disappear? <hex:021A020203>Well<hex:021A020103>, according to Riol, she crept aboard a ship bound for Radz<hex:021F0103>at<hex:021F0103>Han, where she's been hiding ever since. He assures me that it won't be long before we're reunited."
 52,"TEXT_HEAVNB101_02156_TATARU_000_005","As for Yda and Papalymo, the remains of their linkpearls have been found─and in <hex:021A020203>Pearl Lane<hex:021A020103> of all places. Riol thinks they must have disposed of them after escaping from the Royal Promenade."
 53,"TEXT_HEAVNB101_02156_ALPHINAUD_000_006","Yes, that would make sense... They could not risk being eavesdropped upon by our betrayers."
 54,"TEXT_HEAVNB101_02156_TATARU_000_007","We're all but certain they fled the city shortly after...though we still don't have a clue where they went."

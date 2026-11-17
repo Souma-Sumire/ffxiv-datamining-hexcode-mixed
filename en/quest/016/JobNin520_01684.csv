@@ -71,7 +71,7 @@ Int32,String,String
 66,"TEXT_JOBNIN520_01684_MONSTERC01684_000_043","Intruder! We've got an intruder!"
 67,"TEXT_JOBNIN520_01684_AKAGI_000_050","Whew... Only a diversion, you said, but it was bloody frightenin'!"
 68,"TEXT_JOBNIN520_01684_OBORO_000_100","All we can do, we have done. Princess Yuki should have made it inside by now."
-69,"TEXT_JOBNIN520_01684_MONSTER01684_000_101","Heh...hehe... P–Put paid to the watch, but n–not the watchdogs... Wh–When they get their teeth into you lot... Ehehehe! <gurgle> "
+69,"TEXT_JOBNIN520_01684_MONSTER01684_000_101","Heh...hehe... P<hex:021F0103>Put paid to the watch, but n<hex:021F0103>not the watchdogs... Wh<hex:021F0103>When they get their teeth into you lot... Ehehehe! <gurgle> "
 70,"TEXT_JOBNIN520_01684_OBORO_000_102","What!? Quickly, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, inside the camp!"
 71,"TEXT_JOBNIN520_01684_YUKI_000_103","(-Yuki-)Save yourselves the effort. The black market records are mine."
 72,"TEXT_JOBNIN520_01684_YUKI_100_103","Our jade jewel is mentioned in here. The Midare Kanemitsu dagger, as well."

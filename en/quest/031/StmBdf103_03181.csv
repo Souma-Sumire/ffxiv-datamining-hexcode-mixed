@@ -51,7 +51,7 @@ Int32,String,String
 46,"TEXT_STMBDF103_03181_TODO_22",""
 47,"TEXT_STMBDF103_03181_TODO_23",""
 48,"TEXT_STMBDF103_03181_ALISAIE_000_000","You obviously have some idea of what to expect, having seen the barrier at Azys Lla. But having not had that pleasure myself, I'm exceedingly curious to see a wall capable of keeping out one of those massive imperial airships."
-49,"TEXT_STMBDF103_03181_YUGIRI_000_001","As expected, Sui–no–Sato failed to answer the call. Not that I blame the Ruby Princess. Enlightened as she is reputed to be, it could be no easy task persuading her people to relinquish their long-held isolation."
+49,"TEXT_STMBDF103_03181_YUGIRI_000_001","As expected, Sui<hex:021F0103>no<hex:021F0103>Sato failed to answer the call. Not that I blame the Ruby Princess. Enlightened as she is reputed to be, it could be no easy task persuading her people to relinquish their long-held isolation."
 50,"TEXT_STMBDF103_03181_HAKUROU_000_002","If we can but block the Garleans' airships, the speed with which they deploy their forces will be greatly diminished."
 51,"TEXT_STMBDF103_03181_TANSUI_000_003","Out on the open sea, I would happily take on any vessel. But here on dry land is another matter. The Empire's iron monstrosities will ever have the upper hand."
 52,"TEXT_STMBDF103_03181_AOKORAHERALD_000_004","If only we could persuade our kin of the error of their ways. With the Red at our side, we would make a truly formidable force..."

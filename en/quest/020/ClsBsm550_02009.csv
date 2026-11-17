@@ -80,7 +80,7 @@ Int32,String,String
 75,"TEXT_CLSBSM550_02009_FREMONDAIN_000_072","I fear we cannot watch Baroness Laurisse─only gentry may attend the grand tourney─but we are free to listen from outside the Lightfeather Proving Grounds. I will be there anon, if you care to wait."
 76,"TEXT_CLSBSM550_02009_FREMONDAIN_000_080","You must hurry to the Lightfeather Proving Grounds if you wish to hear Baroness Laurisse's matches."
 77,"TEXT_CLSBSM550_02009_FREMONDAIN_000_100","My mistress was most pleased with your creation, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! I daresay she is proving her mettle with it even as we speak!"
-78,"TEXT_CLSBSM550_02009_FREMONDAIN_000_101","B-Baroness! That you would be out of the arena in so short a time... D–Did something ill befall...?"
+78,"TEXT_CLSBSM550_02009_FREMONDAIN_000_101","B-Baroness! That you would be out of the arena in so short a time... D<hex:021F0103>Did something ill befall...?"
 79,"TEXT_CLSBSM550_02009_LAURISSE_000_102","Haha, Fremondain, ever the worrier! I won this round! And it was all thanks to your sword, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! The balance of the blade is perfect! Why, I could have wielded it all day, and still slain a wyrm to boot!"
 80,"TEXT_CLSBSM550_02009_FREMONDAIN_000_103","A splendid start to the tourney, Mistress! Please, regale us─how many bouts did you take part in?"
 81,"TEXT_CLSBSM550_02009_LAURISSE_000_104","Three. Two, I won, and the third was a draw. But I was declared winner in five more, as my challengers forfeited."

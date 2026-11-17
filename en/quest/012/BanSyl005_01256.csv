@@ -73,7 +73,7 @@ Int32,String,String
 68,"TEXT_BANSYL005_01256_FRIXIO_000_055","Alas, poor bumbling one... It would seem that one's mind has turned to feathers."
 69,"TEXT_BANSYL005_01256_VOYCE_000_056","(-Voco-)Why do you tarry, adventurer? With each passing moment, the threat to this realm grows! Yes, Voco must press on ahead, with or without you! Fear not, Chosen One, for Voco will rush to your aid! Kweh!"
 70,"TEXT_BANSYL005_01256_FRIXIO_000_057","It appears brave one's task will be even more difficult than this one imagined. This one begs of brave one─do try to keep feathery one from making a bumbling mess of everything."
-71,"TEXT_BANSYL005_01256_VOYCE_000_058","Kweh! The forest is a frightening place, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03>, but take heart! Voco, prince of chocobos, fleetest foot in the Twelveswood, shall...kweh? Wh–What was that noise!?"
+71,"TEXT_BANSYL005_01256_VOYCE_000_058","Kweh! The forest is a frightening place, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03>, but take heart! Voco, prince of chocobos, fleetest foot in the Twelveswood, shall...kweh? Wh<hex:021F0103>What was that noise!?"
 72,"TEXT_BANSYL005_01256_SYSTEM_000_058",""
 73,"TEXT_BANSYL005_01256_VOYCE_100_058","To the Seedbed! Kweh, kweh, kweeeh!"
 74,"TEXT_BANSYL005_01256_VOYCE_101_058","K-Kweh! My wings...flap...no more..."

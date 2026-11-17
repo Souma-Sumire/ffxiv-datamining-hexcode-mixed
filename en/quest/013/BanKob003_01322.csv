@@ -111,7 +111,7 @@ Int32,String,String
 106,"TEXT_BANKOB003_01322_BIBI_000_119","Zo Ga is on a rampage─a fury, a frenzy, a rampage! He says he'll find the culprit, and toss him into a vat of acid. He will kill you, Zo Ga─yes, yes, he will!"
 107,"TEXT_BANKOB003_01322_GIGU_000_120","<gulp> But I'm too young to die! Yes, yes, I am!"
 108,"TEXT_BANKOB003_01322_BIBI_000_121","Then you must abandon this madness and flee this place─run, take flight, flee!"
-109,"TEXT_BANKOB003_01322_GIGU_000_122","Y-Yes, yes, I think I will. It was nice knowing you all. Good–bye, good luck, farewell─"
+109,"TEXT_BANKOB003_01322_GIGU_000_122","Y-Yes, yes, I think I will. It was nice knowing you all. Good<hex:021F0103>bye, good luck, farewell─"
 110,"TEXT_BANKOB003_01322_SKAETSWYS_000_123","Gah! Are ye out o' yer bloody mind!? Ye've come this far, and yer just goin' to leave yer comrades behind? Take one cowardly step, and I'll skewer ye where ye stand!"
 111,"TEXT_BANKOB003_01322_GIGU_000_124","Y-Yes, of c-course! I-I will stand and do battle─clash, brawl, battle!"
 112,"TEXT_BANKOB003_01322_BIBI_000_125","<sigh> You have not changed one bit, Gi Gu. No, no, you are as weak and wishy-washy as ever. Can you not make up your own mind?"

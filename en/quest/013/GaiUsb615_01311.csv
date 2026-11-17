@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,"TEXT_GAIUSB615_01311_SEQ_00","When there's more snow on the ground than hot meals on the table, all you can do is join Duvicauroix in a little snow–toss."
+0,"TEXT_GAIUSB615_01311_SEQ_00","When there's more snow on the ground than hot meals on the table, all you can do is join Duvicauroix in a little snow<hex:021F0103>toss."
 1,"TEXT_GAIUSB615_01311_SEQ_01","Duvicauroix wants you to toss a snowball at him. Do as bade and /throw at the merry trader, making sure to aim first."
 2,"TEXT_GAIUSB615_01311_SEQ_02","You have learned that performing a /throw in a snowy spot lets you toss snowballs. Pleased with your zeal but disinclined to continue serving as your target, Duvicauroix suggests you seek out a snowman."
 3,"TEXT_GAIUSB615_01311_SEQ_03","You have found to your astonishment that the snowman seems hungry, but also that he refuses to eat anything that throws as weakly as you do. Prove yourself a worthy snack and /throw another snowball at him."
@@ -72,5 +72,5 @@ Int32,String,String
 67,"TEXT_GAIUSB615_01311_SNOWMAN_000_044","(-Snowman-)Revolutionaries always get called crazy."
 68,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_050","There you are. You were at it a while! Nothing like a little hoarfrost on the nose hair, eh?"
 69,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_051","Snowman talked, you say? Don't see how... I rolled the thing myself, and it wasn't like I engaged a swivin' white mage."
-70,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_052","Now, you go lie down a spell and don't go saying nothing to them inside. They'll figure you a winter–drunk for sure. They might even put you in for a leeching."
-71,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_053","Come by for another snow-toss when you're feeling less fanciful! This damned winter can't last forever. But if it does, maybe I'll start a snow–toss tourney, see if I can make a gil or two."
+70,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_052","Now, you go lie down a spell and don't go saying nothing to them inside. They'll figure you a winter<hex:021F0103>drunk for sure. They might even put you in for a leeching."
+71,"TEXT_GAIUSB615_01311_DUVICAUROIX_000_053","Come by for another snow-toss when you're feeling less fanciful! This damned winter can't last forever. But if it does, maybe I'll start a snow<hex:021F0103>toss tourney, see if I can make a gil or two."

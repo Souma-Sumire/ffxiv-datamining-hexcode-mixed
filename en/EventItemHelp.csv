@@ -77,7 +77,7 @@ Int32,String,PackedBool0
 2000072,"",False
 2000073,"",False
 2000074,"Mother Miounne's realm-famous eel pie. Served only in her fine establishment, the Carline Canopy.",True
-2000075,"A hempen bag filled halfway with ripe Mun–Tuy beans.",True
+2000075,"A hempen bag filled halfway with ripe Mun<hex:021F0103>Tuy beans.",True
 2000076,"A sweetly scented letter dropped by Ailbert.",True
 2000077,"A tender, fleshy leaf taken from a microchu.",True
 2000078,"",False
@@ -105,7 +105,7 @@ Int32,String,PackedBool0
 2000100,"Having been left uncovered for a few days, this cheap Aleport brew has lost all of its bubbles.",True
 2000101,"A fragrant oil pressed from freshly harvested Azeyma rose hips.",True
 2000102,"A heavy stone used by the Wood Wailers for training with the lance.",True
-2000103,"A flask of brownish oil you received from Brother E–Sumi–Yan. It reeks of decayed earth.",True
+2000103,"A flask of brownish oil you received from Brother E<hex:021F0103>Sumi<hex:021F0103>Yan. It reeks of decayed earth.",True
 2000104,"An instrument widely used in maritime navigation. This one appears to have been a victim of the elements.",True
 2000105,"An instrument widely used in maritime navigation. This one appears to have been a victim of the elements.",True
 2000106,"",False
@@ -205,7 +205,7 @@ Int32,String,PackedBool0
 2000200,"If cured properly, antelope meat can be stored for up to three summers.",True
 2000201,"A small piece of parchment detailing an order for a gaudy circlet.",True
 2000202,"",False
-2000203,"A simple wooden box containing several handfuls of Mun–Tuy beans─a favorite of Black Shroud lemurs.",True
+2000203,"A simple wooden box containing several handfuls of Mun<hex:021F0103>Tuy beans─a favorite of Black Shroud lemurs.",True
 2000204,"An unusually small cane you found lying upon a stump.",True
 2000205,"An unusually small cane you found lying upon a stump.",True
 2000206,"An unlocked box containing several basic tools employed by hunters to trap their prey.",True
@@ -230,7 +230,7 @@ Int32,String,PackedBool0
 2000225,"A lovely flower for the lovely Ghimthota.",True
 2000226,"",False
 2000227,"",False
-2000228,"A piece of pottery dating back to an age when the city–state of Gelmorra prospered.",True
+2000228,"A piece of pottery dating back to an age when the city<hex:021F0103>state of Gelmorra prospered.",True
 2000229,"An ornately decorated sword found thrust into Lifemend Stump.",True
 2000230,"Though yarzons are said to be attracted to the stench of most any kind of rotting flesh, they become especially excited when that flesh is of a fellow vilekin.",True
 2000231,"A small, high-pitched whistle that hunters use to mimic bird calls and send signals to their companions.",True
@@ -311,7 +311,7 @@ Int32,String,PackedBool0
 2000306,"A thick section of root, moist to the touch.",True
 2000307,"The oils produced within these newly formed buds are highly fragrant, making them perfect for flavoring cakes and liquors.",True
 2000308,"As galago mint leaves mature, the oils produced within the leaves evaporate, making them less fragrant than their younger counterparts.",True
-2000309,"A faded bronze piece, stamped with the seal of the ancient subterranean city–state of Gelmorra.",True
+2000309,"A faded bronze piece, stamped with the seal of the ancient subterranean city<hex:021F0103>state of Gelmorra.",True
 2000310,"Countless seasons of exposure to the elements have resulted in the blue-green coating this unidentifiable piece of metal now carries.",True
 2000311,"From end to end, this tree branch is almost as long as a full-grown Roegadyn is tall.",True
 2000312,"If allowed to decay further, these leaves will make for good, rich soil.",True
@@ -448,7 +448,7 @@ Int32,String,PackedBool0
 2000443,"",False
 2000444,"Fuel used to light the streetlamps of Limsa Lominsa. It reeks of fish.",True
 2000445,"A letter addressed to Lominsan Admiral Merlwyb Bloefhiswyn.",True
-2000446,"A letter addressed to Gridanian Elder Seedseer Kan–E–Senna.",True
+2000446,"A letter addressed to Gridanian Elder Seedseer Kan<hex:021F0103>E<hex:021F0103>Senna.",True
 2000447,"A common weed rumored to have relaxing properties when either ingested or smoked.",True
 2000448,"The only thing written on this slip of parchment appears to be a mess of squiggly lines and randomly positioned ink blots.",True
 2000449,"This booklet, penned by a log assessor from Mealvaan's Gate, contains the names of merchants who have yet to pay the duty on the goods they imported into Limsa Lominsa.",True
@@ -460,7 +460,7 @@ Int32,String,PackedBool0
 2000455,"A drawing of a man(?) pieced together from descriptions given by eyewitnesses to his crimes most heinous.",True
 2000456,"A letter addressed to Lominsan Admiral Merlwyb Bloefhiswyn.",True
 2000457,"A letter addressed to Ul'dahn Flame General Raubahn Aldynn.",True
-2000458,"A letter addressed to Gridanian Elder Seedseer Kan–E–Senna.",True
+2000458,"A letter addressed to Gridanian Elder Seedseer Kan<hex:021F0103>E<hex:021F0103>Senna.",True
 2000459,"A letter addressed to Ul'dahn Flame General Raubahn Aldynn.",True
 2000460,"A piece of parchment containing prices from shops and stalls all over Limsa Lominsa.",True
 2000461,"This plain dagger has absolutely no defining characteristics except that the hilt does smell quite nice.",True
@@ -576,7 +576,7 @@ Int32,String,PackedBool0
 2000571,"A nutrient-rich alchemic compound used to quicken seedkin growth.",True
 2000572,"This wooden box contains all manner of pointy instruments used by trappers when hunting their prey.",True
 2000573,"The thick white sap extracted from this ochu root has the power to grant its user wondrously terrible visions.",True
-2000574,"An important missive penned by Seedseer Kan–E–Senna and addressed to a sylph elder.",True
+2000574,"An important missive penned by Seedseer Kan<hex:021F0103>E<hex:021F0103>Senna and addressed to a sylph elder.",True
 2000575,"Almost large enough for a Lalafellin child, this cane appears more suited for a sylph than a man.",True
 2000576,"At a glance, this tender green leaf looks as if it could be from a gysahl green.",True
 2000577,"Legend says that Eorzea was once inhabited by a race of tiny creatures called brownies, and they would use the spores of this particular mushroom to paint their faces for battle.",True
@@ -587,7 +587,7 @@ Int32,String,PackedBool0
 2000582,"When making an offering of antelope innards to the spirits of the wood, it is proper if they are still warm.",True
 2000583,"The spirits of the wood despise those creatures who shun harmony, such as the ravenous kedtraps. Offerings of the seedkin's petals will soothe the savage spirits.",True
 2000584,"",False
-2000585,"A piece of pottery dating back to an age when the city–state of Gelmorra prospered.",True
+2000585,"A piece of pottery dating back to an age when the city<hex:021F0103>state of Gelmorra prospered.",True
 2000586,"A clay pipkin packed with ground bomb fingers and claws and sealed with wax.",True
 2000587,"A weathered brass earring fitted with a polished scarlet stone. A favorite of the forgetful Qiqirn Teteroon.",True
 2000588,"A banded barrel large enough to hide a family of Lalafells. Fortunately, no families lurk inside at the moment.",True
@@ -613,7 +613,7 @@ Int32,String,PackedBool0
 2000608,"A sister of the faerie apple developed by the Greatloam Growery to better withstand the elements, while yielding larger harvests.",True
 2000609,"A great battleaxe passed down through the generations until it finally fell to Cuthbert.",True
 2000610,"A strong-smelling herb used in salads, fish dishes, or to flavor distilled liquors.",True
-2000611,"A flavorful liquid made from salt and fermented Mun–Tuy beans.",True
+2000611,"A flavorful liquid made from salt and fermented Mun<hex:021F0103>Tuy beans.",True
 2000612,"This particular specimen is almost twice as long as a normal horn. How it grew to this size in a single season is baffling.",True
 2000613,"If one is to believe Buscarron, this sour-smelling paste from Ala Mhigo will stop a wound from festering.",True
 2000614,"A quickly drawn up letter addressed to one Gundobald.",True
@@ -797,7 +797,7 @@ Int32,String,PackedBool0
 2000792,"A thesis written by Alka Zolka on the proper habiliments of a scholar.",True
 2000793,"The deep blue-green sap extracted from the tiny leaves of this fleshy plant was once used across Vylbrand to dye cloth.",True
 2000794,"The finishing touches are all that await these fine pieces of scholarly raiments.",True
-2000795,"The final remains of the wandering Padjal, A–Towa–Cant.",True
+2000795,"The final remains of the wandering Padjal, A<hex:021F0103>Towa<hex:021F0103>Cant.",True
 2000796,"A wooden cargo crate used by Mealvaan's Gate to train new assessors.",True
 2000797,"Both sides are filled with letters and markings unlike any you have seen in Eorzea.",True
 2000798,"A spell tome entrusted to you by Arcanists' Guild guildmaster K'rhid Tia. The leather binding is uncracked and its pages are still crisp.",True
@@ -838,7 +838,7 @@ Int32,String,PackedBool0
 2000833,"A large round slice of Wellwick worm white meat.",True
 2000834,"",False
 2000835,"An aromatic spice native to the Black Shroud used to liven up bland dishes.",True
-2000836,"One of the secret ingredients used when brewing Mun–Tuy sauce.",True
+2000836,"One of the secret ingredients used when brewing Mun<hex:021F0103>Tuy sauce.",True
 2000837,"A simple clay pot that has been treated on the inside with a special alchemical sealant.",True
 2000838,"This warded pot contains a corrupted crystal.",True
 2000839,"A simple clay pot that has been treated on the inside with a special alchemical sealant.",True
@@ -946,7 +946,7 @@ Int32,String,PackedBool0
 2000941,"New footwear for a white mage, or footwear for a new white mage?",True
 2000942,"New headgear for a white mage, or headgear for a new white mage?",True
 2000943,"A new habit for a white mage, or a habit for a new white mage?",True
-2000944,"The final remains of the wandering Padjal, A–Towa–Cant.",True
+2000944,"The final remains of the wandering Padjal, A<hex:021F0103>Towa<hex:021F0103>Cant.",True
 2000945,"The brands of unbelievers and enemies of the Holy See.",True
 2000946,"A broad green leaf from a thought-to-be-extinct Bacchus grape vine.",True
 2000947,"A box that resembles a piece of Allagan masonry, containing a to-scale replica of the Crystal Tower carved from crystal.",True
@@ -965,7 +965,7 @@ Int32,String,PackedBool0
 2000960,"A clear glass bottle filled to the brim with cold water.",True
 2000961,"An exceptionally pungent vinegar made from the fermenting of Coerthas-grown apples.",True
 2000962,"A linen pouch stuffed with hot pepper powder which can blind a man for several bells if thrown in his eyes. Always wash hands after handling.",True
-2000963,"Gridanian spring water blessed and imbued with purifying magicks by Brother O–App–Pesi.",True
+2000963,"Gridanian spring water blessed and imbued with purifying magicks by Brother O<hex:021F0103>App<hex:021F0103>Pesi.",True
 2000964,"The finishing touches are all that await these fine pieces of scholarly raiments.",True
 2000965,"This stone may have been the only thing preventing the elder primal Odin's return to Eorzea, and now the stone is destroyed.",True
 2000966,"The sylph's peaceful expression belies the fact she no longer lives.",True
@@ -1120,7 +1120,7 @@ Int32,String,PackedBool0
 2001115,"A set of ritual tools used by the Amalj'aa in their summoning rites.",True
 2001116,"A ritual offering the Amalj'aa consign to the flames during their summoning rites.",True
 2001117,"Assorted vegetables harvested from the forest. Though likely edible, their pungent aroma suggests that the taste would likely not be worth the effort required to prepare them for consumption.",True
-2001118,"Stomach juices extracted from a morbol. Exudes a stench that would get the bearer arrested in at least three city–states.",True
+2001118,"Stomach juices extracted from a morbol. Exudes a stench that would get the bearer arrested in at least three city<hex:021F0103>states.",True
 2001119,"Freshly picked treant acorns give off a pleasant arboreal aroma. This one...doesn't.",True
 2001120,"Potent poison extracted from a fallen ziz. A single whiff would suffice to set one's nostril hairs aflame.",True
 2001121,"A slippery substance secreted by a dreamtoad. Known to enhance the hallucinatory effects of milkroot.",True
@@ -1218,7 +1218,7 @@ Int32,String,PackedBool0
 2001213,"Hand-thrown explosives issued by the Maelstrom. Do not expose to naked flames.",True
 2001214,"This fast-acting concoction temporarily imbues strength while suppressing pain, allowing wounded soldiers to make their way to safety.",True
 2001215,"The mutilated corpse of a Maelstrom soldier.",True
-2001216,"A letter penned by Admiral Merlwyb, introducing Yugiri of Doma to the members of Limsa Lominsa's as–yet–unnamed secret fraternity.",True
+2001216,"A letter penned by Admiral Merlwyb, introducing Yugiri of Doma to the members of Limsa Lominsa's as<hex:021F0103>yet<hex:021F0103>unnamed secret fraternity.",True
 2001217,"The magicked heart that once gave strength to a warrior of living stone.",True
 2001218,"The discarded husk of a fully matured doblyn.",True
 2001219,"A fragrant variety of lavender rarely found in the arid lowland regions of Thanalan.",True
@@ -1442,7 +1442,7 @@ Int32,String,PackedBool0
 2001437,"The faint pulse of ancient magicks can be felt within this polished blue gem.",True
 2001438,"The faint pulse of ancient magicks can be felt within this polished yellow gem.",True
 2001439,"Over-aspected aether manifested into solid form.",True
-2001440,"A handwritten missive from A–Ruhn–Senna to his sister Raya–O–Senna.",True
+2001440,"A handwritten missive from A<hex:021F0103>Ruhn<hex:021F0103>Senna to his sister Raya<hex:021F0103>O<hex:021F0103>Senna.",True
 2001441,"Part of a not-so-elaborate plan to draw forth the postmaster moogle from his postmaster spot of hiding.",True
 2001442,"A letter addressed to Storm Sergeant Swygrael of the Red Swallows unit stationed in Camp Overlook.",True
 2001443,"A missive addressed to Guildmaster Wawalago from Ul'dahn merchant Rorojaru.",True
@@ -1719,7 +1719,7 @@ Int32,String,PackedBool0
 2001714,"A leather pouch so full of gil it is nearly bursting at the seams.",True
 2001715,"A rambling ode written over a span of two ales by the bard Aubrenard.",True
 2001716,"An envelope addressed to Geva, guildmaster of the Leatherworkers' Guild in Gridania. “Elde” is printed in small letters in the lower-right corner on the reverse side.",True
-2001717,"Samples of several of Fen–Yll's best-selling items.",True
+2001717,"Samples of several of Fen<hex:021F0103>Yll's best-selling items.",True
 2001718,"Coin provided by Elde as aid to the fledgling Ishgardian Mercantile Guild.",True
 2001719,"This expertly crafted footwear is not for resale.",True
 2001720,"A dark stain situated at the lower end of the weathered rod suggests that it has been someone's tackle of choice for quite a long while.",True
@@ -2097,7 +2097,7 @@ Int32,String,PackedBool0
 2002092,"A liquid secreted by large antlions. Often used for making disinfectants.",True
 2002093,"The putrid smell of this fish should draw any nearby sharks out of hiding.",True
 2002094,"Perhaps one day we will live in a world in which poor unkiu need not be slaughtered for Kojin rituals, but today is not that day.",True
-2002095,"At least, you <hex:021A020203>think<hex:021A020103> it's the Yasakani–no–Magatama. Not that you know for certain what it would look like.",True
+2002095,"At least, you <hex:021A020203>think<hex:021A020103> it's the Yasakani<hex:021F0103>no<hex:021F0103>Magatama. Not that you know for certain what it would look like.",True
 2002096,"Sacred treasure of the Kojin, this jewel is highly coveted by beastmen and kami alike.",True
 2002097,"An adorable cub of the exotic red panda species.",True
 2002098,"Crystalline-glazed stoneware used to store scorching-hot materials such as liquid magma.",True
@@ -2402,7 +2402,7 @@ Int32,String,PackedBool0
 2002397,"Refuse carelessly discarded by summer faire-goers.",True
 2002398,"Whatever this yellowish, congealed mass may have been made from, one thing is certain: it reeks with a vengeance.",True
 2002399,"A pearl with nary a blemish, boasting exquisite coloration upon its lustrous surface.",True
-2002400,"Water sanctified by an oracle of Sui–no–Sato for use in a Kojin rite.",True
+2002400,"Water sanctified by an oracle of Sui<hex:021F0103>no<hex:021F0103>Sato for use in a Kojin rite.",True
 2002401,"Succulent oyster meat prized from their shells, the better to lure gasame with.",True
 2002402,"This carapace taken from a gasame is so hot, it's a wonder the creatures don't cook themselves.",True
 2002403,"Tough and overpoweringly pungent. Gyuki retain these qualities even after being prepared for eating.",True
@@ -2463,7 +2463,7 @@ Int32,String,PackedBool0
 2002458,"Years of tarnish and rust have made this necklace unwearable.",True
 2002459,"Only years of exposure to the elements could account for the weathered state of these earrings.",True
 2002460,"A set of rods crafted at the behest of the royal seneschal that can glow in three colors─red, blue, and yellow.",True
-2002461,"A beautifully gilded and decorated Hatching–tide egg.",True
+2002461,"A beautifully gilded and decorated Hatching<hex:021F0103>tide egg.",True
 2002462,"A fragment of rock that shimmers when exposed to light.",True
 2002463,"This small clump of dark hair seems coarse enough to scour pans.",True
 2002464,"An armful of decorated eggs, reclaimed by the spriggan known as “Riggy.”",True
@@ -3075,7 +3075,7 @@ Int32,String,PackedBool0
 2003070,"One never knows when a small portion of royal Allagan blood might come in handy, which is why G'raha Tia keeps this vessel about his person.",True
 2003071,"Woven from advanced fibers, this sack emits an electromagnetic charge that suppresses automaton function. Just kidding─it's just really, really big.",True
 2003072,"The automaton captive inside in this sack twitches fitfully.",True
-2003073,"Still warm from its brief time spent nestled beneath a broody chicken, this magnificent ovoid specimen is destined for use in the Hatching–tide celebrations.",True
+2003073,"Still warm from its brief time spent nestled beneath a broody chicken, this magnificent ovoid specimen is destined for use in the Hatching<hex:021F0103>tide celebrations.",True
 2003074,"A compact tome for recording testimony and other observations gleaned from your investigation.",True
 2003075,"A map likely revealing the location of treasure. It <hex:021A020203>looks<hex:021A020103> like it should, at any rate.<hex:02100103><hex:02100103>※Level 80 full party (8 players) recommended.",True
 2003076,"A faded map likely revealing the location of a teleportation portal leading to a hidden location...presumably filled with untold riches. It <hex:021A020203>looks<hex:021A020103> like it should, at any rate.<hex:02100103><hex:02100103>※Level 80 full party (8 players) recommended.<hex:02100103>※Average item level 505 recommended.",True

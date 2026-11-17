@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_CHRHDY451_04807_SEQ_00","The House Manderville artisan stands ready to facilitate your augmentation request.<hex:02100103>※Changing classes or jobs will prevent progress during this quest."
-1,"TEXT_CHRHDY451_04807_SEQ_01","You approach the House Manderville artisan to request the perfection of another Manderville weapon. The ever-enthusiastic craftsman assures you that all is in readiness─except, of course, for the three ample samples of crystallite he bids you prepare.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+1,"TEXT_CHRHDY451_04807_SEQ_01","You approach the House Manderville artisan to request the perfection of another Manderville weapon. The ever-enthusiastic craftsman assures you that all is in readiness─except, of course, for the three ample samples of crystallite he bids you prepare.<hex:02100103><hex:02100103>※You may not proceed with a class or job that is different from when you accepted this quest.<hex:02100103><hex:02100103>※Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 2,"TEXT_CHRHDY451_04807_SEQ_02","With your proffered crystallite in hand, the House Manderville artisan calls upon his High Crucible colleagues to assist with the weaponry's final stage of refinement. The result is “bloody immaculate,” as Gerolt himself puts it, and you are encouraged to return (with more crystallite) should you wish to enhance another Mandervillian masterpiece."
 3,"TEXT_CHRHDY451_04807_SEQ_03",""
 4,"TEXT_CHRHDY451_04807_SEQ_04",""
@@ -63,9 +63,9 @@ Int32,String,String
 58,"TEXT_CHRHDY451_04807_SYSTEM_000_009","In order to accept the quest “Positively Mandervillous,” please ensure that <hex:02310CFF05>Item<hex:03E802020203> is either equipped, in your Armoury Chest, or in your inventory."
 59,"TEXT_CHRHDY451_04807_CRAFTER04653_000_010","Might I assume you're here to perfect another weapon? Everything is in readiness...except for the incredibly rare and difficult to acquire meteoritic material, of course."
 60,"TEXT_CHRHDY451_04807_CRAFTER04653_000_011","If you would be so kind as to provide three ample samples of crystallite, then we can proceed with the augmentation of your chosen armament."
-61,"TEXT_CHRHDY451_04807_SYSTEM_000_012","Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+61,"TEXT_CHRHDY451_04807_SYSTEM_000_012","Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 62,"TEXT_CHRHDY451_04807_CRAFTER04653_000_020","Manage to obtain that crystallite yet? Not to rush you, of course─simply occupying this crafting station gives me a sense of fulfillment like no other, so please, take all the time you need!"
-63,"TEXT_CHRHDY451_04807_SYSTEM_000_021","Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz–at–Han."
+63,"TEXT_CHRHDY451_04807_SYSTEM_000_021","Chunks of cosmic crystallite can be obtained from Jubrunnah at the aetheryte plaza in Radz<hex:021F0103>at<hex:021F0103>Han."
 64,"TEXT_CHRHDY451_04807_CRAFTER04653_000_030","I see you've brought the samples─the subtle glow of crystallite is unmistakable! And is that the weaponry you wish us to enhance...? Ahem. The process will be far less uncomfortable for all involved if you were to remove it first."
 65,"TEXT_CHRHDY451_04807_CRAFTER04653_000_031","Are we all set to proceed, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>?"
 66,"TEXT_CHRHDY451_04807_CRAFTER04653_000_040","Splendid, splendid. I shall gather our High Crucible dance troupe to extract the essence, then have Master Gerolt elevate your weaponry to the pinnacle of smithing perfection!"
