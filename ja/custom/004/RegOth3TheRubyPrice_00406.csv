@@ -7,7 +7,7 @@ Int32,String,String
 2,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_001","あなたのことを教えてほしい"
 3,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_002","ここはどんなところだ？"
 4,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_003","キャンセル"
-5,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_010","拙者は、この「紅玉台場」にて、<hex:02100103>ひんがしの国の水際を警固する<hex:024A17FF07E998B2E4BABAFF0DE38195E3818DE38282E3828A03>である！"
+5,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_010","拙者は、この「紅玉台場」にて、<hex:02100103>ひんがしの国の水際を警固する<hex:024A17FF07>防人<hex:FF0D>さきもり<hex:03>である！"
 6,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_011","ひんがしの国はご存知の通り、多くの島から成る島国だ。<hex:02100103>拙者は、その中でも最大の大きさを誇る島、<hex:02100103>「コウシュウ」の出でな。"
 7,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_012","幕府からのお達しを受けて、<hex:02100103>はるばる紅玉海まで、やって来たのだ。<hex:02100103>祖国を守るため、3年の任期を全うするつもりである。"
 8,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_020","ここは、「ひんがしの国」の幕府が設置した台場である！<hex:02100103>台場とは、簡単に言えば海上砲台といったところか。<hex:02100103>見よ、整然と並んだ砲列を！"

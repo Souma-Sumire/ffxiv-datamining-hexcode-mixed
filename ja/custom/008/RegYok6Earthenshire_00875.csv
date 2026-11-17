@@ -11,5 +11,5 @@ Int32,String,String
 6,"TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_003","キャンセル"
 7,"TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_010","ワタシ　モブリン族の世話人まとめる　ターノティク……<hex:02100103>壺匠と間　取り持って　なにかあったらご相談～"
 8,"TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_011","やりすぎ　ゆるすぎ　どっちもあるある～<hex:02100103>程よく職人　刺激する　環境作りを　お手伝い～！"
-9,"TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020","「アースンシャイア」は　モブリン族と　壺匠の　集落ぞな～<hex:02100103>ここの建物　土焼き作った　陶器製～<hex:02100103>だから名前は　<hex:024A2CFF10E999B6E8A3BDE381AEE983BDE5B882FF19E382A2E383BCE382B9E383B3E382B7E383A3E382A4E382A203>！"
+9,"TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020","「アースンシャイア」は　モブリン族と　壺匠の　集落ぞな～<hex:02100103>ここの建物　土焼き作った　陶器製～<hex:02100103>だから名前は　<hex:024A2CFF10>陶製の都市<hex:FF19>アースンシャイア<hex:03>！"
 10,"TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_021","モブリン族と　手先の器用な壺匠<hex:02100103>協力しあって　とてとて最高品質　つぎつぎ量産<hex:02100103>一緒に　がっぽり　大儲け～！"
