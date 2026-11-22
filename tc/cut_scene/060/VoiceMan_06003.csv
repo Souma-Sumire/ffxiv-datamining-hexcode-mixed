@@ -3,7 +3,7 @@
 offset,0,4
 Int32,String,String
 0,"TEXT_VOICEMAN_06003_000010_EMETSELCH","看哪 那些獸被解放了出來"
-1,"TEXT_VOICEMAN_06003_000020_EMETSELCH","它們殺害世人 燒毀城鎮"
+1,"TEXT_VOICEMAN_06003_000020_EMETSELCH","牠們殺害世人 燒毀城鎮"
 2,"TEXT_VOICEMAN_06003_000030_EMETSELCH","我們的明天已化為餘燼"
 3,"TEXT_VOICEMAN_06003_000040_EMETSELCH","毀滅猶如暗影迅速擴張"
 4,"TEXT_VOICEMAN_06003_000050_EMETSELCH","地上萬物皆無處可逃"
@@ -374,7 +374,7 @@ Int32,String,String
 369,"TEXT_VOICEMAN_06003_003580_THANCRED","再說，尤里安傑還在月亮上。<hex:02100103>如果他認為已走投無路，<hex:02100103>會盡一切努力將地面上的生物全轉移過去的。"
 370,"TEXT_VOICEMAN_06003_003590_ALISAIE","沒錯，但在那之前我們會抗爭到底。"
 371,"TEXT_VOICEMAN_06003_003600_YSHTOLA","是啊……<hex:02100103>我們先各自做好力所能及的事情吧。"
-372,"TEXT_VOICEMAN_06003_003610_YSHTOLA","我打算再去聯繫一次瑪托雅老師，<hex:02100103>試試從星海那邊接觸海德林。"
+372,"TEXT_VOICEMAN_06003_003610_YSHTOLA","我打算再去聯繫一次瑪托雅，<hex:02100103>試試從星海那邊接觸海德林。"
 373,"TEXT_VOICEMAN_06003_003620_ALPHINAUD","那我就去拜訪下各國首領吧，<hex:02100103>需要告知他們關於末日的最新情報。"
 374,"TEXT_VOICEMAN_06003_003630_ESTINIEN","有新情報也跟我說一聲。<hex:02100103>就算是一時之策，我也要先盡力消滅眼前的野獸。"
 375,"TEXT_VOICEMAN_06003_003640_ALPHINAUD","不安、恐懼、絕望……<hex:02100103>不論怎麼逃避，我們都無法擺脫掉這些情緒。"

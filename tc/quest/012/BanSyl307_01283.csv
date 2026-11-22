@@ -4,7 +4,7 @@ offset,0,4
 Int32,String,String
 0,"TEXT_BANSYL307_01283_SEQ_00","風精靈暫留地的莫奇希亞很擔心搖籃的情況。"
 1,"TEXT_BANSYL307_01283_SEQ_01","接受了莫奇希亞的委託。拿起搖籃樹旁邊的<hex:02280CFF05>EObj<hex:F61E915C0103>。"
-2,"TEXT_BANSYL307_01283_SEQ_02","將搖籃樹旁邊的<hex:02280CFF05>EObj<hex:F61E915C0103>搬運到風精靈領北部的暫留地風精靈身旁，放置到<hex:02280CFF05>EObj<hex:F61E91BE0103>。<hex:02100103><hex:02100103>※搬運狀態只能維持一段時間。接觸<hex:02280CFF05>EObj<hex:F61E91BD0103>可以延長搬運狀態的持續時間。"
+2,"TEXT_BANSYL307_01283_SEQ_02","將搖籃樹旁邊的<hex:02280CFF05>EObj<hex:F61E915C0103>搬運到風精靈領的暫留地風精靈身旁，放置到<hex:02280CFF05>EObj<hex:F61E91BE0103>。<hex:02100103><hex:02100103>※搬運狀態只能維持一段時間。接觸<hex:02280CFF05>EObj<hex:F61E91BD0103>可以延長搬運狀態的持續時間。"
 3,"TEXT_BANSYL307_01283_SEQ_03","將<hex:02280CFF05>EObj<hex:F61E915C0103>放置到了<hex:02280CFF05>EObj<hex:F61E91BE0103>。向風精靈暫留地的莫奇希亞報告。"
 4,"TEXT_BANSYL307_01283_SEQ_04","向莫奇希亞報告完畢。莫奇希亞的夥伴好像也已經把<hex:02280CFF05>EObj<hex:F61E915C0103>帶回了暫留地。<hex:02280CFF05>EObj<hex:F61E915C0103>將在暫留地風精靈們的保護下成長為好孩子。下次有機會再協助他。"
 5,"TEXT_BANSYL307_01283_SEQ_05","空欄"

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,UpgradeAction,,,BaseAction,ComboTreeLayout,GroupedCell,
+#,UpgradeAction,,,BaseAction,ComboTreeLayout,GroupedCell,Category
 offset,0,10,11,4,8,13,12
 Int32,UInt32,UInt8,UInt8,UInt32,UInt16,PackedBool0,UInt8
 0.0,0,0,0,0,0,False,0

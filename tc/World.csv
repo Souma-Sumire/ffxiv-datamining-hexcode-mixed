@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,InternalName,Name,DataCenter,,UserType,
+#,InternalName,Name,DataCenter,LogicalDataCenter,UserType,
 offset,0,4,8,9,10,11
 Int32,String,String,UInt8,UInt8,UInt8,PackedBool0
 0,"crossworld","Dev",0,0,0,False
