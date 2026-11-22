@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,Text0,,,,,Item,,Category0,Category1,Category2,Category3,,
+#,Text0,Currency2,,,,Currency1,,Category0,Category1,Category2,Category3,,
 offset,21,4,6,19,20,0,8,10,12,14,16,17,18
 Int32,PackedBool0,UInt16,UInt16,Bool,Bool,UInt32,UInt16,UInt16,UInt16,UInt16,UInt8,UInt8,UInt8
 0,False,0,0,False,False,0,0,0,0,0,0,0,1
@@ -20,4 +20,8 @@ Int32,PackedBool0,UInt16,UInt16,Bool,Bool,UInt32,UInt16,UInt16,UInt16,UInt16,UIn
 15,False,0,0,False,False,0,0,0,0,0,0,0,1
 16,True,16,0,True,False,46322,17,18,19,20,1,6,26
 17,True,16,0,True,False,0,0,0,0,0,0,0,1
-18,False,0,0,False,False,0,0,0,0,0,0,0,0
+18,False,16,0,True,False,0,0,0,0,0,0,0,1
+19,False,0,0,False,False,0,0,0,0,0,0,0,1
+20,True,20,0,True,False,46179,23,24,22,21,1,7,26
+21,True,20,0,True,False,0,0,0,0,0,0,0,1
+22,False,0,0,False,False,0,0,0,0,0,0,0,0
